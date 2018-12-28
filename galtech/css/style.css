@@ -82,13 +82,14 @@ img {
 
 }
 
-.fix {
+.fix{
   overflow: hidden;
 }
 
-p {
+p{
   margin: 0 0 15px;
   color: #444;
+    font-size:17px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -221,7 +222,7 @@ div#preloader {
 }
 
 .area-padding {
-  padding: 70px 0px 80px;
+  padding: 70px 0px 10px;
 }
 
 .area-padding-2 {
@@ -273,8 +274,8 @@ div#preloader {
   left: 0;
   width: 100%;
   height: auto;
-  background: rgba(255, 255, 255, 0.7);
-
+/*  background: rgba(255, 255, 255, 0.7);*/
+    background: linear-gradient(to right, rgba(255,250,250,1)5%, #9cc2e2 40%)!important;
   z-index: 9;
 }
 
@@ -381,27 +382,41 @@ div#preloader {
 
 .main-menu .dropdown ul{
 /*  background: #000;*/
-    background: rgba(255, 255, 255, 0.7)
+/*    background: rgba(255, 255, 255, 0.7)
+    */
+        background: linear-gradient(to right, rgba(255,250,250,1)5%, #9cc2e2 40%) !important;
+   
 }
 
 .main-menu .dropdown ul li {
   display: block;
+   
 }
 
 .main-menu ul ul{
            display: none;
+   
+   
 }
+.main-menu ul li ul{
+           line-height: -10px;;
+}
+
 .main-menu ul li:hover>ul{
            display: block;
 }
 .main-menu ul ul ul{
         margin-left: 96%;
         width: 300px;
-        top: 30px;
-        padding: 10px 0px;
-        float:left;  
+        top:20px;
+        float:right;  
         position:absolute;
+    line-height: 50px;
        }
+.main-menu ul ul ul li{
+    
+       }
+
 
 /*--------------------------------*/
 
@@ -2769,6 +2784,140 @@ span.email-notes {
   color: #fff;
   transition: all .5s cubic-bezier(0.4, 0, 1, 1);
 }
+
+/* ==============================
+   parallax styles
+   ============================== */
+.parallax {
+  position: relative;
+  padding: 20px 0;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax:before {
+  content: '';
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background: rgba(16, 37, 46, 0.4);
+  z-index: 0;
+}
+
+.parallax h1 {
+  position: relative;
+  font-size: 40px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.parallax p {
+  position: relative;
+  font-size: 18px;
+  color: #fff;
+  margin-bottom: 28px;
+}
+li{
+    font-size: 15px;padding:3px;
+}
+/* ==============================
+   default-section styles
+   ============================== */
+
+
+.default-section {
+  position: relative;
+}
+
+.default-section h4 {
+  
+  line-height: 32px;
+  margin-bottom: 28px;
+}
+
+.default-section .default-list {
+  position: relative;
+  margin: 15px 0;
+}
+.default.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: url("D:/project-galtech/galtech/img/4.jpg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}-section .default-list li {color: #848484;font-size: 16px;line-height: 30px;}
+.default-section .default-list li i {color: #2261a6;font-size: 14px;margin-right: 12px;}
+
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("D:/project-galtech/galtech/img/4.jpg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ 
+}
+.hero-text h1{
+display: inline-block;
+    text-align: bottom;  
+  color: white;
+}
+
+.title1,.title2{
+    color:white;
+}
+
+
+/*
+@media screen and (min-width: 320px) {
+  .main-menu ul li ul li {
+    width:800px;
+      line-height: 12px;
+      font-size: 5px;
+      
+  }
+}
+@media screen and (min-width: 320px) {
+  .main-menu ul li ul{
+    width:100px;
+      line-height: 12px;
+      font-size: 8px;
+      position:relative;
+  }
+}
+*/
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/

@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
   <meta charset="utf-8">
   <title>galtech</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+ 
   <meta content="" name="keywords">
   <meta content="" name="description">
 
@@ -43,11 +42,148 @@
     License: https://bootstrapmade.com/license/
   ======================================================= -->
 </head>
-<body>
+    <style>
+    * {
+  box-sizing: border-box;
+}
 
-<div class="boxed_wrapper">
+.row > .column {
+  padding: 0 8px;
+}
 
-<header>
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 20%;
+    margin-left: 50px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: black;
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  width: 90%;
+  max-width: 1200px;
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.mySlides {
+  display: none;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+img {
+  margin-bottom: -4px;
+}
+
+.caption-container {
+  text-align: center;
+  background-color: black;
+  padding: 2px 16px;
+  color: white;
+}
+
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+</style>
+<body data-spy="scroll" data-target="#navbar-example">
+
+<!--<div id="preloader"></div>-->
+
+ <header>
     <!-- header-area start -->
     <div id="sticker" class="header-area">
       <div class="container">
@@ -80,15 +216,16 @@
                   <li>
                     <a class="page-scroll" href="about.html">About Us</a>
                   </li>
-                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<span class="caret"></span></a>
+                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                       <li><a href=# >Digital Copiers/Malfunction Devices <span class="fa fa-caret-right"></span></a>
                           <ul class="dropdown" role="menu">
                               <li><a href="b_w_models.html">B/w Models </a></li>
                             <li><a href="color_models.html">Color Models</a></li>
+                              
                           </ul>
                         </li>
-                      <li><a href=# >Multimedia Projectors <span class="fa fa-caret-right"></span></a>
+                      <li><a href=# >Multimedia Projectors<span class="fa fa-caret-right"></span></a>
                         <ul class="dropdown" role="menu">
                               <li><a href="super_short_throw.html">Super Short Throw</a></li>
                             <li><a href="ultra_interactive_short_throw.html">Ultra Interactive Short Throw</a></li>
@@ -99,6 +236,8 @@
                             <li><a href="dlp.html">DLP</a></li>
                             <li><a href="led.html">LED</a></li>
                           </ul></li>
+                        <li><a href="interactive_display.html">Interactive flat panel display</a></li>
+                        <li><a href="wireless.html">Wireless Presentation devices</a></li>
                     </ul> 
                   </li>
                   <li>
@@ -108,7 +247,7 @@
                     <a class="page-scroll" href="news.html">News</a>
                   </li>
 
-                  <li class="dropdown"><a class="page-scroll" href="careers.html">Careers</a>
+                 <li class="dropdown"><a class="page-scroll" href="careers.html">Careers</a>
                   </li>
                   <li>
                     <a class="page-scroll" href="contact.html">Contact</a>
@@ -124,16 +263,14 @@
     </div>
     <!-- header-area end -->
   </header>
-<div class="container-fluid">
-	<div class="row">
-		
-    <div class="bg"><img src="img/4.jpg" class="img-fluid"></div>
 
-    </div>
+
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1>NEWS</h1>
+    
+  </div>
 </div>
-
-
-
 
 <!--1 BEGINS-->
 <section class="default-section">
@@ -143,9 +280,10 @@
                 <div class="text-content">
                    
                     <div class="text">
-                        <p>"Galtech Info Solutions has signed up with HP as Authorised Distributor for the state of Karnataka for their range of A3 Digital Copiers/Multifunction Printers.<br>
-<br>
- We have launched an Advertisement Campaign to Recruit & Onboard Partners Across Karnataka, we have currently onboarded 12 Authorised Dealers for HP A3 Copiers/Multifunction Devices across Karnataka. We welcome you to come & Partner with us to experience the power of HP A3 Multifunction Devices."</p>
+                        <h3>Toshiba TEC Singapore partners with Galtech Infosolutions Bangalore,</h3>
+                        <p>Toshiba TEC Singapore partners with Galtech Infosolutions Bangalore, Dec 23 (UNI) Toshiba Tec Singapore Pvt Ltd announced the partnership with Galtech Infosolutions Pvt Ltd for the sale and service distribution of Toshiba multi-function office peripheral systems, a statement here stated on Sunday. With Galtech's strong business presence and network in the Northern and Southern parts of India, Toshiba TEC and Galtech collaboration is a powerful step forward in the expansion of Toshiba's award winning MFPs penetration across India. "We are very pleased to make this announcement with Galtech," said Takeshi Kimura, General Manager of Toshiba TEC Singapore. "Customers in India are continuously looking for the latest innovations that strengthen operations as well as the financial bottom line. We believe Galtech Infosolutions has all the capabilities and industry expertise to represent Toshiba in providing the highest level of satisfactory office printing requirements to these parts of India." "We will be able to leverage on our very strong dealer network and business expertise so as to bring quality, high speed, brilliant print quality and state-of-the-art MFPs to South & North India. We are confident that this partnership will move us up very quickly to the next level of excellence," said Kishore Krishnan, Managing Director of Galtech Infosolutions Pvt Ltd. </p>
+                        <p><a href="http://www.uniindia.com/toshiba-tec-singapore-partners-with-galtech-infosolutions/business-economy/news/1446638.html#4e5Y8XEPdvcrRqFF.03">www.uniindia.com/toshiba-tec-singapore-partners-with-galtech-infosolutions/business-economy/news/</a>
+</p>
                     </div>
                    
                     
@@ -154,7 +292,7 @@
             </div>
             <div class="col-md-5 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="img/news.jpg" alt="" class="img-responsive">
+                    <img src="img/galtech-info-solutions.jpg" alt="" class="img-responsive">
                 </figure>
             </div>
         </div>
@@ -167,30 +305,69 @@
 
 
 <!--2 BEGINS-->
-<section class="default-section">
- <div style="padding:2em;" class="container well">
-        <div class="row">
-        
-                
-            <div class="col-md-6 col-sm-12 col-xs-12">
-                <figure class="img-box">
-                    <img src="img/news2.jpg" alt="" class="img-responsive">
-                </figure>
-            </div>
-            
-            
-            
-             <div class="col-md-6 col-sm-12 col-xs-12">
-                <figure class="img-box">
-                    <img src="img/news3.jpg" alt="" class="img-responsive">
-                </figure>
-            </div>
-            
-            
-            
-        </div>
+<h2 style="text-align:center">New Arrivals</h2>
+
+<div class="row">
+  <div class="column">
+    <img src="img/toshiba-copier.jpeg" style="width:100%; height:auto;" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="img/toshiba-copier-mfd.jpg" style="width:100%;height:auto;" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="img/Toshiba-eStudio.jpg" style="width:100%;height:auto;" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="img/Toshiba-mfp.jpg" style="width:100%;height:250px;" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+  </div>
+</div>
+
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+
+    <div class="mySlides">
+      <div class="numbertext">1 / 4</div>
+      <img src="img/toshiba-copier.jpeg" style="width:auto; height:50%; margin-left: 350px;">
     </div>
-</section>
+
+    <div class="mySlides">
+      <div class="numbertext">2 / 4</div>
+      <img src="img/toshiba-copier-mfd.jpg" style="width:auto; height:500px;margin-left: 350px;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">3 / 4</div>
+      <img src="img/Toshiba-eStudio.jpg" style="width:50%;height:500px; margin-left: 350px;">
+    </div>
+    
+    <div class="mySlides">
+      <div class="numbertext">4 / 4</div>
+      <img src="img/Toshiba-mfp.jpg" style="width:auto;height:500px;margin-left: 250px;">
+    </div>
+    
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+
+
+    <div class="column">
+      <img class="demo cursor" src="img/toshiba-copier.jpeg" style="width:100%;height:auto;" onclick="currentSlide(1)" alt="Toshiba-copier">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img/toshiba-copier-mfd.jpg" style="width:100%;height:auto;" onclick="currentSlide(2)" alt="Toshiba-copier-MFP">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img/toshiba-eStudio.jpg" style="width:100%;height:auto;" onclick="currentSlide(3)" alt="Toshiba-eStudio">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img/Toshiba-mfp.jpg" style="width:100%;height:250px;" onclick="currentSlide(4)" alt="Toshiba-MFP">
+    </div>
+  </div>
+</div>
 <!--2 END-->
 
 
@@ -348,7 +525,7 @@
                 All the links in the footer should remain intact.
                 You can delete the links only if you purchased the pro version.
                 Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
+                Purchase the pro version with working PToshiba/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
               -->
               Designed by <a href="https://bootstrapmade.com/">Razorbee online solutions</a>
             </div>
@@ -358,7 +535,7 @@
     </div>
   </footer>
 </section>
-    </div>
+  
 
 
 
@@ -381,7 +558,44 @@
 
   <!-- Contact Form JavaScript File -->
   <script src="contactform/contactform.js"></script>
+<script>
+function openModal() {
+  document.getElementById('myModal').style.display = "block";
+}
 
+function closeModal() {
+  document.getElementById('myModal').style.display = "none";
+}
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
   <script src="js/main.js"></script>
 </body>
 
