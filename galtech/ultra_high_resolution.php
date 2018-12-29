@@ -1,138 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>galtech</title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+<?php include('head.php');?>
+<?php include('header.php');?>
 
-  <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
-  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700|Raleway:300,400,400i,500,500i,700,800,900" rel="stylesheet">
-
-  <!-- Bootstrap CSS File -->
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Libraries CSS Files -->
-  <link href="lib/nivo-slider/css/nivo-slider.css" rel="stylesheet">
-  <link href="lib/owlcarousel/owl.carousel.css" rel="stylesheet">
-  <link href="lib/owlcarousel/owl.transitions.css" rel="stylesheet">
-  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="lib/animate/animate.min.css" rel="stylesheet">
-  <link href="lib/venobox/venobox.css" rel="stylesheet">
-
-  <!-- Nivo Slider Theme -->
-  <link href="css/nivo-slider-theme.css" rel="stylesheet">
-
-  <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
-
-  <!-- Responsive Stylesheet File -->
-  <link href="css/responsive.css" rel="stylesheet">
-
-  <!-- =======================================================
-    Theme Name: eBusiness
-    Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
-</head>
-<body data-spy="scroll" data-target="#navbar-example">
-
-<!--<div id="preloader"></div>-->
-
- <header>
-    <!-- header-area start -->
-    <div id="sticker" class="header-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-sm-12">
-
-            <!-- Navigation -->
-            <nav class="navbar navbar-default">
-              <!-- Brand and toggle get grouped for better mobile display -->
-              <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".bs-example-navbar-collapse-1" aria-expanded="false">
-										<span class="sr-only">Toggle navigation</span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-									</button>
-                <!-- Brand -->
-                <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                  
-                
-                  <img class="logoimg" src="img/logo.jpg" alt="galtechlogo" title="galtechlogo" style="">
-								</a>
-              </div>
-              <!-- Collect the nav links, forms, and other content for toggling -->
-              <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
-                <ul class="nav navbar-nav navbar-right">
-                  <li class="active">
-                    <a class="page-scroll" href="index.html">Home</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="about.html">About Us</a>
-                  </li>
-                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products <span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-                      <li><a href=# >Digital Copiers/Malfunction Devices <span class="fa fa-caret-right"></span></a>
-                          <ul class="dropdown" role="menu">
-                              <li><a href="b_w_models.html">B/w Models </a></li>
-                            <li><a href="color_models.html">Color Models</a></li>
-                              
-                          </ul>
-                        </li>
-                      <li><a href=# >Multimedia Projectors<span class="fa fa-caret-right"></span></a>
-                        <ul class="dropdown" role="menu">
-                              <li><a href="super_short_throw.html">Super Short Throw</a></li>
-                            <li><a href="ultra_interactive_short_throw.html">Ultra Interactive Short Throw</a></li>
-                            <li><a href="ultra_short_throw.html">Ultra Short Throw</a></li>
-                            <li><a href="portable_installation.html">Portable &amp; Installation</a></li>
-                            <li><a href="high_resolution_installation.html"> High Resolution / Installation</a></li>
-                            <li><a href="ultra_high_resolution.html">Ultra High Resolution</a></li>
-                            <li><a href="dlp.html">DLP</a></li>
-                            <li><a href="led.html">LED</a></li>
-                          </ul></li>
-                        <li><a href="interactive_display.html">Interactive flat panel display</a></li>
-                        <li><a href="wireless.html">Wireless Presentation devices</a></li>
-                    </ul> 
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="services.html">Services &amp; Solutions</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="news.html">News</a>
-                  </li>
-
-                 <li class="dropdown"><a class="page-scroll" href="careers.html">Careers</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="contact.html">Contact</a>
-                  </li>
-                </ul>
-              </div>
-              <!-- navbar-collapse -->
-            </nav>
-            <!-- END: Navigation -->
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- header-area end -->
-  </header>
-
-
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1>Ultra High Resolution</h1>
+<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
+  -webkit-filter: blur(1px);">
+       <div class="hero-text">
+    <h1 style="color:black">Ultra High Resolution</h1>
     
   </div>
-</div>
+
+    </div>
 
 <section class="blog-section">
 <div class="container">
@@ -171,7 +47,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 360degrees Projection<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI, DVD-I and HDBaseT connectivity</p>
 <a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
-<a href="contact.html" class="btn btn-info">Buy Now</a>
+<a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>
@@ -208,7 +84,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 360degrees Projection<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI, DVD-I and HDBaseT connectivity</p>
 <a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
-<a href="contact.html" class="btn btn-info">Buy Now</a>
+<a href="contact.php" class="btn btn-info">Buy Now</a>
 
 </div>
 </div>
@@ -248,7 +124,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 360degrees Projection<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI, DVD-I and HDBaseT connectivity</p>
 <a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
-<a href="contact.html" class="btn btn-info">Buy Now</a>
+<a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>
@@ -289,7 +165,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 5 Digital Inputs<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Motorized Lens Shift</p>
 <a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
-<a href="contact.html" class="btn btn-info">Buy Now</a>
+<a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>
@@ -322,7 +198,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Status Monitor<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Dual Lamp</p>
 <a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
-<a href="contact.html" class="btn btn-info">Buy Now</a>
+<a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>
@@ -366,7 +242,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 5 Digital Inputs<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Motorized Lens Shift</p>
 <a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
-<a href="contact.html" class="btn btn-info">Buy Now</a>
+<a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>
@@ -401,7 +277,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Hybrid Filter<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI x2</p>
 <a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
-<a href="contact.html" class="btn btn-info">Buy Now</a>
+<a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>
@@ -435,7 +311,7 @@ Ideal for 24hours use and multi-projection using multiple projectors capability
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 5 Digital Inputs:HDBaseT,HDMI x 2, DVI-D x1,3G SDI x 1<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Supports Web Control, PJLink, Creston Roomview and AMX</p>
 <a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
-<a href="contact.html" class="btn btn-info">Buy Now</a>
+<a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>
@@ -454,126 +330,5 @@ Ideal for 24hours use and multi-projection using multiple projectors capability
         </div>
     </div>
 </section>
-
-
-
-
-<section class="consultations sec-padd" style="background:#11252e;">
-    <footer>
-    <div class="footer-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <div class="footer-logo">
-                  <h2><span>galtech</span></h2>
-                </div>
-
-                <p>Galtech Infosolutions Pvt Ltd. is a one stop solution provider for all your Office Automation requirements. The core objective of the company is to deliver Value to all our stakeholders at every stage of our partnership</p>
-                <div class="footer-icons">
-                  <ul>
-                    <li>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-google"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-pinterest"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h4>information</h4>
-                <p>
-                  Contact Us for the further details
-                </p>
-                <div class="footer-contacts">
-                  <p><span>Tel:</span> +91 - 8800537008</p>
-                  <p><span>Email:</span> response@galtechinfo.com</p>
-                  <p><span>Working Hours:</span> 9am-5pm</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h4>Gallery</h4>
-                <div class="flicker-img">
-                  <a href="#"><img src="img/products/cp_ex252ef.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/cp_hd9320gfb.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/cp_tw2505ef.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/cp-dh300_800.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/cp-x5022wngf.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/lp_wx3500gf.jpg" alt=""></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="footer-area-bottom">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="copyright text-center">
-              <p>
-                &copy; Copyright <strong>galtech</strong>. All Rights Reserved
-              </p>
-            </div>
-            <div class="credits">
-              <!--
-                All the links in the footer should remain intact.
-                You can delete the links only if you purchased the pro version.
-                Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
-              -->
-              Designed by <a href="https://bootstrapmade.com/">Razorbee online solutions</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
-</section>
-    </div>
-
-
-
-
-
-<a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-
-  <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/venobox/venobox.min.js"></script>
-  <script src="lib/knob/jquery.knob.js"></script>
-  <script src="lib/wow/wow.min.js"></script>
-  <script src="lib/parallax/parallax.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/nivo-slider/js/jquery.nivo.slider.js" type="text/javascript"></script>
-  <script src="lib/appear/jquery.appear.js"></script>
-  <script src="lib/isotope/isotope.pkgd.min.js"></script>
-
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
-
-  <script src="js/main.js"></script>
-</body>
-
-</html>
+<?php include('footer.php');?>
+<?php include('script.php');?>

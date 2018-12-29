@@ -1,94 +1,5 @@
-<?php
-include 'vars.php';
-  ?>
-<!--End of Tawk.to Script-->
-<body data-spy="scroll" data-target="#navbar-example">
-
-    <div id="preloader"></div>
-    
-  
-
-  <header>
-    <!-- header-area start -->
-    <div id="sticker" class="header-area">
-      <div class="container">
-        <div class=<?php
-include 'vars.php';"row">
-          <div class="col-md-12 col-sm-12">
-
-            <!-- Navigation -->
-            <nav class="navbar navbar-default">
-              <!-- Brand and toggle get grouped for better mobile display -->
-              <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".bs-example-navbar-collapse-1" aria-expanded="false">
-										<span class="sr-only">Toggle navigation</span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-									</button>
-                <!-- Brand -->
-                <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                  
-                
-                  <img class="logoimg" src="img/galtech_logo.png" alt="galtechlogo" title="galtechlogo">
-								</a>
-              </div>
-              <!-- Collect the nav links, forms, and other content for toggling -->
-              <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
-                <ul class="nav navbar-nav navbar-right">
-                  <li class="active">
-                    <a class="page-scroll" href="index.html">Home</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="about.html">About Us</a>
-                  </li>
-                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-                        
-                      <li><a href=# >Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
-                          <ul class="dropdown-menu-bar" role="menu">
-                              <li><a href="b_w_models.html">B/w Models </a></li>
-                            <li><a href="color_models.html">Color Models</a></li>
-                          </ul>
-                        </li>
-                      <li><a href=# >Multimedia Projectors <span class="fa fa-caret-right"></span></a>
-                        <ul class="dropdown-menu-bar" role="menu">
-                              <li><a href="super_short_throw.html">Super Short Throw</a></li>
-                            <li><a href="ultra_interactive_short_throw.html">Ultra Interactive Short Throw</a></li>
-                            <li><a href="ultra_short_throw.html">Ultra Short Throw</a></li>
-                            <li><a href="portable_installation.html">Portable &amp; Installation</a></li>
-                            <li><a href="high_resolution_installation.html"> High Resolution / Installation</a></li>
-                            <li><a href="ultra_high_resolution.html">Ultra High Resolution</a></li>
-                            <li><a href="dlp.html">DLP</a></li>
-                            <li><a href="led.html">LED</a></li>
-                          </ul></li>
-                        <li><a href="interactive_display.html">Interactive flat panel display</a></li>
-                        <li><a href="wireless.html">Wireless Presentation devices</a></li>
-                    </ul> 
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="services.html">Services &amp; Solutions</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="news.html">News</a>
-                  </li>
-
-                  <li class="dropdown"><a class="page-scroll" href="careers.html">Careers</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="contact.html">Contact</a>
-                  </li>
-                </ul>
-              </div>
-              <!-- navbar-collapse -->
-            </nav>
-            <!-- END: Navigation -->
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- header-area end -->
-  </header>
+<?php include('head.php');?>
+  <?php include('header.php');?>
   <!-- header end -->
 
   <!-- Start Slider Area -->
@@ -262,7 +173,7 @@ include 'vars.php';"row">
                   <a class="services-icon">
 											<img src="img/multifunction_printer.png">
 										</a>
-                    <h4><a href="b_w_models.html">A3 Multifunction Devices</a></h4>
+                    <h4><a href="b_w_models.php">A3 Multifunction Devices</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -280,7 +191,7 @@ include 'vars.php';"row">
                       
 											
 										</a>
-                    <h4><a href="color_models.html">A4 Laser Printers/MFDs</a></h4>
+                    <h4><a href="color_models.php">A4 Laser Printers/MFDs</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -297,7 +208,7 @@ include 'vars.php';"row">
                   <a class="services-icon" href="#">
 											<img src="img/powerpoint_projector.png">
 										</a>
-                    <h4><a href="b_w_models.html">Digital Duplicators</a></h4>
+                    <h4><a href="b_w_models.php">Digital Duplicators</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -315,7 +226,7 @@ include 'vars.php';"row">
 											
                       <img src="img/video-projector.png">
 										</a>
-                    <h4><a href="portable_installation.html">Multimedia Projectors &amp; Accessories</a></h4>
+                    <h4><a href="portable_installation.php">Multimedia Projectors &amp; Accessories</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -334,7 +245,7 @@ include 'vars.php';"row">
                       <img src="img/display.png">
 											
 										</a>
-               <h4><a href="interactive_display.html">Large Format Displays</a></h4>
+               <h4><a href="interactive_display.php">Large Format Displays</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -352,7 +263,7 @@ include 'vars.php';"row">
                   <a class="services-icon" href="#">
 											<img src="img/wifi.png">
 										</a>
-                    <h4><a href="wireless.html">Wi-Fi Devices for Wireless display</a></h4>
+                    <h4><a href="wireless.php">Wi-Fi Devices for Wireless display</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -565,117 +476,5 @@ include 'vars.php';"row">
   <!-- Start Footer bottom Area -->
 <!--    https://tawk.to/chat/5c20df4f7a79fc1bddf21be6/default-->
     
-  <footer>
-    <div class="footer-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <div class="footer-logo">
-                  <h2><span>galtech</span></h2>
-                </div>
-
-                <p>Galtech Infosolutions Pvt Ltd. is a one stop solution provider for all your Office Automation requirements. The core objective of the company is to deliver Value to all our stakeholders at every stage of our partnership</p>
-                <div class="footer-icons">
-                  <ul>
-                    <li>
-                      <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
-                    </li>
-                    <li>
-                      <a href="https://twitter.com/login?lang=en"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin"><i class="fa fa-google"></i></a>
-                    </li>
-                    <li>
-                      <a href="https://in.pinterest.com/login/"><i class="fa fa-pinterest"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h4>information</h4>
-                <p>
-                  Contact Us for the further details
-                </p>
-                <div class="footer-contacts">
-                  <p><span>Tel:</span> +91 - 8800537008</p>
-                    <p><span>Email:</span><a href="https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin">response@galtechinfo.com</a></p>
-                  <p><span>Working Hours:</span> 9:30 am-6:00 pm</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h4>Gallery</h4>
-                <div class="flicker-img">
-                  <a href="#"><img src="img/products/cp_ex252ef.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/cp_hd9320gfb.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/cp_tw2505ef.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/cp-dh300_800.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/cp-x5022wngf.jpg" alt=""></a>
-                  <a href="#"><img src="img/products/lp_wx3500gf.jpg" alt=""></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-      
-    <div class="footer-area-bottom">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="copyright text-center">
-              <p>
-                &copy; Copyright <strong>galtech</strong>. All Rights Reserved
-              </p>
-            </div>
-            <div class="credits">
-              <!--
-                All the links in the footer should remain intact.
-                You can delete the links only if you purchased the pro version.
-                Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
-              -->
-              Designed by <a href="http://razorbee.com/">Razorbee online solutions</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
-  
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-
-  <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/venobox/venobox.min.js"></script>
-  <script src="lib/knob/jquery.knob.js"></script>
-  <script src="lib/wow/wow.min.js"></script>
-  <script src="lib/parallax/parallax.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/nivo-slider/js/jquery.nivo.slider.js" type="text/javascript"></script>
-  <script src="lib/appear/jquery.appear.js"></script>
-  <script src="lib/isotope/isotope.pkgd.min.js"></script>
-
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
-
-  <script src="js/main.js"></script>
-    
-</body>
-
-</html>
+  <?php include('footer.php');?>
+  <?php include('script.php');?>
