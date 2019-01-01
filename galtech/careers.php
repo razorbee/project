@@ -1,6 +1,7 @@
 <?php include('head.php');?>
 <?php include('header.php');?>
-
+<style>
+</style>
 
 	<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
@@ -10,7 +11,19 @@
   </div>
 
     </div>
-
+    <div class="row">
+<div class="cssmenu pull-left">  
+    <ul>
+        <li class="active"><a href="#">Careers</a></li>
+<!--
+        <li><a href="#">Daily UI</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Portfolio</a></li>
+-->
+        <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+    </ul>
+</div> 
+</div>
 <section class="default-section">
     <div class="container">
         <div class="row">

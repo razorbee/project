@@ -10,7 +10,16 @@
   </div>
 
     </div>
-
+    <div class="row">
+<div class="cssmenu pull-left">  
+ <ul>
+        <li class="active"><a href="ultra_short_throw.php">Ultra Short Throw</a></li>
+        <li><a href="#">Multimedia Projectors</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+    </ul>
+    </div>
+</div>
 <section class="blog-section">
 <div class="container">
 

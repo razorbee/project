@@ -3,7 +3,7 @@
 <div class="container-fluid">
 	<div class="row">
 		
-    <div class="bg"><img src="img/map.png" class="img-fluid" style="filter: blur(1px);
+    <div class="bg"><img src="img/color_models/background-04-1920x657.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:black">Contact Us</h1>
@@ -12,8 +12,14 @@
 
     </div>
 </div>
-
-
+    <div class="row">
+<div class="cssmenu pull-left">  
+    <ul>
+        <li class="active"><a href="contact.php">Contact Us</a></li>
+        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+    </ul>
+</div> 
+</div>
 
 <section class="contact_details sec-padd2">
     <h2 ></h2>
@@ -113,9 +119,15 @@
 </section>
 <div class="container">
         <div class="row">
-      <div class="col-lg-12">
+      <div class="col-lg-8 col-sm-2">
             <!-- Start Map -->
-            <div class="mapouter"><div class="gmap_canvas"><iframe width="1100" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=galtech%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de/webdesign/">webdesign pureblack.de</a></div><style>.mapouter{text-align:right;height:500px;width:1100px; margin-bottom: 20px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1100px; margin-bottom: 20px;}</style></div>
+            <div class="mapouter"><div class="gmap_canvas"><iframe width="1100" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=galtech%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de/webdesign/">webdesign pureblack.de</a></div>
+                <style>.mapouter{text-align:right;height:500px;width:1100px; margin-bottom: 20px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1100px; margin-bottom: 20px;} @media only screen and (max-width: 320px) {
+  .gmap_canvas{
+    height:100px;
+      width:100px;
+  }
+}</style></div>
             <!-- End Map -->
           </div>
             </div>

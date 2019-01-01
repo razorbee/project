@@ -1,29 +1,46 @@
 <?php include('head.php');?>
 
     <style>
-    * {
-  box-sizing: border-box;
+   
+
+.carousel-wrap {
+  margin: 90px auto;
+  padding: 0 5%;
+  width: 90%;
+  position: relative;
+    
 }
 
-.row > .column {
-  padding: 0 8px;
+/* fix blank or flashing items on carousel */
+.owl-carousel .item {
+  position: relative;
+  z-index: 100; 
+  -webkit-backface-visibility: hidden; 
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+/* end fix */
+.owl-nav > div {
+  margin-top: -26px;
+  position: absolute;
+  top: 50%;
+  color: #cdcbcd;
 }
 
-.column {
-  float: left;
-  width: 20%;
-    margin-left: 50px;
+.owl-nav i {
+  font-size: 52px;
 }
 
+.owl-nav .owl-prev {
+  left: -30px;
+}
 
+.owl-nav .owl-next {
+  right: -30px;
+}
 
-
+        .item>img{
+            height:120px;
+        }
 </style>
 <?php include('header.php');?>
 
@@ -36,6 +53,15 @@
   </div>
 
     </div>
+    <div class="row">
+<div class="cssmenu pull-left">  
+ <ul>
+        <li class="active"><a href="news.php">News</a></li>
+    
+        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+    </ul>
+    </div> 
+</div>
 <h2 style="text-align:center;margin-top:25px;">Recent Collaboration with TOSHIBA</h2>
 <!--1 BEGINS-->
 <section class="default-section">
@@ -69,33 +95,31 @@
 <hr style="height:0em;">
 
 <!--2 BEGINS-->
-<h2 style="text-align:center">Latest News</h2>
 
-<div class="row">
-  <div class="column">
-    <a href="img/color_models/toshiba_press_release1.pdf" target="_blank"><img src="img/color_models/toshiba_logo.jpg" style="width:100%; height:auto;"  class="hover-shadow cursor">
-      </a>
-    <p>3 DECEMBER Toshiba Launches Brand-Building Global Advertising Campaign</p></div>
-  <div class="column">
-      <a href="img/color_models/toshiba_press_release2.pdf" target="_blank"><img src="img/color_models/toshiba_logo.jpg" style="width:100%; height:auto;"  class="hover-shadow cursor"></a>
-    <p>26 SEPTEMBER Toshiba Announces New Global Brand Identity, The "Essence of Toshiba"</p>
-  </div>
-  <div class="column">
-   <a href="img/color_models/toshiba_press_release3.pdf" target="_blank"><img src="img/color_models/toshiba_logo.jpg" style="width:100%; height:auto;"  class="hover-shadow cursor">
-      </a>
-      <p>23 AUGUST Toshiba Carrier Establishes New Joint Venture in India</p>
-  </div>
-  <div class="column">
-    <a href="img/color_models/toshiba_press_release5.pdf" target="_blank"><img src="img/color_models/toshiba_assembly.jpg" style="width:100%; height:auto;"  class="hover-shadow cursor">
-      </a>
-      <p>1 MAY TPSC Expands Water Turbines Assembly line in India</p>
-  </div>
-</div>
-
+<h2 style="text-align:center;">Latest News</h2>
 
 <!--2 END-->
 
-
+<div class="carousel-wrap">
+  <div class="owl-carousel">
+  
+      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release1.pdf" target="_blank">3 DECEMBER Toshiba Launches Brand-Building Global Advertising Campaign</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release2.pdf" target="_blank">26 SEPTEMBER Toshiba Announces New Global Brand Identity, The "Essence of Toshiba"</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release3.pdf" target="_blank">23 AUGUST Toshiba Carrier Establishes New Joint Venture in India</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_assembly.jpg"><p><a href="img/color_models/toshiba_press_release5.pdf" target="_blank">1 MAY TPSC Expands Water Turbines Assembly line in India</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_takashi.jpg"><p><a href="img/color_models/toshiba_press_release6.pdf" target="_blank">
+17 APRIL TOSHIBA Software India appoints Mr Takashi Ishikawa as new MD </a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_nobuaki.png"><p><a href="img/color_models/toshiba_press_release7.pdf" target="_blank">
+2 APRIL Toshiba Corporation Welcomes Nobuaki Kurumatani as Chairman and CEO</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_turbine.png"><p><a href="img/color_models/toshiba_press_release8.pdf" target="_blank">
+11 DECEMBER Toshiba Turbine Shipments Reach Milestone of 200,000MW</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_gas.png"><p><a href="img/color_models/toshiba_press_release9.pdf" target="_blank">
+28 SEPTEMBER Toshiba to Supply Gas Insulated Switchgears and Transformers for the Republic of Iraq.</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_junichi.jpg"><p><a href="img/color_models/toshiba_press_release10.pdf" target="_blank">
+6 JULY Mr. Junichi Kyushima Appointed as Managing Director, Toshiba Johnson Elevators (India) Pvt. Ltd.</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release11.pdf" target="_blank">14 APRIL Suzuki, Toshiba and Denso reached basic agreement to establish joint venture company for production of automotive lithium-ion battery packs in India</a></p></div>
+  </div>
+</div>
 <hr style="height:2em;">
 
 
@@ -166,6 +190,28 @@
         </div>
     </div>
 </section>-->
+<script>$('.owl-carousel').owlCarousel({
+  loop: true,
+  margin: 10,
+  nav: true,
+  navText: [
+    "<i class='fa fa-caret-left'></i>",
+    "<i class='fa fa-caret-right'></i>"
+  ],
+  autoplay: true,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    600: {
+      items: 3
+    },
+    1000: {
+      items: 4
+    }
+  }
+})</script>
 
 <?php include('footer.php');?>
 

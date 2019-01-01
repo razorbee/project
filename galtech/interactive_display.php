@@ -10,9 +10,15 @@
   </div>
 
     </div>
-
-
-
+    <div class="row">
+<div class="cssmenu pull-left">  
+     <ul>
+            <li class="active"><a href="interactive_display.php">Interactive Flat Panel Display</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+        </ul>
+        </div> 
+</div>
 <section class="default-section">
     <div class="container">
         <div class="row">

@@ -10,9 +10,16 @@
   </div>
 
     </div>
-
-
-
+    <div class="row">
+<div class="cssmenu pull-left">  
+ <ul>
+        <li class="active"><a href="b_w_models.php">B/W Models</a></li>
+        <li><a href="#">Digital Copiers/Multifunction Devices</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+    </ul>
+    </div>
+</div>
 <section class="blog-section">
 <div class="container">
 
@@ -279,6 +286,16 @@ inches (A3)<br>
 <h3>Toshiba LaserJet Managed MFP </h3>
 <h4>Product number : E72525dn</h4>
 <div class="text">
+    <p>Optimise your printing environment</p>
+
+<p>
+<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
+<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 60 pages per minute (ppm), letter and A4<br>
+<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 250 sheets, supports media up to 11 x 17
+inches (A3)<br>
+<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 90 ipm/180 ipm (letter and A4)<br>
+<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
+</p>
 <a href="img/products/Brochure1_toshiba.pdf" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>

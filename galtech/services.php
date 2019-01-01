@@ -4,12 +4,19 @@
 	<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
-    <h1 style="color:black">Services</h1>
+    <h1 style="color:black">Services &amp; Solutions</h1>
     
   </div>
 
     </div>
-
+    <div class="row">
+<div class="cssmenu pull-left">  
+ <ul>
+        <li class="active"><a href="services.php">Services &amp; Solutions</a></li>
+     <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+    </ul>
+    </div> 
+</div>
 <section class="default-section">
     <div class="container">
         <div class="row">

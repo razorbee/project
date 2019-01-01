@@ -10,7 +10,16 @@
   </div>
 
     </div>
-
+    <div class="row">
+<div class="cssmenu pull-left">  
+ <ul>
+        <li class="active"><a href="dlp.php">DLP</a></li>
+        <li><a href="#">Multimedia Projectors</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+    </ul>
+    </div> 
+</div>
 <section class="blog-section">
 <div class="container">
 

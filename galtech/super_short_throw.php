@@ -9,8 +9,16 @@
   </div>
 
     </div>
-
-
+    <div class="row">
+<div class="cssmenu pull-left">  
+ <ul>
+        <li class="active"><a href="super_short_throw.php">Super Short Throw</a></li>
+        <li><a href="#">Multimedia Projectors</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+    </ul>
+    </div>
+</div>
 
 <section class="blog-section">
 <div class="container">
@@ -37,7 +45,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode</p>
-<a href="img/products/short_throw.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -66,7 +74,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode</p>
-<a href="img/products/short_throw.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -95,7 +103,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode</p>
-<a href="img/products/short_throw.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -135,7 +143,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Hybrid Air Filter<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability</p>
-<a href="img/products/short_throw.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -166,7 +174,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Hybrid Air Filter<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability</p>
-<a href="img/products/short_throw.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
