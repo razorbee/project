@@ -23,7 +23,7 @@
 										<span class="icon-bar"></span>
 									</button>
                 <!-- Brand -->
-                <a class="navbar-brand page-scroll sticky-logo" href="index.html">
+                <a class="navbar-brand page-scroll sticky-logo" href="index.php">
                   
                 
                   <img class="logoimg" src="img/galtech_logo.png" alt="galtechlogo" title="galtechlogo">
@@ -89,7 +89,7 @@
     <script>
     $(document ).ready(function() {
     var pagename = window.location.href.split("/");
-        debugger;
+      
         pagename  = pagename[pagename.length-1]
  
         if(pagename==""||pagename=="index.php"){

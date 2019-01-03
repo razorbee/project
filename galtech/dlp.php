@@ -10,15 +10,18 @@
   </div>
 
     </div>
+
+<div class="container">
     <div class="row">
-<div class="cssmenu pull-left">  
- <ul>
-        <li class="active"><a href="dlp.php">DLP</a></li>
-        <li><a href="#">Multimedia Projectors</a></li>
-        <li><a href="#">Products</a></li>
-        <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
-    </ul>
-    </div> 
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Multimedia Projectors</a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>DLP</b></div>
+        </div>
+	</div>
 </div>
 <section class="blog-section">
 <div class="container">
@@ -37,7 +40,7 @@
 <h4>DLP</h4>
 <div class="text">
 <p>DLP Technology, 3,000 ANSI Lumens, Full HD</p>
-
+  <div class="text-box">
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DLP Technology<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 3,000 ANSI Lumens<br>
@@ -46,6 +49,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Devices Connectivity<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Brilliant Color Technology<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wall Color Correction</p>
+    </div>
 <a href="#" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 
@@ -69,6 +73,7 @@
 <h4>DLP</h4>
 <div class="text">
 <p>3,000 ANSI Lumens, XGA</p>
+  <div class="text-box">  
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 10,000:1 Contrast Ratio<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 4,500 hours Lamp Life (Standard Mode)<br>
@@ -80,6 +85,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> ImageCare Technology<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco and Saver Modes<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wall Color Correction</p>
+    </div>
 <a href="#" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -102,6 +108,7 @@
 <h4>DLP</h4>
 <div class="text">
 <p>3,500 ANSI Lumens, XGA</p>
+      <div class="text-box">
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 10,000:1 Contrast Ratio<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 3,500 hours Lamp Life (Standard Mode)<br>
@@ -114,6 +121,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Image Care Technology<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco and Saver Modes
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wall Color Correction</p>
+    </div>
 <a href="#" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>

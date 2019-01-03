@@ -10,15 +10,17 @@
   </div>
 
     </div>
+    <div class="container">
     <div class="row">
-<div class="cssmenu pull-left">  
- <ul>
-        <li class="active"><a href="high_resolution_installation.php">High Resolution / Installation</a></li>
-        <li><a href="#">Multimedia Projectors</a></li>
-        <li><a href="#">Products</a></li>
-        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-    </ul>
-    </div>  
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Multimedia Projector</a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>High Resolution / Installation</b></div>
+        </div>
+	</div>
 </div>
 <section class="blog-section">
 <div class="container">
@@ -36,6 +38,7 @@
 <h3>CP-X8150GF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+    <div class="text-boxbase">
 <p>High Resolution / Installation<br>
 5,000 ANSI Lumens, XGA, Wireless Ready</p>
 
@@ -50,6 +53,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
+    </div>
 <a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -71,10 +75,11 @@
 <h3>CP-X8160YGF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>High Resolution / Installation<br>
 6,000 ANSI Lumens, XGA, Wireless Ready (Special 360 Degree installation)</p>
 <p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 6,000 ANSI lumens<br>
+<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 6,000 ANSI lumens<br>kjhkuhki
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> XGA High Resolution<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Superior Lens Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Variety of Lens Options<br>
@@ -82,6 +87,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Pefect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
+    </div>
 <a href="img/products/cpwx8240cpx8160.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -104,6 +110,7 @@
 <h3>CP-X8170GF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>High Resolution / Installation<br>
 7,000 ANSI Lumens, XGA, Wireless Ready (Special 360 Degree installation)</p>
 <p>
@@ -117,6 +124,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Smart Device Control<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
+    </div>
 <a href="img/products/cpwx8240cpx8170.pdf" target="_blank" class="btn btn-info">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -143,6 +151,7 @@
 <h3>CP-X8800WGF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>High Resolution / Installation<br>
 <strong style="color:#d00;">*New</strong><br>
 8,000 ANSI Lumens, XGA 
@@ -159,6 +168,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
+    </div>
 <a href="img/products/cp_x8800wgf.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -178,6 +188,7 @@
 <h3>CP-WX8240YGF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>High Resolution / Installation<br>
 4,000 ANSI Lumens, WXGA, Wireless Ready</p>
 <p>
@@ -189,6 +200,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
+    </div>
 <a href="img/products/cp-wx8240ygf.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -222,6 +234,7 @@
 <h4>High Resolution / Installation</h4>
 
 <div class="text">
+     <div class="text-boxbase">
 <p>7,500 ANSI Lumens, WXGA </p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDCR (High Dynamic Contrast Range)
@@ -234,6 +247,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Picture Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Installation
 </p>
+    </div>
 <a href="img/products/cp_wx8750wgf.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -257,6 +271,7 @@
 <h3>CP-WU8450</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>5,000 ANSI Lumens, WUXGA, Wireless Ready (Special 360 Degree Installation)</p>
 
 <p>
@@ -270,6 +285,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
+    </div>
 <a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -290,6 +306,7 @@
 <h3>CP-WU8461GF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>6,000 ANSI Lumens, WUXGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 2.0x Zoom Lens<br>
@@ -301,6 +318,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDCR (High Dynamic Contrast Range)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> High Efficiency Optical System</p>
+    </div>
 <a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -322,6 +340,7 @@
 <h3>CP-WU8600WGF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>6,000 ANSI Lumens, WUXGA</p> 
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDCR (High Dynamic Contrast Range)<br>
@@ -333,6 +352,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Motorized Lens Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Picture Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Installation</p>
+    </div>
 <a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -354,6 +374,7 @@
 <h3>CP-WX8650WGF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>6,500 ANSI Lumens, WXGA </p> 
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDCR (High Dynamic Contrast Range)<br>
@@ -366,6 +387,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Picture Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Installation<br>
  </p>
+    </div>
 <a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -386,6 +408,7 @@
 <h3>CP-WU8700WGF</h3>
 <h4>High Resolution / Installation</h4>
 <div class="text">
+     <div class="text-boxbase">
 <p>7,000 ANSI Lumens, WXGA </p> 
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDCR (High Dynamic Contrast Range)<br>
@@ -398,6 +421,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Picture Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Installation<br>
  </p>
+    </div>
 <a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>

@@ -1,22 +1,24 @@
 <?php include('head.php');?>
 <?php include('header.php');?>	
 <div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
-  -webkit-filter: blur(1px);">
+  -webkit-filter: blur(1px);height:300px;">
        <div class="hero-text">
-    <h1>About Us</h1>
+    <h1 style="color:#000000;">About Us</h1>
     
   </div>
 
     </div>
-
+ <div class="container">
     <div class="row">
-<div class="cssmenu pull-left">  
-    <ul>
-        <li class="active"><a href="about.php">About Us</a></li>
-        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-    </ul>
-</div> 
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>About Us</b></div>
+        </div>
+	</div>
 </div>
+
 <section class="default-section">
     <div class="container">
         <div class="row">

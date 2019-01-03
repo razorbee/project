@@ -9,13 +9,16 @@
   </div>
 
     </div>
+<div class="container">
     <div class="row">
-<div class="cssmenu pull-left">  
- <ul>
-        <li class="active"><a href="services.php">Services &amp; Solutions</a></li>
-     <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-    </ul>
-    </div> 
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+        
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>Services &amp; Solutions</b></div>
+        </div>
+	</div>
 </div>
 <section class="default-section">
     <div class="container">

@@ -10,15 +10,18 @@
   </div>
 
     </div>
+    
+   <div class="container">
     <div class="row">
-<div class="cssmenu pull-left">  
- <ul>
-        <li class="active"><a href="portable_installation.php">Portable &amp; Installation</a></li>
-        <li><a href="#">Multimedia Projectors</a></li>
-        <li><a href="#">Products</a></li>
-        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-    </ul>
-    </div>  
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Multimedia Projector</a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>Portable &amp; Installation</b></div>
+        </div>
+	</div>
 </div>
 <section class="blog-section">
 <div class="container">
@@ -36,6 +39,7 @@
 <h3>CP-RX250</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+    <div class="text-box">
 <p>2,700 ANSI Lumens, XGA</p>
 
 <p>
@@ -48,6 +52,7 @@
 <i style="color:#68a4e2; visibility:hidden;" class="fa fa-caret-right"></i> Eco Mode, Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> x1.2 Optical Zoom<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Vertical Keystone</p>
+    </div>
 <a href="img/products/cp_rx250.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -69,6 +74,7 @@
 <h3>ED-27X</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+    <div class="text-box">
 <p>2,700 ANSI Lumens, XGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 215W UHO Lamp<br>
@@ -80,6 +86,7 @@
 <i style="color:#68a4e2; visibility:hidden;" class="fa fa-caret-right"></i> Eco Mode, Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> x1.2 Optical Zoom<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Vertical Keystone</p>
+    </div>
 <a href="img/products/ed_27x.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -100,12 +107,10 @@
 <div class="lower-content">
 <h3>ED-X32</h3>
 <h4>Portable & Installation
-
 </h4>
 <div class="text">
 <p>3,200 ANSI Lumens, XGA</p>
 <p>
-
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Full Connectivity<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Quick Start & Instant Off<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Auto Vertical Keystone<br>
@@ -114,7 +119,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Low Level Noise - 29dB<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 7W Audio Output<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Whiteboard & Blackboard Mode<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Anti-Theft Features: Pin-Lock, MyScreen Locl,<br> Transition Detector, 
+<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Anti-Theft Features: Pin-Lock, MyScreen Locl,Transition Detector, 
 Security Bar, Kensington Lock</p>
 <a href="#" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
@@ -237,6 +242,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-EW302NEF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+    <div class="text-boxbar">
 <p>3,000 ANSI Lumens, WXGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Saver Mode<br>
@@ -249,6 +255,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Audio Pass Through<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Terminal<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Direct On/Off</p>
+    </div>
 <a href="#" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -270,6 +277,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-X2542WNEF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p>2,700 ANSI Lumens, XGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 10,000:1 High Contrast Ratio<br>
@@ -286,6 +294,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Security Pin Lock System<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Mic Input and 16W Internal Speakers<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Direct On/Off</p>
+    </div>
 <a href="#" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -307,6 +316,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-X3042WNEF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p>3,200 ANSI Lumens, WXGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 10,000:1 High Contrast Ratio<br>
@@ -319,11 +329,11 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> USB Display<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Compatiable with AMX Device Discovery & Creston Room View<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Network Bridge <br>
-
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Saver & Intelligent Eco Mode, Auto Eco Mode <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Security Pin Lock System<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Mic Input and 16W Internal Speakers<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Direct On/Off</p>
+    </div>
 <a href="#" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -344,6 +354,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-X4042WNEF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p>4,200 ANSI Lumens, XGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 10,000:1 High Contrast Ratio<br>
@@ -360,6 +371,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Security Pin Lock System<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Mic Input and 16W Internal Speakers<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Direct On/Off</p>
+    </div>
 <a href="img/cp_wx3541wnef.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -381,6 +393,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-WX3541WNEF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p>3,700 ANSI Lumens, WXGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 3,700 ANSI Lumens<br>
@@ -397,6 +410,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 2 HDMI Inputs</p>
+    </div>
 <a href="img/products/cp_wx3541wnef.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -416,6 +430,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-X5022WNGF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p><strong>DGS&D Model</strong><br>
 
 5,000 ANSI Lumens, XGA</p>
@@ -426,6 +441,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Auto Eco Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Manual Optical Lens Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Connectivity Easy Maintenance</p>
+    </div>
 <a href="img/products/cp-x5022wngf.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -449,6 +465,7 @@ Security Bar, Kensington Lock</p>
 </h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p>4,000 ANSI Lumens, WXGA, Instant Stack Ready</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 4,000 ANSI Lumens<br>
@@ -459,6 +476,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Auto Eco Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Manual Optical Lens Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Connectivity Easy Maintenance</p>
+    </div>
 <a href="img/products/cp-x5022wngf.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -479,6 +497,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-X5550GF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p>5,800 ANSI Lumens, XGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDCR (Hgh Dynamic Contrast Range)<br>
@@ -497,6 +516,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> PbyP / PinP <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Scheduling Setting</p>
+    </div>
 <a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -518,6 +538,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-WX5500GF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p>5,200 ANSI Lumens, WXGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDCR (Hgh Dynamic Contrast Range)<br>
@@ -536,6 +557,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> PbyP / PinP <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Scheduling Setting</p>
+    </div>
 <a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -555,6 +577,7 @@ Security Bar, Kensington Lock</p>
 <h3>CP-WU5500GF</h3>
 <h4>Portable & Installation</h4>
 <div class="text">
+     <div class="text-boxbar">
 <p>5,200 ANSI Lumens, WXGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDCR (Hgh Dynamic Contrast Range)<br>
@@ -572,7 +595,8 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> PbyP / PinP <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Scheduling Setting</p>
+<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Scheduling Setting<br/></p>
+    </div>
 <a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>

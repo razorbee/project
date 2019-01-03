@@ -10,15 +10,17 @@
   </div>
 
     </div>
+<div class="container">
     <div class="row">
-<div class="cssmenu pull-left">  
- <ul>
-        <li class="active"><a href="ultra_interactive_short_throw.php">Ultra Interactive Short Throw</a></li>
-        <li><a href="#">Multimedia Projectors</a></li>
-        <li><a href="#">Products</a></li>
-        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-    </ul>
-    </div>
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Multimedia Projector</a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>Ultra Interactive Short Throw</b></div>
+        </div>
+	</div>
 </div>
 <section class="blog-section">
 <div class="container">
@@ -36,6 +38,7 @@
 <h3>CP-TW2505EF</h3>
 <h4>Ultra Interactive Short Throw</h4>
 <div class="text">
+    <div class="text-boxbar">
 <p>2,700 ANSI Lumens, WXGA</p>
 
 <p>
@@ -51,6 +54,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Network Features<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligient Eco Mode Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> High Reliability and Stability</p>
+    </div>
 <a href="img/products/cp_tw2505ef.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -72,6 +76,7 @@
 <h3>CP-TW3005EF</h3>
 <h4>Ultra Interactive Short Throw</h4>
 <div class="text">
+    <div class="text-boxbar">
 <p>3,300 ANSI Lumens, WXGA</p>
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 3,300 ANSI Lumens, WXGA<br>
@@ -87,6 +92,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligient Eco Mode Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> High Reliability and Stability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode</p>
+    </div>
 <a href="img/products/cp_tw2505ef.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>

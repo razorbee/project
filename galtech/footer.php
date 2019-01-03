@@ -51,6 +51,7 @@
             <div class="footer-content">
               <div class="footer-head">
                 <h4>Gallery</h4>
+<!--
                 <div class="flicker-img">
                   <a href="#"><img src="img/products/cp_ex252ef.jpg" alt=""></a>
                   <a href="#"><img src="img/products/cp_hd9320gfb.jpg" alt=""></a>
@@ -59,6 +60,91 @@
                   <a href="#"><img src="img/products/cp-x5022wngf.jpg" alt=""></a>
                   <a href="#"><img src="img/products/lp_wx3500gf.jpg" alt=""></a>
                 </div>
+-->
+                  <div class="row">
+  <div class="column">
+    <img src="img/products/cp_ex252ef.jpg" style="width:100%; height:100%;" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="img/products/cp_hd9320gfb.jpg" style="width:100%; height:100%;" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="img/products/cp_tw2505ef.jpg" style="width:100%; height:100%;" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="img/products/cp-dh300_800.jpg" style="width:100%; height:100%;" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+  </div>
+        <div class="column">
+    <img src="img/products/cp-x5022wngf.jpg" style="width:100%; height:100%;" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="img/products/lp_wx3500gf.jpg" style="width:100%; height:100%;" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+  </div>              
+</div>
+
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+    <h1 style="color:#ffffff;text-align:center;">Gallery</h1>
+  <div class="modal-content">
+
+    <div class="mySlides">
+      <div class="numbertext">1 / 6</div>
+      <img src="img/products/cp_ex252ef.jpg" style="width:100%; height:50%;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">2 / 6</div>
+      <img src="img/products/cp_hd9320gfb.jpg" style="width:100%; height:50%;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">3 / 6</div>
+      <img src="img/products/cp_tw2505ef.jpg" style="width:100%; height:50%">
+    </div>
+    
+    <div class="mySlides">
+      <div class="numbertext">4 / 6</div>
+      <img src="img/products/cp-dh300_800.jpg" style="width:100%; height:50%;">
+    </div>
+      
+      <div class="mySlides">
+      <div class="numbertext">5 / 6</div>
+      <img src="img/products/cp-dh300_800.jpg" style="width:100%; height:50%;">
+    </div>
+      
+      <div class="mySlides">
+      <div class="numbertext">6 / 6</div>
+      <img src="img/products/cp-dh300_800.jpg" style="width:100%; height:50%;">
+    </div>
+    
+    <a class="prev" onclick="plusSlides(-1)" style="background-color:#000000;">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)" style="background-color:#000000;">&#10095;</a>
+
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+
+
+    <div class="column">
+      <img class="demo cursor" src="img/products/cp_ex252ef.jpg" style="width:100%; height:50%;" onclick="currentSlide(1)" alt="Projector1">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img/products/cp_hd9320gfb.jpg" style="width:100%; height:50%;" onclick="currentSlide(2)" alt="Projector2">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img/products/cp_tw2505ef.jpg" style="width:100%; height:50%;" onclick="currentSlide(3)" alt="Projector3">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="img/products/cp-dh300_800.jpg" style="width:100%; height:50%;" onclick="currentSlide(4)" alt="Projector4">
+    </div>
+      <div class="column">
+      <img class="demo cursor" src="img/products/cp-dh300_800.jpg" style="width:100%; height:50%;" onclick="currentSlide(4)" alt="Projector4">
+    </div>
+      <div class="column">
+      <img class="demo cursor" src="img/products/cp-dh300_800.jpg" style="width:100%; height:50%;" onclick="currentSlide(4)" alt="Projector4">
+    </div>
+  </div>
+</div>
               </div>
             </div>
           </div>

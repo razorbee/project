@@ -4,15 +4,16 @@
 
   <!-- Start Slider Area -->
   <div id="home" class="slider-area">
-    <div class="bend niceties preview-2">
-      <div id="ensign-nivoslider" class="slides">
-        <img class="bannerimage" src="img/productsbanner.jpg" alt="" title="#slider-direction-1" />
-        <img class="bannerimage" src="img/banner3.png" alt="" title="#slider-direction-2" />
-        <img class="bannerimage" src="img/projectorbanner.png" alt="" title="#slider-direction-3" />
+    <div class="bend niceties preview-2" >
+      <div id="ensign-nivoslider" class="slides" style="height:750px;">
+        <img class="bannerimage" src="img/banner5.jpg" alt="" title="#slider-direction-1" />
+        <img class="bannerimage" src="img/banner2.jpg" alt="" title="#slider-direction-2" />
+        <img class="bannerimage" src="img/banner3.png" alt="" title="#slider-direction-3" />
       </div>
 
       <!-- direction 1 -->
-      <div id="slider-direction-1" class="slider-direction slider-one">
+   
+     <div id="slider-direction-1" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -126,6 +127,8 @@
               <p>
                 Galtech Info solutions Pvt Ltd. is a one stop solution provider for all your Office Automation requirements. The core objective of the company is to deliver Value to all our stakeholders at every stage of our partnership.
               </p>
+                <a class="ready-btn right-btn page-scroll" href="about.php">Who we are?</a>
+<!--
               <ul>
                 <li>
                   <i class="fa fa-check"></i> Value to our Customers & Partners with high level of Customer Experience & Satisfaction
@@ -143,6 +146,7 @@
                   <i class="fa fa-check"></i> Value to our employees by providing a world class working environment.
                 </li>
               </ul>
+-->
             </div>
           </div>
         </div>
@@ -373,7 +377,7 @@
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
           <div class="suscribe-text text-center">
             <h3>Welcome to our Galtech</h3>
-            <a class="sus-btn" href="about.html">Explore us</a>
+            <a class="sus-btn" href="about.php">Explore us</a>
           </div>
         </div>
       </div>
@@ -435,7 +439,14 @@
           <!-- Start Google Map -->
           <div class="col-md-6 col-sm-6 col-xs-12">
             <!-- Start Map -->
-            <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=galtech%20infosolutions%20pvt%20ltd&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de/webdesign/">webdesign pureblack gmbh</a></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:500px;}</style></div>
+            <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=galtech%20infosolutions%20pvt%20ltd&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de/webdesign/">webdesign pureblack gmbh</a></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:500px;}
+                @media all and (max-width: 700px) and (min-width: 300px) {
+ 
+                    .gmap_canvas {
+   width:335px!important;
+  }
+}
+                </style></div>
             <!-- End Map -->
           </div>
           <!-- End Google Map -->

@@ -53,14 +53,16 @@
   </div>
 
     </div>
+
+<div class="container">
     <div class="row">
-<div class="cssmenu pull-left">  
- <ul>
-        <li class="active"><a href="news.php">News</a></li>
-    
-        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-    </ul>
-    </div> 
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+          <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>News</b></div>
+        </div>
+	</div>
 </div>
 <h2 style="text-align:center;margin-top:25px;">Recent Collaboration with TOSHIBA</h2>
 <!--1 BEGINS-->

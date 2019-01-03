@@ -10,15 +10,18 @@
   </div>
 
     </div>
+<div class="container">
     <div class="row">
-<div class="cssmenu pull-left">  
-     <ul>
-            <li class="active"><a href="interactive_display.php">Interactive Flat Panel Display</a></li>
-            <li><a href="#">Products</a></li>
-            <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-        </ul>
-        </div> 
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
+          <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>Interactive Flat Panel Display</b></div>
+        </div>
+	</div>
 </div>
+
 <section class="default-section">
     <div class="container">
         <div class="row">

@@ -9,17 +9,19 @@
   </div>
 
     </div>
-    <div class="row">
-<div class="cssmenu pull-left">  
- <ul>
-        <li class="active"><a href="b_w_models.php">Color Models</a></li>
-        <li><a href="#">Digital Copiers/Multifunction Devices</a></li>
-        <li><a href="#">Products</a></li>
-        <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
-    </ul>
-    </div>
-</div>
 
+<div class="container">
+    <div class="row">
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Digital Copiers/Multifunction Devices</a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>Color Models</b></div>
+        </div>
+	</div>
+</div>
 <section class="blog-section">
 <div class="container">
 
@@ -40,9 +42,11 @@
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed MFP E87640</h3>
 <h4>Product number : Z8Z12A</h4>
+    
 <div class="text">
+  
 <p>Optimise your printing environment</p>
-
+  <div class="text-box">
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 40 pages per minute (ppm), letter and A4<br>
@@ -50,12 +54,14 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 90 ipm/180 ipm (letter and A4)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
+        </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
+
 </div>
 </div>
 </div>
-</div>
+    </div>
 <!--4 ENDS-->  
 
             
@@ -70,7 +76,7 @@
 <h4>Product number : Z8Z14A</h4>
 <div class="text">
 <p>Optimise your printing environment</p>
-
+<div class="text-box">
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 50 pages per minute (ppm), letter and A4<br>
@@ -78,6 +84,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 90 ipm/180 ipm (letter and A4)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®)<br>
 </p>
+    </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -99,7 +106,7 @@
 <h4>Product number : Z8Z16A</h4>
 <div class="text">
 <p>Optimise your printing environment</p>
-
+<div class="text-box">
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 60 pages per minute (ppm), letter and A4<br>
@@ -107,6 +114,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 90 ipm/180 ipm (letter and A4)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
+    </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -135,7 +143,7 @@
 <h4>Product number : Z8Z00A</h4>
 <div class="text">
 <p>Optimise your printing environment</p>
-
+<div class="text-box">
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 22 pages per minute (ppm), letter and A4<br>
@@ -143,6 +151,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 80 ipm/160 ipm (letter and A4)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
+    </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -163,7 +172,7 @@
 <h4>Product number : Z8Z02A</h4>
 <div class="text">
 <p>Optimise your printing environment</p>
-
+<div class="text-box">
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 25 pages per minute (ppm), letter and A4<br>
@@ -171,6 +180,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 80 ipm/160 ipm (letter and A4)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
+    </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -193,7 +203,7 @@
 <h4>Product number : Z8Z04A</h4>
 <div class="text">
 <p>Optimise your printing environment</p>
-
+<div class="text-box">
 <p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 30 pages per minute (ppm), letter and A4<br>
@@ -201,6 +211,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 80 ipm/160 ipm (letter and A4)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
+    </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
