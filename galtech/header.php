@@ -1,11 +1,6 @@
-  <?php include('script.php');?>
+
 <body data-spy="scroll" data-target="#navbar-example">
-
-    
-    
-  
-
-  <header>
+<header>
     <!-- header-area start -->
     <div id="sticker" class="header-area">
       <div class="container">
@@ -41,13 +36,13 @@
                   <li id="producttab" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         
-                      <li><a href=# >Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
+                      <li><a href=# class="dropdown-toggle" data-toggle="dropdown">Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
                           <ul class="dropdown-menu-bar" role="menu">
                               <li id="b/wmodeltab"><a href="b_w_models.php">B/w Models </a></li>
                             <li id="colormodeltab"><a href="color_models.php">Color Models</a></li>
                           </ul>
                         </li>
-                      <li><a href=# >Multimedia Projectors <span class="fa fa-caret-right"></span></a>
+                      <li><a href=# class="dropdown-toggle" data-toggle="dropdown">Multimedia Projectors <span class="fa fa-caret-right"></span></a>
                         <ul class="dropdown-menu-bar" role="menu">
                               <li><a href="super_short_throw.php">Super Short Throw</a></li>
                             <li><a href="ultra_interactive_short_throw.php">Ultra Interactive Short Throw</a></li>
@@ -86,37 +81,6 @@
     <!-- header-area end -->
   </header>
   <!-- header end -->
-    <script>
-    $(document ).ready(function() {
-    var pagename = window.location.href.split("/");
-      
-        pagename  = pagename[pagename.length-1]
- 
-        if(pagename==""||pagename=="index.php"){
-            $("#hometab").addClass("active");
-        } else if(pagename=="about.php"){
-            $("#aboutustab").addClass("active");
-        }
-        else if(pagename=="about.php"){
-            $("#aboutustab").addClass("active");
-        }
-        else if(pagename=="services.php"){
-            $("#servicetab").addClass("active");
-        }
-        else if(pagename=="news.php"){
-            $("#newstab").addClass("active");
-        }
-        else if(pagename=="careers.php"){
-            $("#careertab").addClass("active");
-        }
-        else if(pagename=="contact.php"){
-            $("#contacttab").addClass("active");
-        }
-    else if(pagename=="b_w_models.php"||pagename=="color_models.php"||pagename=="super_short_throw.php"||pagename=="ultra_interactive_short_throw.php"||pagename=="ultra_short_throw.php"||pagename=="portable_installation.php"||pagename=="high_resolution_installation.php"||pagename=="ultra_high_resolution.php"||pagename=="dlp.php"||pagename=="led.php"||pagename=="interactive_display.php"||pagename=="wireless.php"){
-            $("#producttab").addClass("active");
-        }
-        
-});
-    </script>
+    
     
     

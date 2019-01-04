@@ -13,8 +13,8 @@
   <script src="lib/appear/jquery.appear.js"></script>
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
   <script src="contactform/contactform.js"></script>
-
-  <script src="js/main.js"></script>
+<script src="js/main.js"></script>
+  
 <script>
 function openModal() {
   document.getElementById('myModal').style.display = "block";
@@ -53,8 +53,84 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
-  
+  <script>
+    $(document ).ready(function() {
+    var pagename = window.location.href.split("/");
+      
+        pagename  = pagename[pagename.length-1]
+ 
+        if(pagename==""||pagename=="index.php"){
+            $("#hometab").addClass("active");
+        } else if(pagename=="about.php"){
+            $("#aboutustab").addClass("active");
+        }
+        else if(pagename=="about.php"){
+            $("#aboutustab").addClass("active");
+        }
+        else if(pagename=="services.php"){
+            $("#servicetab").addClass("active");
+        }
+        else if(pagename=="news.php"){
+            $("#newstab").addClass("active");
+        }
+        else if(pagename=="careers.php"){
+            $("#careertab").addClass("active");
+        }
+        else if(pagename=="contact.php"){
+            $("#contacttab").addClass("active");
+        }
+    else if(pagename=="b_w_models.php"||pagename=="color_models.php"||pagename=="super_short_throw.php"||pagename=="ultra_interactive_short_throw.php"||pagename=="ultra_short_throw.php"||pagename=="portable_installation.php"||pagename=="high_resolution_installation.php"||pagename=="ultra_high_resolution.php"||pagename=="dlp.php"||pagename=="led.php"||pagename=="interactive_display.php"||pagename=="wireless.php"){
+            $("#producttab").addClass("active");
+        }
+        
+});
+</script>
+      <script>
+      jQuery(document).ready(function() {
+		
+	jQuery("#producttab").click(function() {
+		
+		jQuery(".dropdown-menu").slideToggle();
+	});
+	
+});
 
+      $('.owl-carousel').owlCarousel({
+  loop: true,
+  margin: 10,
+  nav: true,
+  navText: [
+    "<i class='fa fa-caret-left'></i>",
+    "<i class='fa fa-caret-right'></i>"
+  ],
+  autoplay: true,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    600: {
+      items: 3
+    },
+    1000: {
+      items: 4
+    }
+  }
+})
+    </script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c20df4f7a79fc1bddf21be6/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </body>
 
 </html>

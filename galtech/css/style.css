@@ -3182,21 +3182,21 @@ img.hover-shadow {
 .contact-map{
     margin-bottom: 100px!important;
 }
-@media screen and (min-width: 300px) and (max-width: 600px){
+@media screen and (min-width: 300px) and (max-width: 1000px){
 .hero-text {
   text-align: right;
-padding:-25px;
-  top: 30%;
+padding:-15px;
+  top: 40%;
  transform: translate(-50%, -50%);
   color: #000000;
-  width:500px;   
+  width:100%;   
 }
 .hero-text h1 {
   font-size: 20px;
     margin-left: 500px!important;
     text-align: right;
-    margin-top: -67px;
-    
+    margin-top: -20px;
+ 
 }
  .custom-breadcrumb{
     list-style:none;
@@ -3320,10 +3320,27 @@ padding:-25px;
 .btn-breadcrumb .btn.btn-info:hover:after {border-left: 10px solid #31b0d5;}
 .btn-breadcrumb .btn.btn-info:hover:before, .btn-breadcrumb .btn.btn-info:before {border-left: 10px solid #269abc;}
 .breadcrumb-info{ border: solid 1px #269abc; }
-@media screen and (min-width: 300px) and (max-width: 600px){
+@media screen and (min-width: 360px) and (max-width: 1000px){
     
-     .breadcrumb-default{ background-color: #fff;  margin-left:-30px;}   
+     .breadcrumb-default{ background-color: #fff;  margin-left:20px;}   
     }
+}
+@media only screen and (min-width: 360px) and (max-width:800px) {
+    .navbar-collapse ul li{
+        float:none!important;
+       
+    }
+    .title1{
+    font-size:20px;
+      margin-top:100px; 
+        
+}
+    .title2{
+    font-size:22px;
+    margin-top:100px;      
+}
+
+}
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
