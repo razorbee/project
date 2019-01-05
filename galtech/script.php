@@ -86,15 +86,7 @@ function showSlides(n) {
 });
 </script>
       <script>
-      jQuery(document).ready(function() {
-		
-	jQuery("#producttab").click(function() {
-		
-		jQuery(".dropdown-menu").slideToggle();
-	});
-	
-});
-
+      
       $('.owl-carousel').owlCarousel({
   loop: true,
   margin: 10,

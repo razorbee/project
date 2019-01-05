@@ -47,7 +47,7 @@
      <div class="container">
         <div class="row">
             
-                   <h3  style="color: #2261a6; text-align: center;"> Our OEM Partners: HP, Hitachi, Vivitek, Cloud walker.</h3>
+                   <h3  style="color: #2261a6; text-align: center;"> Our OEM Partners: Toshiba, Hitachi, Vivitek, Cloud walker.</h3>
 <p>At Galtech we believe in the power of relationships. We believe in mutual growth & a win-win is possible only through strong & trusted partnerships, we invite you to partner with us in our endeavor for collective growth.
 </p>
             </div>

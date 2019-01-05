@@ -20,8 +20,11 @@
     var windowpos = $(window).scrollTop() > 300;
     if (windowpos > pos.top) {
       s.addClass("stick");
+        $("#top-bar").hide();
+        
     } else {
       s.removeClass("stick");
+         $("#top-bar").show();
     }
   });
 

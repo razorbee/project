@@ -291,6 +291,7 @@ div#preloader {
   padding: 0 0 10px;
   text-transform: uppercase;
   transition: all 0.4s ease 0s;
+    margin-top: 30px;
 }
 
 /*--------------------------------*/
@@ -886,9 +887,11 @@ div#preloader {
   margin-bottom: 20px;
 }
 
+/*
 .section-headline.services-head>h2 {
   margin-bottom: 25px;
 }
+*/
 
 .services-details {
   padding-top: 40px;
@@ -2904,13 +2907,6 @@ li{
 /* Place text in the middle of the image */
 
 
-
-.title1,.title2{
-    color:white;
-}
-
-
-
 /*
 @media screen and (min-width: 320px) {
   .main-menu ul li ul li {
@@ -3057,7 +3053,7 @@ li{
 
 .column {
   float: left;
-  width: 25%;
+  width: 32%;
     background-color: #f9f9f9!important;
 }
 
@@ -3072,13 +3068,13 @@ li{
   width: 100%;
   height: 100%;
   overflow: auto;
-  background-color: black;
+  background-color: darkgrey;
 }
 
 /* Modal Content */
 .modal-content {
   position: relative;
-  background-color: #fefefe;
+  background-color: #;
   margin: auto;
   padding: 0;
   width: 90%;
@@ -3087,8 +3083,8 @@ li{
 
 /* The Close Button */
 .close {
-  color: white;
-  position: absolute;
+  color: #fff!important;
+  position: relative;
   top: 10px;
   right: 25px;
   font-size: 35px;
@@ -3174,9 +3170,12 @@ img.hover-shadow {
 .hover-shadow:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.column img{
-    margin-bottom: 5px;
+.column>img{
+    margin-bottom: 20px;
     margin-right: 5px;
+    
+   width:100px;
+    height:70px;
 }
 
 .contact-map{
@@ -3186,7 +3185,7 @@ img.hover-shadow {
 .hero-text {
   text-align: right;
 padding:-15px;
-  top: 40%;
+  top: 25%;
  transform: translate(-50%, -50%);
   color: #000000;
   width:100%;   
@@ -3209,7 +3208,7 @@ padding:-15px;
 }
 
 .btn-breadcrumb{
-	width: 100%;
+	    width: auto;
 	background-color: #fff;
 	border-radius: 4px;
 	border: solid 1px #ccc;
@@ -3322,8 +3321,12 @@ padding:-15px;
 .breadcrumb-info{ border: solid 1px #269abc; }
 @media screen and (min-width: 360px) and (max-width: 1000px){
     
-     .breadcrumb-default{ background-color: #fff;  margin-left:20px;}   
+     .breadcrumb-default{ background-color: #fff;  margin-left:0px;width:auto;}   
     }
+.area-head.stick{
+    background-color: #dddddd !important;
+    color:#000000 !important;
+}
 }
 @media only screen and (min-width: 360px) and (max-width:800px) {
     .navbar-collapse ul li{
@@ -3340,6 +3343,63 @@ padding:-15px;
     margin-top:100px;      
 }
 
+}
+.single-services > .services-icon >img{
+    height:200px!important;
+    width:300px!important;
+}
+.ready-btn.right-btn.page-scroll:hover {
+    color: #3EC1D5!important;
+    border: 1px solid #3EC1D5 !important;
+}
+.about-area.area-padding{
+    padding:70px 0px 70px !important;
+}
+.title1{
+    color:cornsilk;
+    font-size:65px;
+}
+.title2{
+    color:#e3ecf7;
+    font-size: 35px;
+}
+
+.sticker.main-menu ul.dropdown-menu li a {  
+    color: #000000 !important;
+}
+.sticker.main-menu ul.dropdown-menu li a:hover {  
+    color: #629fdf !important;
+}
+.stick .main-menu ul.navbar-nav li > a{
+    color:black!important;
+}
+
+.services-menu{
+    margin-top: 70px;
+}
+.stick.head-area{
+    background-color: #dddddd !important;
+   
+}
+ button[type=submit]{
+    color: #fff!important;
+    border: 1px solid #3EC1D5!important;
+    background: #3EC1D5!important;
+}
+button[type=submit]:hover{
+      background: rgba(0, 0, 0, 0) none repeat scroll 0 0!important;
+    border: 1px solid #ccc!important;
+    color: #444!important;
+}
+#caption{
+    color: #ffffff;
+}
+.area-head.stick{
+    background-color: #dddddd !important;
+    color:#000000 !important;
+}
+.back-to-top{
+    display: none!important;
 }
 /*----------------------------------------
  .End CSS

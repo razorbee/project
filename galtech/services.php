@@ -14,8 +14,10 @@
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
             <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+<!--
         
            <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+-->
             <div class="btn btn-info"><b>Services &amp; Solutions</b></div>
         </div>
 	</div>

@@ -1,8 +1,140 @@
 
 <body data-spy="scroll" data-target="#navbar-example">
+    
+    <style>
+    
+/*--------------------------------------------------------------
+## Top header Style
+--------------------------------------------------------------*/
+
+.top-header {
+    float: left;
+    width: 100%;
+}
+
+.top-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #1e5490;
+}
+
+.top-left {
+    float: left;
+}
+
+.top-right {
+    float: right;
+}
+
+.top-left span {
+    color: #fff;
+    margin-right: 15px;
+    line-height: 1;
+    font-size: 14px;
+}
+
+.top-left span i {
+    color: #fff;
+    margin-right: 10px;
+}
+
+.top-menu-content .menu {
+    float: left;
+    list-style: none;
+    margin:0;
+}
+
+.top-menu-content .menu li {
+    display: inline-block;
+    line-height: 1;
+}
+
+.top-menu-content .menu li a{
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    position: relative;
+    z-index: 99;
+    text-transform: capitalize;
+    padding: 0px 15px;
+    line-height: 1;
+    position: relative;
+}
+
+.top-header .business_point_widget_social li {
+    margin:0;
+}
+
+.top-header .business_point_widget_social li a {
+    height: auto;
+    width: auto;
+    border:0;
+    line-height: 1;
+    padding: 0px 15px;
+    position: relative;
+    transform: none !important;
+}
+
+.top-header .business_point_widget_social ul li a::before {
+    color: #fff;
+    font-size: 14px;
+    line-height: 1;
+    transform: none !important;
+}
+
+.top-header .business_point_widget_social li a:hover {
+    background: transparent !important;
+    border:0px;
+}
+    .top-menu-content .menu li a:after,
+.top-header .business_point_widget_social li a:after {
+    content:"";
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 1px;
+    background: #fff;
+
+    -webkit-transform: rotate(35deg); /* Ch <36, Saf 5.1+, iOS < 9.2, An =<4.4.4 */
+      -ms-transform: rotate(35deg); /* IE 9 */
+          transform: rotate(35deg); /* IE 10, Fx 16+, Op 12.1+ */
+}
+
+.top-menu-content .menu li:last-child a:after ,
+.top-header .business_point_widget_social li:last-child a:after{
+    display: none;
+}
+    </style>
+  
+    
+    
+    
 <header>
+    
+    
+    
     <!-- header-area start -->
-    <div id="sticker" class="header-area">
+    <div id="sticker" class="header-area area-head">
+        
+        
+          <div id="top-bar" class="top-header">
+            <div class="container">
+                                    <div class="top-left">
+                                                    <span class="address"><i class="fa fa-map-marker" aria-hidden="true"></i> Indiranagar, Bangalore - 560 038</span>
+                        
+                                                    <span class="phone"><i class="fa fa-phone" aria-hidden="true"></i> +91-8800537008</span>
+                        
+                                                    <span class="fax"><i class="fa fa-envelope-o" aria-hidden="true"></i> response@galtechinfo.com</span>
+                                                
+                    </div>
+               
+                
+            </div>
+        </div>
+        
+        
       <div class="container">
        
           <div class="col-md-12 col-sm-12">
@@ -33,16 +165,16 @@
                   <li id="aboutustab">
                     <a  class="page-scroll" href="about.php">About Us</a>
                   </li>
-                  <li id="producttab" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<span class="caret"></span></a>
+                  
+                      <li id="producttab" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
-                        
-                      <li><a href=# class="dropdown-toggle" data-toggle="dropdown">Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
+                      <li><a href=#>Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
                           <ul class="dropdown-menu-bar" role="menu">
                               <li id="b/wmodeltab"><a href="b_w_models.php">B/w Models </a></li>
                             <li id="colormodeltab"><a href="color_models.php">Color Models</a></li>
                           </ul>
                         </li>
-                      <li><a href=# class="dropdown-toggle" data-toggle="dropdown">Multimedia Projectors <span class="fa fa-caret-right"></span></a>
+                      <li><a href=#>Multimedia Projectors <span class="fa fa-caret-right"></span></a>
                         <ul class="dropdown-menu-bar" role="menu">
                               <li><a href="super_short_throw.php">Super Short Throw</a></li>
                             <li><a href="ultra_interactive_short_throw.php">Ultra Interactive Short Throw</a></li>

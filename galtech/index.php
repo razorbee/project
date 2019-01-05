@@ -20,11 +20,11 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h1 class="title1">TIME TO UNLEASH </h1>
+                  <h1 class="title1" style="margin-left:-600px;">TIME TO UNLEASH </h1>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h2 class="title2">A3 THE NEXT GENERATION</h2>
+                  <h2 class="title2"  style="margin-left:-500px;">A3 THE NEXT GENERATION</h2>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -175,7 +175,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon">
-											<img src="img/multifunction_printer.png">
+											<img src="img/toshiba_product1.jpg">
 										</a>
                     <h4><a href="b_w_models.php">A3 Multifunction Devices</a></h4>
                   <p>
@@ -191,7 +191,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-                      <img src="img/Printer.png">
+                      <img src="img/hitachi-product2.jpg">
                       
 											
 										</a>
@@ -210,7 +210,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<img src="img/powerpoint_projector.png">
+											<img src="img/product3.jpg">
 										</a>
                     <h4><a href="b_w_models.php">Digital Duplicators</a></h4>
                   <p>
@@ -228,7 +228,7 @@
                 <div class="single-services">
                   <a class="services-icon" href="#">
 											
-                      <img src="img/video-projector.png">
+                      <img src="img/products/ed_x32.jpg">
 										</a>
                     <h4><a href="portable_installation.php">Multimedia Projectors &amp; Accessories</a></h4>
                   <p>
@@ -246,7 +246,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-                      <img src="img/display.png">
+                      <img src="img/product4.jpg">
 											
 										</a>
                <h4><a href="interactive_display.php">Large Format Displays</a></h4>
@@ -265,7 +265,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<img src="img/wifi.png">
+											<img src="img/product7.jpg">
 										</a>
                     <h4><a href="wireless.php">Wi-Fi Devices for Wireless display</a></h4>
                   <p>
@@ -287,7 +287,7 @@
     <div class="well-bg">
       <div class="test-overly"></div>
       <div class="container">
-        <div class="row">
+        <div class="row ">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="wellcome-text">
               <div class="well-text text-center">
@@ -326,19 +326,19 @@
       </div>
       <div class="row">
         
-        <div class="col-md-4 col-lg-4 col-sm-2"><h3>Solutions</h3>
+        <div class="col-md-4 col-lg-4 col-sm-2"><h3 class="services-menu">Solutions</h3>
                     <ul class="list">
                         <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Breakfix Services <br>
 - A3 Multifunction Devices & Multimedia Projectors</li>
                         <li><i class="fa fa-check-circle-o"></i> Managed Print Services</li>
                     </ul></div>
-          <div class="col-md-4 col-lg-4 col-sm-2"><h3>Services</h3>
+          <div class="col-md-4 col-lg-4 col-sm-2"><h3 class="services-menu">Services</h3>
                     <ul class="list">
                         <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Audio Video System Ingegration</li>
                         <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Secured Printing Solutions</li>
                     </ul></div>
            <div class="col-md-4 col-lg-4 col-sm-2">
-               <img class="aboutimg" src="img/multifunctiondevice.png" alt="" style="height:280px;width:550px;">
+               <img class="aboutimg" src="img/multifunctiondevice.png" alt="" style="height:280px;width:550px;margin-top:-10px;">
                    
       </div>
       <!-- end Row -->
@@ -473,7 +473,7 @@
                   <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                   <div class="validation"></div>
                 </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
+                <div class="text-center submit-form"><button type="submit">Send Message</button></div>
               </form>
             </div>
           </div>
