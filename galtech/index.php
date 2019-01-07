@@ -112,7 +112,7 @@
           <div class="well-left">
             <div class="single-well">
               <a href="#">
-								  <img class="aboutimg" src="img/about_toshiba.jpg" alt="" style="height:280px;width:550px;">
+								  <img class="aboutimg" src="img/about_toshiba.jpg" alt="" style="height:300px;width:550px;">
 								</a>
             </div>
           </div>
@@ -127,7 +127,7 @@
               <p>
                 Galtech Info solutions Pvt Ltd. is a one stop solution provider for all your Office Automation requirements. The core objective of the company is to deliver Value to all our stakeholders at every stage of our partnership.
               </p>
-                <a class="ready-btn right-btn page-scroll" href="about.php">Who we are?</a>
+                <a class="ready-btn right-btn page-scroll" href="about.php" style="width:250px;margin-left:120px;">Who we are?</a>
 <!--
               <ul>
                 <li>
@@ -291,10 +291,10 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="wellcome-text">
               <div class="well-text text-center">
-                <h2>Our Goal</h2>
-                <p>
+                <h1>Our Goal</h1>
+                <h4>
                   Our goal is to be the first choice of our Customers & Partners in our areas of operation & be the No.1 Partner for our OEMs.
-                </p>
+                </h4>
 <!--
                 <div class="subs-feilds">
                   <div class="suscribe-input">

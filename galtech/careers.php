@@ -3,7 +3,7 @@
 <style>
 </style>
 
-	<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
+	<div class="bg"><img src="img/careers1.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:black">Careers</h1>

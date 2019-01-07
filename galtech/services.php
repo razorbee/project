@@ -1,7 +1,7 @@
 <?php include('head.php');?>
 <?php include('header.php');?>
 
-	<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
+	<div class="bg"><img src="img/services2.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:black">Services &amp; Solutions</h1>
@@ -52,7 +52,7 @@
             
             
             <div class="col-md-5 col-sm-12 col-xs-12">
-                <figure class="img-box">
+                <figure class="img-box" style="margin-top:30px;">
                     <img src="img/services.jpg" alt="" class="img-responsive">
                 </figure>
             </div>

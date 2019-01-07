@@ -305,11 +305,13 @@ div#preloader {
   left: 0;
   width: 100%;
   height: auto;
-  background: rgba(255, 255, 255, 0.7);
-
+  background: rgba(255, 255, 255, 0.9);
+ 
   z-index: 9;
 }
-
+.area-head{
+        box-shadow: 0 4px 3px rgba(0,0,0,.5)!important;
+}
 .navbar-header a.navbar-brand {
   display: inline-block;
   height: 70px;
@@ -565,10 +567,12 @@ div#preloader {
   margin-bottom: 50px;
 }
 
+/*
 .default-blog-news:hover {
   box-shadow: 0 15px 16px 0 rgba(0, 0, 0, 0.03), 0 0px 82px 0 rgba(0, 0, 0, 0.02);
   transition: .2s cubic-bezier(0.4, 0, 1, 1);
 }
+*/
 
 .default-blog-news .lower-content{
   position:relative;
@@ -589,15 +593,19 @@ div#preloader {
   color: #fff;
   text-align: center;
 }
-
+.lower-content>h3{
+    text-align: center;
+}
 .default-blog-news .lower-content .text p{
   margin-bottom: 10px;
+    margin-left: 10px;
 }
 
 .default-blog-news .lower-content h4 {
   color:#68a4e2;
   font-weight: 400;
   margin-bottom: 10px;
+   text-align: center;
 }
 
 .default-blog-news .lower-content h4 a{
@@ -1132,7 +1140,19 @@ div#preloader {
   font-style: italic;
   color: #fff;
 }
+.well-text>h1 {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 50px;
+}
 
+.well-text h4 {
+  font-size: 25px;
+  font-style: italic;
+  color: #fff;
+   
+}
 .wellcome-text .section-headline p {
   margin-bottom: 0;
 }
@@ -2825,6 +2845,7 @@ span.email-notes {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
+    height:350px;
 }
 
 .parallax:before {
@@ -2836,19 +2857,23 @@ span.email-notes {
   height: 100%;
   background: rgba(16, 37, 46, 0.4);
   z-index: 0;
+    
 }
 
 .parallax h1 {
   position: relative;
-  font-size: 40px;
+  font-size: 50px;
   color: #fff;
   margin-bottom: 30px;
+  margin-top: 80px;  
 }
 .parallax p {
   position: relative;
-  font-size: 18px;
+  font-size: 22px;
   color: #fff;
   margin-bottom: 28px;
+    letter-spacing: inherit
+    padding-bottom: 10px;
 }
 li{
     font-size: 15px;padding:3px;
@@ -3394,12 +3419,17 @@ button[type=submit]:hover{
 #caption{
     color: #ffffff;
 }
-.area-head.stick{
-    background-color: #dddddd !important;
-    color:#000000 !important;
-}
+
+
 .back-to-top{
     display: none!important;
+}
+
+.parallax > h1{
+    margin-top: 70px !important;
+}
+.img-box{
+    margin-top: 20px;
 }
 /*----------------------------------------
  .End CSS

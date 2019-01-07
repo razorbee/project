@@ -1,6 +1,6 @@
 <?php include('head.php');?>
 <?php include('header.php');?>	
-<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
+<div class="bg"><img src="img/aboutus.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);height:300px;">
        <div class="hero-text">
     <h1 style="color:#000000;">About Us</h1>
@@ -55,7 +55,7 @@
 </section>
 <section class="parallax center" style="background-image: url(img/background/1.jpg);">
   <div class="container">
-        <h3>Endless possibilities & opportunities.</h3>
+        <h1>Endless possibilities & opportunities.</h1>
         <div class="text">
             <p>Our extensive range and consultancy-based approach helps our clients achieve economy, choice and value, thereby ensuring their success. No matter the size of business, we identify the best & most cost effective solution....
 

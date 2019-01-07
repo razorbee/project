@@ -52,6 +52,9 @@
               <div class="footer-head">
                 <h4>Gallery</h4>
 <!--
+
+
+v
                 <div class="flicker-img">
                   <a href="#"><img src="img/products/cp_ex252ef.jpg" alt=""></a>
                   <a href="#"><img src="img/products/cp_hd9320gfb.jpg" alt=""></a>
@@ -61,26 +64,20 @@
                   <a href="#"><img src="img/products/lp_wx3500gf.jpg" alt=""></a>
                 </div>
 -->
-                  <div class="row">
-  <div class="column">
-    <img src="img/products/gallery1.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                  <div class="flicker-img">
+                 
+                  <a href="#"><img src="img/products/gallery1.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow cursor"></a>
+  
+        <a href="#"><img src="img/products/gallery2.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow cursor"></a>
+  
+        <a href="#"><img src="img/products/cp_tw2505ef.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor"></a>
+ 
+        <a href="#"> <img src="img/products/gallery3.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor"></a>
+  
+        <a href="#"><img src="img/products/gallery5.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor"></a>
+ 
+        <a href="#"><img src="img/products/lp_wx3500gf.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor"></a>
   </div>
-  <div class="column">
-    <img src="img/products/gallery2.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
-  </div>
-  <div class="column">
-    <img src="img/products/cp_tw2505ef.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
-  </div>
-  <div class="column">
-    <img src="img/products/gallery3.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
-  </div>
-        <div class="column">
-    <img src="img/products/gallery5.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
-  </div>
-  <div class="column">
-    <img src="img/products/lp_wx3500gf.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
-  </div>              
-</div>
 
 <div id="myModal" class="modal" style="z-index:10;">
   <span class="close cursor" onclick="closeModal()" style="margin-top:100px; color:white;">&times; </span>

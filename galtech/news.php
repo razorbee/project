@@ -45,8 +45,7 @@
 <?php include('header.php');?>
 
 
-	<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
-  -webkit-filter: blur(1px);">
+	<div class="bg"><img src="img/news4.png" class="img-fluid">
        <div class="hero-text">
     <h1 style="color:black">NEWS</h1>
     
@@ -130,7 +129,7 @@
 <section class="parallax center" style="background-image: url(img/background/1.jpg);">
     <div class="container">
         <h1>Endless possibilities & opportunities.</h1>
-        <div class="text">
+        <div class="text" style="margin-bottom:50px;">
             <p>Our extensive range and consultancy-based approach helps our clients achieve economy, choice and value, thereby ensuring their success. No matter the size of business, we identify the best & most cost effective solution....
 
  </p>
