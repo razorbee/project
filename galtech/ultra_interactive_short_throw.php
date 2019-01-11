@@ -55,7 +55,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligient Eco Mode Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> High Reliability and Stability</p>
     </div>
-<a href="img/products/cp_tw2505ef.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_tw2505ef.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -93,7 +93,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> High Reliability and Stability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode</p>
     </div>
-<a href="img/products/cp_tw2505ef.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_tw2505ef.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>

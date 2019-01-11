@@ -55,7 +55,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
         </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 
 </div>
@@ -85,7 +85,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®)<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -115,7 +115,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -152,7 +152,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -181,7 +181,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -212,7 +212,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -236,7 +236,7 @@
 <h3>Toshiba Color LaserJet Managed MFP</h3>
 <h4>Product number : E77830dn</h4>
 <div class="text">
-<a href="img/products/Brochure1_toshiba.pdf"  target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf"  target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -259,7 +259,7 @@
 <h3>Toshiba Color LaserJet Managed Flow MFP</h3>
 <h4>Product number : E77830z</h4>
 <div class="text">
-<a href="img/products/Brochure1_toshiba.pdf"  target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf"  target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>

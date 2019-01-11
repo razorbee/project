@@ -201,6 +201,9 @@
                   <li id="contacttab">
                     <a class="page-scroll" href="contact.php">Contact</a>
                   </li>
+                    <li id="businesstab">
+                    <a class="page-scroll" href="business.php">Business</a>
+                  </li>
                 </ul>
               </div>
               <!-- navbar-collapse -->

@@ -565,14 +565,13 @@ div#preloader {
   position: relative;
   transition: .5s ease-in-out;
   margin-bottom: 50px;
+/*    background-color: aliceblue;*/
 }
 
-/*
 .default-blog-news:hover {
   box-shadow: 0 15px 16px 0 rgba(0, 0, 0, 0.03), 0 0px 82px 0 rgba(0, 0, 0, 0.02);
   transition: .2s cubic-bezier(0.4, 0, 1, 1);
 }
-*/
 
 .default-blog-news .lower-content{
   position:relative;
@@ -3431,6 +3430,19 @@ button[type=submit]:hover{
 .img-box{
     margin-top: 20px;
 }
+form{
+  background-color: #ffffff;  
+}
+.dealerform
+{padding: 20px; background-color: #ededed; border: 1px solid #c1c1c1; font-family: Roboto Condensed;
+margin-bottom: 30px;margin-top: 30px;}
+.text .know{
+   margin-left: 90px;
+}
+
+.flicker-img>a>img{width: 115px;
+    height: 80px;
+    }
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/

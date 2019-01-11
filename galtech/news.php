@@ -47,7 +47,7 @@
 
 	<div class="bg"><img src="img/news4.png" class="img-fluid">
        <div class="hero-text">
-    <h1 style="color:black">NEWS</h1>
+    <h1 style="color:white;">NEWS</h1>
     
   </div>
 

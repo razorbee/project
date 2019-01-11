@@ -52,7 +52,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 23 copies per minute (cpm)<br>
 </p>
   </div>    
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 
 </div>
@@ -83,7 +83,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 23 copies per minute (cpm)<br>
 </p>
   </div> 
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -115,7 +115,7 @@
 inches (A3)<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -152,7 +152,7 @@ auto-tone, auto orientation, auto-page-crop, embedded OCR <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 250 sheets, supports media up to 11 x 17inches (A3)<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -181,7 +181,7 @@ auto-tone, auto orientation, auto-page-crop, embedded OCR <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®)<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -212,7 +212,7 @@ inches (A3)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -247,7 +247,7 @@ inches (A3)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Type: Flatbed, ADF; Technology: Platen Scanner CCD Digital-CIS<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -278,7 +278,7 @@ inches (A3)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -309,7 +309,7 @@ inches (A3)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>

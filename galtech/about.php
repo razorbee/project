@@ -3,7 +3,7 @@
 <div class="bg"><img src="img/aboutus.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);height:300px;">
        <div class="hero-text">
-    <h1 style="color:#000000;">About Us</h1>
+    <h1 style="color:#ffffff;">About Us</h1>
     
   </div>
 
@@ -37,21 +37,26 @@
   </div> 
             <div class="col-md-5 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="img/about.jpg" alt="" class="img-responsive" style="height:100%; border-radius:20px;">
+                    <img src="img/about.jpg" alt="" class="img-responsive" style="height:300px; border-radius:20px;">
                 </figure>
             </div>
 </div>  
  </div> 
     </section>
-    <section class="default-section" style="margin-left:35px; margin-bottom: 15px;">
-     <div class="container">
-        <div class="row">
-            
-                   <h3  style="color: #2261a6; text-align: center;"> Our OEM Partners: Toshiba, Hitachi, Vivitek, Cloud walker.</h3>
-<p>At Galtech we believe in the power of relationships. We believe in mutual growth & a win-win is possible only through strong & trusted partnerships, we invite you to partner with us in our endeavor for collective growth.
+    <section class="default-section" style="margin-left:50px; margin-bottom: 15px;">
+
+      
+            <h5 style="margin-left:100px;"> Mr.Kishore Krishnan, Managing Director – Galtech Infosolutions</h6>
+          <div class="container">
+           <div class="row">
+       <div class="col-lg-3"><p><img src="img/Kishore-Krishnan.jpg" alt="" style="height:200px; border-radius:20px;"></p></div>
+           <div class="col-lg-9" style="margin-top:30px;">
+<p>Mr.Kishore has more than 2 decades of Business & Product management experience in office automation Industry and has deep Product & Solution knowledge about Multifunction Printers, Projectors and other office automation solutions. He has worked with diverse customer base and understands the customer’s need and requirement.
 </p>
+            <p>Connect with him through Linkedin – <a href="https://www.linkedin.com/in/kishore-krishnan">www.linkedin.com/in/kishore-krishnan</a></p>
             </div>
-    </div>
+         </div>
+   
 </section>
 <section class="parallax center" style="background-image: url(img/background/1.jpg);">
   <div class="container">

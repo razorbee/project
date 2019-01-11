@@ -59,7 +59,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 360degrees Projection<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI, DVD-I and HDBaseT connectivity</p>
     </div>
-<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -99,7 +99,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 360degrees Projection<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI, DVD-I and HDBaseT connectivity</p>
     </div>
-<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 
 </div>
@@ -142,7 +142,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 360degrees Projection<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI, DVD-I and HDBaseT connectivity</p>
     </div>
-<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -185,7 +185,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 5 Digital Inputs<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Motorized Lens Shift</p>
     </div>
-<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -221,7 +221,8 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Status Monitor<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Dual Lamp</p>
     </div>
-<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
+    <br>
+<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -267,7 +268,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 5 Digital Inputs<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Motorized Lens Shift</p>
     </div>
-<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -304,7 +305,8 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Hybrid Filter<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI x2</p>
     </div>
-<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
+    <br>
+<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -341,7 +343,7 @@ Ideal for 24hours use and multi-projection using multiple projectors capability
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 5 Digital Inputs:HDBaseT,HDMI x 2, DVI-D x1,3G SDI x 1<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Supports Web Control, PJLink, Creston Roomview and AMX</p>
     </div>
-<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_x9110gfb.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>

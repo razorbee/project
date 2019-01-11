@@ -6,7 +6,7 @@
     <div class="bg"><img src="img/image%20(2).png" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);height:350px;width:100%">
        <div class="hero-text">
-    <h1 style="color:black;display:inline-block;margin-top:-1000px; ">Contact Us</h1>
+    <h1 style="color:white;display:inline-block;margin-top:-1000px; ">Contact Us</h1>
     
   </div>
 
@@ -47,6 +47,7 @@
                     <h4>Send Mail</h4>
                     <div class="text">
                         <p>response@galtechinfo.com<br></p>
+                        <br>
                     </div>
                 </div>
             </div>
@@ -58,6 +59,7 @@
                     <h4>Call Us</h4>
                     <div class="text">
                         <p>Ph: +91 - 8800537008 <br></p>
+                        <br>
                     </div>
                 </div>
             </div>

@@ -52,8 +52,10 @@
 <i style="color:#68a4e2; visibility:hidden;" class="fa fa-caret-right"></i> Eco Mode, Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> x1.2 Optical Zoom<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Vertical Keystone</p>
+        
     </div>
-<a href="img/products/cp_rx250.pdf" target="_blank" class="btn btn-danger">Know More</a>
+    <br>
+<a href="img/products/cp_rx250.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -87,7 +89,8 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> x1.2 Optical Zoom<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Vertical Keystone</p>
     </div>
-<a href="img/products/ed_27x.pdf" target="_blank" class="btn btn-danger">Know More</a>
+    <br>
+<a href="img/products/ed_27x.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -121,7 +124,8 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Whiteboard & Blackboard Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Anti-Theft Features: Pin-Lock, MyScreen Locl,Transition Detector, 
 Security Bar, Kensington Lock</p>
-<a href="#" target="_blank" class="btn btn-danger">Know More</a>
+    
+<a href="#" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -161,7 +165,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Security Pin Lock System <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Terminal</p>
-<a href="img/products/cp_ex252ef.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_ex252ef.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -191,7 +195,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Security Pin Lock System <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Terminal</p>
-<a href="img/products/cp_ex302nef.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_ex302nef.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -221,7 +225,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Security Pin Lock System <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Terminal</p>
-<a href="#" target="_blank" class="btn btn-danger">Know More</a>
+<a href="#" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -256,7 +260,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Terminal<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Direct On/Off</p>
     </div>
-<a href="#" target="_blank" class="btn btn-danger">Know More</a>
+<a href="#" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -295,7 +299,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Mic Input and 16W Internal Speakers<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Direct On/Off</p>
     </div>
-<a href="#" target="_blank" class="btn btn-danger">Know More</a>
+<a href="#" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -334,7 +338,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Mic Input and 16W Internal Speakers<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Direct On/Off</p>
     </div>
-<a href="#" target="_blank" class="btn btn-danger">Know More</a>
+<a href="#" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -372,7 +376,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Mic Input and 16W Internal Speakers<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Direct On/Off</p>
     </div>
-<a href="img/cp_wx3541wnef.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/cp_wx3541wnef.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -411,7 +415,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 2 HDMI Inputs</p>
     </div>
-<a href="img/products/cp_wx3541wnef.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_wx3541wnef.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -442,7 +446,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Manual Optical Lens Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Connectivity Easy Maintenance</p>
     </div>
-<a href="img/products/cp-x5022wngf.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp-x5022wngf.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -477,7 +481,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Manual Optical Lens Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> HDMI Connectivity Easy Maintenance</p>
     </div>
-<a href="img/products/cp-x5022wngf.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp-x5022wngf.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -517,7 +521,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Scheduling Setting</p>
     </div>
-<a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -558,7 +562,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Scheduling Setting</p>
     </div>
-<a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -597,7 +601,7 @@ Security Bar, Kensington Lock</p>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Scheduling Setting<br/></p>
     </div>
-<a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp-cp_x5550gf.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>

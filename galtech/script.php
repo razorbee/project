@@ -79,6 +79,9 @@ function showSlides(n) {
         else if(pagename=="contact.php"){
             $("#contacttab").addClass("active");
         }
+        else if(pagename=="business.php"){
+            $("#businesstab").addClass("active");
+        }
     else if(pagename=="b_w_models.php"||pagename=="color_models.php"||pagename=="super_short_throw.php"||pagename=="ultra_interactive_short_throw.php"||pagename=="ultra_short_throw.php"||pagename=="portable_installation.php"||pagename=="high_resolution_installation.php"||pagename=="ultra_high_resolution.php"||pagename=="dlp.php"||pagename=="led.php"||pagename=="interactive_display.php"||pagename=="wireless.php"){
             $("#producttab").addClass("active");
         }
@@ -123,6 +126,30 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+<!--
+<script type="text/javascript">
+
+    
+        
+        $("#order_form").submit(function(){
+
+             
+            $.ajax({
+              url: 'email.php',
+              type: 'POST',
+              data:$('#order_form').serialize(),
+              success: function(data) {
+                    if(data == 'OK') {
+                        console.log("ok");
+                        $('#message').html('<p>Thank you for your order.</p>');
+                   } else { $('#message').html('<p>There is something wrong with form submission.</p>'); }
+              }
+            });
+
+        });
+    
+   </script>
+-->
 </body>
 
 </html>

@@ -4,7 +4,7 @@
 	<div class="bg"><img src="img/services2.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
-    <h1 style="color:black">Services &amp; Solutions</h1>
+    <h1 style="color:#ffffff">Services &amp; Solutions</h1>
     
   </div>
 

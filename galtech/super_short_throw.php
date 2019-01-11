@@ -30,7 +30,7 @@
    <!--1 BEGINS-->     
         
 <div class="col-md-4 col-sm-6 col-xs-12">
-<div class="default-blog-news">
+<div class="default-blog-news"  style="background-color:#dddddd;">
 <figure class="img-holder">
 <img src="img/products/cp-cx250_cx300_cw250_cw300-800.jpg" alt="products" class="img-responsive">
 </figure>
@@ -47,7 +47,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode</p>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -59,8 +59,8 @@
 
         
 <!--2 BEGINS-->             
-<div class="col-md-4 col-sm-6 col-xs-12">
-<div class="default-blog-news">
+<div class="col-md-4 col-sm-6 col-xs-12" >
+<div class="default-blog-news"  style="background-color:#dddddd;">
 <figure class="img-holder">
 <img src="img/products/cp-cx250_cx300_cw250_cw300-800.jpg" alt="products" class="img-responsive">
 </figure>
@@ -76,7 +76,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode</p>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -105,7 +105,8 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Easy Maintenance<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Saver Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode</p>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+    <br>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -122,7 +123,7 @@
             
             
 <!--4 BEGINS-->           
-<div class="col-md-4 col-sm-6 col-xs-12">
+<div class="col-md-4 col-sm-6 col-xs-12" >
 <div class="default-blog-news">
 <figure class="img-holder">
 <img src="img/products/cp-cx250_cx300_cw250_cw300-800.jpg" alt="products" class="img-responsive">
@@ -145,7 +146,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Hybrid Air Filter<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability</p>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -176,7 +177,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Hybrid Air Filter<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wireless Capability</p>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>

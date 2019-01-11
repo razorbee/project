@@ -50,7 +50,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Brilliant Color Technology<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wall Color Correction</p>
     </div>
-<a href="#" target="_blank" class="btn btn-danger">Know More</a>
+<a href="#" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 
 </div>
@@ -85,8 +85,9 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> ImageCare Technology<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco and Saver Modes<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wall Color Correction</p>
+      <br>
     </div>
-<a href="#" target="_blank" class="btn btn-danger">Know More</a>
+<a href="#" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -121,8 +122,10 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Image Care Technology<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Intelligent Eco and Saver Modes
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Wall Color Correction</p>
+           <br>
+          
     </div>
-<a href="#" target="_blank" class="btn btn-danger">Know More</a>
+<a href="#" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>

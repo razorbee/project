@@ -54,7 +54,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
     </div>
-<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -88,7 +88,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Pefect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
     </div>
-<a href="img/products/cpwx8240cpx8160.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cpwx8240cpx8160.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -125,7 +125,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Smart Device Control<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
     </div>
-<a href="img/products/cpwx8240cpx8170.pdf" target="_blank" class="btn btn-info">Know More</a>
+<a href="img/products/cpwx8240cpx8170.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -169,7 +169,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
     </div>
-<a href="img/products/cp_x8800wgf.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_x8800wgf.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -201,7 +201,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
     </div>
-<a href="img/products/cp-wx8240ygf.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp-wx8240ygf.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -248,7 +248,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Installation
 </p>
     </div>
-<a href="img/products/cp_wx8750wgf.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cp_wx8750wgf.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -286,7 +286,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Perfect Fit<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode</p>
     </div>
-<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -319,7 +319,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> DICOM Simulation Mode<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> High Efficiency Optical System</p>
     </div>
-<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -353,7 +353,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Picture Shift<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Installation</p>
     </div>
-<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -388,7 +388,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Installation<br>
  </p>
     </div>
-<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>
@@ -422,7 +422,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Various Installation<br>
  </p>
     </div>
-<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger">Know More</a>
+<a href="img/products/cpwx8240cpx8150.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
 </div>

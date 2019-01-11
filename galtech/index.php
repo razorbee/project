@@ -9,6 +9,7 @@
         <img class="bannerimage" src="img/banner5.jpg" alt="" title="#slider-direction-1" />
         <img class="bannerimage" src="img/banner2.jpg" alt="" title="#slider-direction-2" />
         <img class="bannerimage" src="img/banner3.png" alt="" title="#slider-direction-3" />
+          
       </div>
 
       <!-- direction 1 -->
@@ -20,11 +21,11 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h1 class="title1" style="margin-left:-600px;">TIME TO UNLEASH </h1>
+                  <h1 class="title1" style="margin-left:-600px;">Welcome to Galtech Info</h1>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h2 class="title2"  style="margin-left:-500px;">A3 THE NEXT GENERATION</h2>
+                  <h2 class="title2"  style="margin-left:-550px;">Its modern design is pleasing to the eyes and<br>coded with site performance in mind</h2>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -47,11 +48,11 @@
               <div class="slider-content text-center">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h1 class="title1">Multipurpose Creative Products</h1>
+                  <h1 class="title1">Toshiba e-Studio Solutions from Galtech</h1>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h2 class="title2">Perfect for business, corporate, digital agency, landing page, blog and all creative websites</h2>
+                  <h2 class="title2">Distributor of Toshiba Multifunction Printers in India.</h2>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
