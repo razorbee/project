@@ -30,7 +30,7 @@
    <!--1 BEGINS-->     
         
 <div class="col-md-4 col-sm-6 col-xs-12">
-<div class="default-blog-news"  style="background-color:#dddddd;">
+<div class="default-blog-news">
 <figure class="img-holder">
 <img src="img/products/cp-cx250_cx300_cw250_cw300-800.jpg" alt="products" class="img-responsive">
 </figure>
@@ -60,7 +60,7 @@
         
 <!--2 BEGINS-->             
 <div class="col-md-4 col-sm-6 col-xs-12" >
-<div class="default-blog-news"  style="background-color:#dddddd;">
+<div class="default-blog-news">
 <figure class="img-holder">
 <img src="img/products/cp-cx250_cx300_cw250_cw300-800.jpg" alt="products" class="img-responsive">
 </figure>

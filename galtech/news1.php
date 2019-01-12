@@ -63,20 +63,18 @@
         </div>
 	</div>
 </div>
-<h2 style="text-align:center;margin-top:25px;"></h2>
+<h2 style="text-align:center;margin-top:25px;">Recent Collaboration with TOSHIBA</h2>
 <!--1 BEGINS-->
 <section class="default-section">
-     <h2 style="text-align:center;">Collaboration with Toshiba</h2>
     <div style="padding:2em;" class="container well">
         <div class="row">
             <div class="col-md-7 col-sm-12 col-xs-12">
                 <div class="text-content">
-                  
+                   
                     <div class="text">
                         <h3>Toshiba TEC Singapore partners with Galtech Infosolutions Bangalore,</h3>
-                        <p style="margin-top:40px;">“Galtech Info Solutions has signed up with Toshiba as Authorised Distributor for the state of Karnataka for their range of A3 Digital Copiers/Multifunction Printers.
-
-We have launched an Advertisement Campaign to Recruit & Onboard Partners Across Karnataka, we have currently onboarded 12 Authorised Dealers for Toshiba A3 Copiers/Multifunction Devices across Karnataka. We welcome you to come & Partner with us to experience the power of Toshiba A3 Multifunction Devices.”
+                        <p>Toshiba TEC Singapore partners with Galtech Infosolutions Bangalore, Dec 23 (UNI) Toshiba Tec Singapore Pvt Ltd announced the partnership with Galtech Infosolutions Pvt Ltd for the sale and service distribution of Toshiba multi-function office peripheral systems, a statement here stated on Sunday. With Galtech's strong business presence and network in the Northern and Southern parts of India, Toshiba TEC and Galtech collaboration is a powerful step forward in the expansion of Toshiba's award winning MFPs penetration across India. "We are very pleased to make this announcement with Galtech," said Takeshi Kimura, General Manager of Toshiba TEC Singapore. "Customers in India are continuously looking for the latest innovations that strengthen operations as well as the financial bottom line. We believe Galtech Infosolutions has all the capabilities and industry expertise to represent Toshiba in providing the highest level of satisfactory office printing requirements to these parts of India." "We will be able to leverage on our very strong dealer network and business expertise so as to bring quality, high speed, brilliant print quality and state-of-the-art MFPs to South & North India. We are confident that this partnership will move us up very quickly to the next level of excellence," said Kishore Krishnan, Managing Director of Galtech Infosolutions Pvt Ltd. </p>
+                        <p><a href="http://www.uniindia.com/toshiba-tec-singapore-partners-with-galtech-infosolutions/business-economy/news/1446638.html#4e5Y8XEPdvcrRqFF.03">www.uniindia.com/toshiba-tec-singapore-partners-with-galtech-infosolutions/business-economy/news/</a>
 </p>
                     </div>
                    
@@ -86,7 +84,7 @@ We have launched an Advertisement Campaign to Recruit & Onboard Partners Across 
             </div>
             <div class="col-md-5 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="img/5516AC-7516AC.jpg" alt="" class="img-responsive">
+                    <img src="img/galtech-info-solutions.jpg" alt="" class="img-responsive">
                 </figure>
             </div>
         </div>
@@ -99,23 +97,28 @@ We have launched an Advertisement Campaign to Recruit & Onboard Partners Across 
 
 <!--2 BEGINS-->
 
-<h2 style="text-align:center;">Latest Products</h2>
+<h2 style="text-align:center;">Latest News</h2>
 
 <!--2 END-->
 
 <div class="carousel-wrap">
   <div class="owl-carousel">
   
-      <div class="item"><img src="img/2010AC-2510AC.jpg"><p></p></div>
-      <div class="item"><img src="img/2303-2309-2809 with Platen.jpg"></div>
-      <div class="item"><img src="img/2303-2309-2809 with RADF.jpg"></div>
-      <div class="item"><img src="img/2518A-3018A-3518A-4518A-5018A.jpg"></div>
-      <div class="item"><img src="img/5508A-6508A-7508A-8508A.jpg"></div>
-      <div class="item"><img src="img/3015AC-3515AC-5015AC.jpg"></div>
-      <div class="item"><img src="img/5516AC-7516AC.jpg"></div>
-      <div class="item"><img src="img/5518A-6518A-7518A-8518A.jpg"></div>
-      
- 
+      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release1.pdf" target="_blank">3 DECEMBER Toshiba Launches Brand-Building Global Advertising Campaign</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release2.pdf" target="_blank">26 SEPTEMBER Toshiba Announces New Global Brand Identity, The "Essence of Toshiba"</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release3.pdf" target="_blank">23 AUGUST Toshiba Carrier Establishes New Joint Venture in India</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_assembly.jpg"><p><a href="img/color_models/toshiba_press_release5.pdf" target="_blank">1 MAY TPSC Expands Water Turbines Assembly line in India</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_takashi.jpg"><p><a href="img/color_models/toshiba_press_release6.pdf" target="_blank">
+17 APRIL TOSHIBA Software India appoints Mr Takashi Ishikawa as new MD </a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_nobuaki.png"><p><a href="img/color_models/toshiba_press_release7.pdf" target="_blank">
+2 APRIL Toshiba Corporation Welcomes Nobuaki Kurumatani as Chairman and CEO</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_turbine.png"><p><a href="img/color_models/toshiba_press_release8.pdf" target="_blank">
+11 DECEMBER Toshiba Turbine Shipments Reach Milestone of 200,000MW</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_gas.png"><p><a href="img/color_models/toshiba_press_release9.pdf" target="_blank">
+28 SEPTEMBER Toshiba to Supply Gas Insulated Switchgears and Transformers for the Republic of Iraq.</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_junichi.jpg"><p><a href="img/color_models/toshiba_press_release10.pdf" target="_blank">
+6 JULY Mr. Junichi Kyushima Appointed as Managing Director, Toshiba Johnson Elevators (India) Pvt. Ltd.</a></p></div>
+      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release11.pdf" target="_blank">14 APRIL Suzuki, Toshiba and Denso reached basic agreement to establish joint venture company for production of automotive lithium-ion battery packs in India</a></p></div>
   </div>
 </div>
 <hr style="height:2em;">

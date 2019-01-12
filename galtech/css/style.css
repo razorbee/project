@@ -597,7 +597,7 @@ div#preloader {
 }
 .default-blog-news .lower-content .text p{
   margin-bottom: 10px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .default-blog-news .lower-content h4 {
@@ -3197,9 +3197,8 @@ img.hover-shadow {
 .column>img{
     margin-bottom: 20px;
     margin-right: 5px;
-    
-   width:100px;
-    height:70px;
+    width:100%;
+    height:300px;
 }
 
 .contact-map{
@@ -3443,6 +3442,51 @@ margin-bottom: 30px;margin-top: 30px;}
 .flicker-img>a>img{width: 115px;
     height: 80px;
     }
+
+.row-img {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+     border: black 0.5px solid;
+/*    background-color: darkgray;*/
+      padding-bottom: 6px;
+  box-shadow: 5px 10px #888888; 
+}
+
+/* Create four equal columns that sits next to each other */
+.column-img {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width:50%;
+  padding: 0 4px;
+ 
+}
+
+.column-img img {
+  margin-top: 8px;
+  vertical-align: middle;
+    
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column-img {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column-img {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/

@@ -1,10 +1,10 @@
 <?php include('head.php');?>
 <?php include('header.php');?>
 
-	<div class="bg"><img src="img/services2.jpg" class="img-fluid" style="filter: blur(1px);
+	<div class="bg"><img src="img/services1.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
-    <h1 style="color:#ffffff">Services &amp; Solutions</h1>
+    <h1 style="color:#ffffff;margin-left:-40px;">Services &amp; Solutions</h1>
     
   </div>
 

@@ -102,7 +102,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/products/dx301_351_base_1505.jpg" alt="products" class="img-responsive">
+<img src="img/products/cp-dh300_800.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>CP-DX351ES</h3>

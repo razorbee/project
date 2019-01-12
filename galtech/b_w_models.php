@@ -35,7 +35,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/2518A-3018A-3518A-4518A-5018A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba LaserJet MFP M436</h3>
@@ -66,7 +66,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/2518A-3018A-3518A-4518A-5018A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba LaserJet MFP M436NDA</h3>
@@ -98,7 +98,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/2518A-3018A-3518A-4518A-5018A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba LaserJet Managed MFP E72525dn</h3>
@@ -135,7 +135,7 @@ inches (A3)<br>
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/2518A-3018A-3518A-4518A-5018A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba LaserJet Managed MFP E72530</h3>
@@ -165,7 +165,7 @@ auto-tone, auto orientation, auto-page-crop, embedded OCR <br>
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba LaserJet Managed MFP E72535</h3>
@@ -195,7 +195,7 @@ auto-tone, auto orientation, auto-page-crop, embedded OCR <br>
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba LaserJet Managed MFP E82540</h3>
@@ -231,7 +231,7 @@ inches (A3)<br>
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba LaserJet Managed MFP E82550</h3>
@@ -261,7 +261,7 @@ inches (A3)<br>
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba LaserJet Managed MFP E82560</h3>
@@ -291,7 +291,7 @@ inches (A3)<br>
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 
 <div class="lower-content">

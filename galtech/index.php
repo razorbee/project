@@ -192,7 +192,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-                      <img src="img/hitachi-product2.jpg">
+                      <img src="img/a4.jpg">
                       
 											
 										</a>
@@ -247,7 +247,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-                      <img src="img/product4.jpg">
+                      <img src="img/display.jpg">
 											
 										</a>
                <h4><a href="interactive_display.php">Large Format Displays</a></h4>

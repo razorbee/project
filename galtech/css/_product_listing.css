@@ -1,0 +1,1151 @@
+//
+// Styles specific to product listing / driver search results
+//
+
+.product-listing-title {
+
+    &.background-image {
+        background-image: url(../img/page-title-bg.png);
+    }
+}
+
+.product-listing {
+    
+    &.inner-max-width {
+        padding-left: 0;
+        padding-right: 0;
+    
+        @include breakpoint($desktop_breakpoint) {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+
+    aside {
+
+        @include breakpoint($desktop_breakpoint) {
+            float: left;
+            margin-top: 60px;
+            width: 230px;
+        }
+
+        &.search-filter {
+            background-color: $color_dark_blue;
+
+            .search-form {
+                border-bottom: 1px solid $color_dark_blue;
+                padding-bottom: 30px;
+                padding-top: 40px;
+                position: relative;
+
+                @include breakpoint($desktop_breakpoint) {
+                    border-bottom: 12px solid $color_white;
+                    padding-bottom: 20px;
+                    padding-top: 20px;
+                }
+
+                input[type=text] {
+                    color: $color_dark_blue;
+                    display: inline-block;
+                    font-size: 2.5rem;
+                    font-weight: 700;
+                    line-height: 1;
+                    padding: 35px 20px;
+                    text-transform: uppercase;
+                    width: calc(100% - 14px);
+
+                    @include breakpoint($desktop_breakpoint) {
+                        font-size: 1.6rem;
+                        line-height: 1.6;
+                        padding: 0 10px;
+                    }
+                }
+                
+                input[type=text]::placeholder {
+                    color: $color_dark_blue;
+                }
+
+                input[type=submit] {
+                    background-color: $color_aqua;
+                    background-image: url(./img/search-white.png);
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    background-size: 40%;
+                    border: none;
+                    border-radius: 100px;
+                    height: 24px;
+                    outline: none;
+                    padding: 27px;
+                    position: absolute;
+                    right: 26px;
+                    text-indent: -9999px;
+                    top: 50px;
+
+                    @include breakpoint($desktop_breakpoint) {
+                        padding: 15px;
+                        right: 20px;
+                        top: 26px;
+                    }
+
+                    &:hover {
+                        background-color: darken($color: $color_aqua, $amount: 20)
+                    }
+                }
+
+                p {
+                    color: $color_white;
+                    font-size: 1.8rem;
+                    margin-bottom: 0;
+                    text-transform: uppercase;
+
+                    @include breakpoint($desktop_breakpoint) {
+                        font-size: 1rem;
+                    }
+                }
+            }
+
+            .product-type-filter {
+                padding-bottom: 40px;
+                padding-top: 35px;
+
+                @include breakpoint($desktop_breakpoint) {
+                    padding-top: 20px;
+                }
+
+                .menu-trigger {
+                    color: $color_aqua;
+                    cursor: pointer;
+                    display: block;
+                    font-size: 2.4rem;
+                    font-weight: 500;
+                    margin: 0;
+                    padding: 1rem 0;
+                    position: relative;
+                    text-transform: uppercase;
+
+                    @include breakpoint($desktop_breakpoint) {
+                        font-size: 1.6rem;
+                    }
+
+                    &:hover {
+                        color: $color_gray;
+                    }
+            
+                    &:after {
+                        background-image: url(./img/angle-up-white.png);
+                        background-position: center center;
+                        background-repeat: no-repeat;
+                        background-size: 100% auto;
+                        content: '';
+                        height: 100%;
+                        position: absolute;
+                        right: 0;
+                        top: 0;
+                        width: 16px;
+
+                        @include breakpoint($desktop_breakpoint) {
+                            background-size: 65% auto;
+                        }
+                    }
+
+                    &.trigger-active {
+                    
+                        &:after {
+                            transform: rotate(180deg);
+                        }    
+                    }
+                }
+            
+                .product-type-select-list {
+                    display: none;
+                    list-style: none;
+                    margin: 0;
+                    opacity: 0;
+                    padding: 15px 0 34px;
+                    width: 100%;
+                    z-index: 5;
+
+                    @include breakpoint($desktop_breakpoint) {
+                        padding: 5px 0 0;
+                    }
+
+                    &.target-active {
+                        animation: fade-in-down ease 0.4s forwards;
+                        display: block;
+                        opacity: 1;
+						padding-left: 1.4rem;
+                    }
+                    
+                    
+            
+					a {
+						color: $color_white;
+						font-size: 2rem;
+						font-weight: 500;
+						position: relative;
+						text-transform: uppercase;
+						display: block;
+						padding: 0.8rem 4rem;
+
+						@include breakpoint($desktop_breakpoint) {
+							font-size: 1.6rem;
+							padding: 0.5rem 3rem;
+						}
+
+						&:before {
+							border: 1px solid $color_aqua;
+							border-radius: 2px;
+							content: ' ';
+							height: 16px;
+							left: 0;
+							position: absolute;
+							top: 14px;
+							width: 16px;
+
+							@include breakpoint($desktop_breakpoint) {
+								height: 12px;
+								//left: -24px;
+								width: 12px;
+								top: 9px;
+							}
+						}
+
+						&:hover,
+						&.active {
+							color: $color_aqua;
+
+							&:before {
+								background-color: $color_aqua;
+							}
+						}
+						li {
+							display: block;
+							margin-right: 3rem;
+							//padding: 0.8rem 4rem;
+							position: relative;
+
+							
+						}
+					}
+                }
+            }
+        }
+    }
+
+    .product-list {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 15px;
+
+        @include breakpoint($desktop_breakpoint) {
+            float: right;
+            padding-left: 0;
+            padding-right: 0;
+            padding-top: 68px;
+            width: calc(100% - 320px);
+        }
+
+        .headers {
+            float: left;
+            width: 50%;
+             @include breakpoint($desktop_breakpoint) {
+				margin-bottom: 3rem;
+			}
+            h1 {
+                font-size: 3rem;
+                font-weight: 900;
+                margin-bottom: 0;
+            }
+
+            h2 {
+                color: $color_aqua;
+                font-family: $font_roboto_condensed;
+				font-weight: 700;
+                margin-top: 0;
+				font-weight: 700;
+				font-size: 1.6rem;
+
+                @include breakpoint($desktop_breakpoint) {
+                    margin-bottom: 0;
+                }
+            }
+        }
+
+        .view-select {
+            float: right;
+            position: relative;
+            width: 50%;
+
+            @include breakpoint($desktop_breakpoint) {
+                //float: left;
+                height: 35px;
+                width: 30%
+            }
+
+            a {
+                display: inline-block;
+                background-color: $color_aqua;
+                background-image: url(./img/grid-view-white.png);
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: 47%;
+                border: none;
+                border-radius: 100px;
+                cursor: pointer;
+                outline: none;
+                padding: 10px 7px;
+                position: absolute;
+                right: 50px;
+                text-indent: -9999px;
+                top: 25px;
+                transition: background-color 0.5s ease-out;
+                width: 20px;
+
+                @include breakpoint($desktop_breakpoint) {
+                    right: 40px;
+                }
+
+                &:hover,
+                &.active-view {
+                    background-color: $color_dark_blue;
+                }
+
+                &.list-view {
+                    background-image: url(./img/list-view-white.png);
+                    right: 0;
+                }
+            }
+        }
+
+        .compare {
+            clear: both;
+            float: right;
+            text-align: right;
+            width: 50%;
+
+            @include breakpoint($desktop_breakpoint) {
+                clear: none;
+                float: left;
+                padding-top: 32px;
+                text-align: right;
+                width: 20%;
+            }
+
+            a {
+                cursor: pointer;
+                font-size: 1.6rem;
+                font-weight: 700;
+
+                @include breakpoint($desktop_breakpoint) {
+                    font-size: 1.5rem;
+                }
+            }
+        }
+
+        .product-tiles {
+            clear: both;
+            padding-top: 70px;
+
+            @include breakpoint($tablet_breakpoint) {
+                padding-top: 0;
+				margin-left: -5%;
+            }
+
+            .product-tile {
+                animation: fade-in-only ease 0.4s forwards;
+                background-color: $color_gray;
+                //cursor: pointer;
+                //margin-top: 180px;
+				margin-bottom: 5rem;
+				position: relative;
+				padding-bottom: 40px;
+                
+                @include breakpoint($tablet_breakpoint) {
+                    float: left;
+                    margin-left: 5%;
+                    width: 28%;
+                }
+                
+                /*@include breakpoint(1180px) {
+                    float: left;
+                    margin-left: 5%;
+                    width: 30%;
+                }*/
+
+               /* &:nth-child(2n) {
+
+                    @include breakpoint($tablet_breakpoint) {
+                        margin-right: 0;
+                        
+                        @include breakpoint(1180px) {
+                            margin-right: 9%;
+                        }
+                    }
+                }
+
+                &:nth-child(3n) {
+
+                    @include breakpoint(1180px) {
+                        margin-right: 0;
+                        
+                    }
+                }*/
+				
+				a.prodLink{
+					display: inline-block;
+					width: 100%;
+					//background-color: $color_gray;
+					h3{
+						transition: color 0.4s ease-in-out;
+						
+					}
+					ul{
+						li{
+							text-transform:none;
+							font-weight: 400;
+							color: $color_black;
+							transition: color 0.4s ease-in-out;
+						}
+					}			
+					
+					&:hover{
+						h3{
+							color:$color_aqua;
+						}
+					}
+					
+				}
+				
+				/*LONG LIST*/
+				ul{
+					list-style: none;
+					
+					li{
+						margin-bottom: 7px;
+						
+					}
+				}
+
+                .product-image {
+                    margin: 0 0 10px;
+                    width: 100%;
+					position: relative;
+					z-index: 5;
+
+                    @include breakpoint($tablet_breakpoint) {
+                       // margin: -85px 5px 15px;
+                    }
+					
+					img{
+						width:90%;
+						position: relative;
+						margin: 0 5%;
+					}
+					
+					&:before{
+						position:absolute;
+						width: 100%;
+						height: 75%;
+						background-color: $color_white;
+						top:0;
+						//z-index: -5;
+						content: "";
+						right:0;
+						display:block;
+					}
+                }
+
+                .product-title {
+                    font-family: $font_roboto_condensed;
+                    font-size: 2.6rem;
+                    line-height: 1.3;
+                    margin-bottom: 15px;
+					text-transform: none;
+					font-weight: 700;
+					position: relative;
+					z-index: 5;
+
+                    @include breakpoint($tablet_breakpoint) {
+                        font-size: 2rem;
+                        margin-bottom: 10px;
+						padding: 0 2rem;
+                    }
+                }
+
+                .product-description {
+                    font-size: 1.8rem;
+                    line-height: 1.4;
+                    margin-bottom: 60px;
+                    margin-top: 0;
+					padding:0 40px;
+					z-index: 5;
+					position: relative;
+
+                    @include breakpoint($tablet_breakpoint) {
+                        font-size: 1.6rem;
+                        margin-bottom: 0px;
+						padding:0 20px;
+                    }
+                }
+
+                .footer {
+                    background-color: $color_dark_blue;
+                   // padding:20px 40px;
+                    position: absolute;
+                    transition: background-color 0.4s ease-in-out;
+					width: 100%;
+					bottom:0;
+					/*NEW*/
+					height: auto;
+					min-height: 40px;
+
+                    @include breakpoint($tablet_breakpoint) {
+                    //    padding:10px 20px;
+                    }
+					
+					h3{
+						background-color: $color_aqua;
+						font-size: 1.8rem;
+						margin:0;
+						position: relative;
+						padding:0 40px;
+						line-height: 50px;
+						transition: background-color 0.4s ease-in-out;
+						@include breakpoint($tablet_breakpoint) {
+							padding:0px 20px;
+							line-height: 45px;
+							font-size: 1.6rem;
+						}
+						&:after{
+							background-image: url("img/angle-up-white.png");
+							background-position: center center;
+							background-repeat: no-repeat;
+							background-size: 14px auto;
+							content: "";
+							height: 100%;
+							position: absolute;
+							right: 40px;
+							top: 0;
+							width: 16px;
+							transform: rotate(180deg);
+							@include breakpoint($tablet_breakpoint) {
+								right: 20px;
+							}
+						}
+						
+						&:hover,
+						&.active{
+							background-color: $color_dark_blue;
+							color:$color_aqua !important;
+						}
+						&:hover{
+							cursor: pointer;
+						}
+						&.active{
+							&:after{
+								transform: rotate(0deg); 
+							}
+						}
+						
+					}
+
+                    &:hover {
+
+                        @include breakpoint($desktop_breakpoint) {
+                           // background-color: $color_dark_blue;
+							
+							h3{
+							//	color:$color_aqua !important;
+							}
+
+                            .compare-select {
+                                color: $color_aqua;
+                                cursor: pointer;
+                                font-weight: 700;
+
+                                &:hover {
+
+                                    &:after {
+                                        background-color: $color_white;
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                   /* a {
+                        cursor: pointer;
+                        display: inline-block;
+                        text-indent: -9999px;
+
+                        &:not(.compare-select) {/*NEW
+                            background-image: url(./img/file-white.svg);
+                            background-position: center center;
+                            background-repeat: no-repeat;
+                            background-size: 100% auto;
+                            height: 32px;
+                            position: absolute;
+                            right: 20px;
+                            top: 15px;
+                            width: 32px;
+
+                            @include breakpoint($tablet_breakpoint) {
+                                height: 20px;
+                                top: 10px;
+                                width: 20px;
+                            }
+
+                            &:hover {
+                                background-image: url(./img/file-aqua.svg);/*./img/book-closed-aqua.svg
+                            }
+                        }
+
+                        &:nth-child(2) {
+                            background-image: url(./img/file-white.svg);
+                            right: 90px;
+
+                            @include breakpoint($tablet_breakpoint) {
+                                right: 60px;
+                            }
+
+                            &:hover {
+                                background-image: url(./img/file-aqua.svg);
+                            }
+                        }
+
+                        &:nth-child(3) {
+                            background-image: url(./img/arrow-white.svg);
+                            right: 55px;
+
+                            @include breakpoint($tablet_breakpoint) {
+                                right: 40px;
+                            }
+
+                            &:hover {
+                                background-image: url(./img/arrow-aqua.svg);
+                            }
+                        }
+                    }
+
+                    .compare-select {
+                        color: $color_dark_blue;
+                        font-size: 2rem;
+                        font-weight: 700;
+                        padding-left: 24px;
+                        position: relative;
+                        text-indent: 0;
+                        transition: color 0.4s ease-in-out;
+
+                        @include breakpoint($tablet_breakpoint) {
+                            font-size: 1.4rem;
+                            padding-left: 20px;
+                        }
+
+                        &:after {
+                            background-color: $color_aqua;
+                            border: 1px solid $color_white;
+                            border-radius: 2px;
+                            content: ' ';
+                            height: 14px;
+                            left: 0;
+                            position: absolute;
+                            width: 14px;
+                            top: 6px;
+                            transition: background-color 0.4s ease-in-out;
+
+                            @include breakpoint($tablet_breakpoint) {
+                                height: 10px;
+                                top: 3px;
+                                width: 10px;
+                            }
+                        }
+                    }*/
+					
+					ul{
+						display: none;
+						//height: 180px;
+						font-size: 1.8rem;
+						padding-bottom: 10px;
+						@include breakpoint($tablet_breakpoint) {
+							padding: 0 20px 0;
+							font-size: 1.4rem;
+						}
+						a{
+							color:$color_white;
+							display: block;
+							font-weight: 400;
+							text-transform: none;
+							font-size:1.6rem;
+							li{
+								position: relative;
+								padding-left: 25px;
+								margin-bottom: 12px;
+								&:before{
+									background-image: url("img/file-aqua.png");
+									background-position: left center;
+									background-repeat: no-repeat;
+									background-size: 100% auto;
+									content: "";
+									height: 20px;
+									left: 0;
+									position: absolute;
+									top: 0;
+									width: 20px;
+								}
+							}
+							
+							&:hover{
+								color:$color_aqua;
+								
+								li{
+									&:before{
+										background-image: url("img/file-white.png");
+									}
+								}
+							}
+						}
+					}
+                }
+
+               /* &.active {
+
+                    .footer {
+                        background-color: $color_dark_blue;
+
+                        .compare-select {
+                            color: $color_aqua;
+                            font-weight: 700;
+
+                            &:after {
+                                background-color: $color_white;
+                            }
+                        }
+                    }
+                }
+
+                &:hover {
+
+                    @include breakpoint($desktop_breakpoint) {
+
+                        .footer {
+                            background-color: $color_dark_blue;
+							color: $color_aqua;
+							
+
+                            .compare-select {
+                                color: $color_aqua;
+                                font-weight: 700;
+
+                                &:after {
+                                    background-color: $color_white;
+                                }
+
+                                &:hover {
+
+                                    &:after {
+                                        background-color: $color_aqua;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }*/
+            }
+        }
+		
+		.grid-view{
+			.product-tile{
+				.footer{
+					z-index: 10;
+				}
+				ul{
+					
+					@include breakpoint($tablet_breakpoint) {
+						height: 240px;
+					}
+				}
+				a.prodLink{	
+					&:after{
+						background-color: transparent;
+						height: 100%;
+						width: 100%;
+						position: absolute;
+						content: '';
+						top: 0;
+						z-index: 0;
+						transition: background-color 0.4s ease-in-out;
+					}
+					&:hover{
+						h3{
+							color:$color_aqua;
+						}
+						ul{
+							li{
+								text-transform:none;
+								font-weight: 400;
+								color: $color_white;
+							}
+						}
+						&:after{
+							background-color: $color_dark_blue;
+						}
+					}
+				}
+			}
+		}
+		
+
+        .list-view {
+            padding-top: 10px;
+                    
+            .product-tile {
+                background-color: transparent;
+                border-bottom: 1px solid $color_gray;
+                margin-bottom: 30px;
+                margin-top: 0;
+                padding-bottom: 20px;
+                padding-top: 10px;
+                transition: unset;
+
+                @include breakpoint($tablet_breakpoint) {
+                    float: none;
+                    margin-right: 0;
+                    margin-top: 0;
+                    position: relative;
+                    width: 100%;
+                }
+                
+                @include breakpoint(1180px) {
+                    float: none;
+                    margin-right: 0;
+                    width: 100%;
+                }
+
+                &:hover {
+                    background-color: transparent;
+
+                    .product-title {
+                       // color: $color_aqua;
+                    }
+
+                    .footer {
+                        background-color: transparent;
+                    }
+                }
+
+                &:nth-child(2n) {
+
+                    @include breakpoint($tablet_breakpoint) {
+                        margin-right: 0;
+                        
+                        @include breakpoint(1180px) {
+                            margin-right: 0;
+                        }
+                    }
+                }
+
+                &:nth-child(3n) {
+
+                    @include breakpoint(1180px) {
+                        margin-right: 0;
+                        
+                    }
+                }
+
+                .product-image {
+                    display: none;
+                }
+
+                .product-title,
+                .product-description,
+                .footer {
+                    padding-left: 0;
+                    padding-right: 0;
+                    margin-bottom: 10px;
+                }
+
+                .product-title {
+                    transition: color 0.4s ease-in-out;
+                }
+
+                .footer {
+                    background-color: transparent;
+                    height: auto;
+                    padding-top: 10px;
+                    transition: unset;
+					position: relative;
+					z-index: 6;
+
+                    @include breakpoint($tablet_breakpoint) {
+                        position: absolute;
+                        right: 0;
+                        top: 17px;
+                        width: 33%;
+                    }
+
+                    &:hover {
+                        background-color: transparent;
+                    }
+					h3{
+						padding:0;
+						line-height: 1.3;
+						margin-bottom: 10;
+						background-color: transparent;
+						color:$color_dark_blue;
+						transition: unset;
+						
+						&:after{
+							background-image:none;
+						}
+						&:hover,
+						&.active{
+							background-color: transparent !important;
+							color:$color_dark_blue !important;
+							cursor: default;
+						}
+					}
+					
+					ul{
+						display:block;
+						padding:0;
+						
+						a{
+							color:$color_dark_blue;
+							
+							&:hover{
+								color: $color_aqua;
+								li{
+									&:before{
+										 background-image: url("img/file-blue.png");
+									}
+								}
+							}
+						}
+					}
+
+                    /*a {
+                        
+                        &:not(.compare-select) {
+                            background-image: url(./img/book-closed-aqua.svg);
+                            cursor: pointer;
+                            right: 0;
+                            top: 8px;
+                            transition: background-image 0.4s ease-in-out;
+
+                            @include breakpoint($tablet_breakpoint) {
+                                top: 40px;
+                            }
+
+                            &:hover {
+                                background-image: url(./img/book-closed-blue.svg); 
+                            }
+                        }
+
+                        &:nth-child(2) {
+                            background-image: url(./img/file-aqua.svg);
+                            right: 60px;
+
+                            @include breakpoint($tablet_breakpoint) {
+                                right: 50px;
+                            }
+
+                            &:hover {
+                                background-image: url(./img/file-blue.svg); 
+                            }
+                        }
+
+                        &:nth-child(3) {
+                            background-image: url(./img/arrow-aqua.svg);
+                            right: 30px;
+
+                            @include breakpoint($tablet_breakpoint) {
+                                right: 25px;
+                            }
+
+                            &:hover {
+                                background-image: url(./img/arrow-blue.svg); 
+                            }
+                        }
+                    }
+
+                    .compare-select {
+                        color: $color_aqua;
+                        font-weight: 700;
+
+                        &:after {
+                            background-color: $color_white;
+                            border-color: $color_aqua;
+                        }
+
+                        &:hover {
+                            color: $color_dark_blue;
+
+                            &:after {
+                                background-color: $color_dark_blue !important;
+                                border-color: $color_dark_blue;
+                            }
+                        }
+                    }*/
+                }
+
+                &.active {
+
+                    .footer {
+                        background-color: transparent;
+                    
+                        .compare-select {
+                            color: $color_dark_blue;
+
+                            &:after {
+                                background-color: $color_dark_blue;
+                                border-color: $color_dark_blue;
+                            }
+
+                            &:hover {
+                                color: $color_dark_blue;
+
+                                &:after {
+                                    background-color: $color_white;
+                                }
+                            }
+                        }
+                    }
+                }
+            }			
+        }
+		
+		.drivers-search{
+			.product-tile{
+				.product-title{
+					@include breakpoint($tablet_breakpoint) {
+						display: block;
+						float: left;
+						line-height: 40px;
+						width: 50%;
+						margin-top:0;
+					}
+				}
+				ul{
+					list-style: none;
+					margin: 0;
+					overflow: hidden;
+					li{
+						a{
+							background-color: $color_dark_blue;
+							color: $color_white;
+							display: block;
+							float: left;
+							height: 40px;
+							line-height: 40px;							
+							text-align: center;
+							margin-bottom: 10px;
+							width: 100%;
+
+							@include breakpoint($tablet_breakpoint) {
+								margin-bottom: 0px;
+								margin-left: 10px;
+								width: 30%;
+							}
+
+							&:hover{
+								background-color: $color_aqua;
+								color: $color_dark_blue;
+							}
+						}
+					}
+				}
+
+				&:hover {
+					background-color: transparent;
+						cursor: default;
+
+					.product-title {
+						color: $color_dark_blue;
+					}
+				}
+			}
+		}
+    }
+	.show-more-container {
+		clear: left;
+		padding: 50px 0 12rem;
+		position: relative;
+		float: right;
+
+		.show-more {
+			cursor: pointer;
+			font-size: 2rem;
+
+			&.disabled{
+				color: $color_gray;
+				cursor: default;
+			}
+		}
+	}
+	.show-less-container {
+		clear: left;
+		padding: 50px 0 0;
+		position: absolute;
+
+
+		.show-less {
+			cursor: pointer;
+			font-size: 2rem;
+
+			&.disabled{
+				color: $color_gray;
+				cursor: default;
+			}
+		}
+	}
+
+    .promotions {
+        clear: both;
+
+        .inner-text {
+            padding: 20px 30px;
+
+            h1 {
+                font-size: 3rem;
+                font-weight: 700;
+                margin-bottom: 0;
+                padding-bottom: 0;
+            }
+
+            p {
+                font-size: 1.9rem;
+                line-height: 1.3;
+                margin-top: 15px;
+            }
+
+            .learn-more {
+                margin-bottom: 50px;
+                margin-top: 85px;
+
+                span {
+                    font-size: 1.7rem;
+                }
+            }
+        }
+    }
+}
+
+@keyframes fade-in-down {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+}
+
+@keyframes fade-in-only {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}

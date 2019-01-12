@@ -37,7 +37,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/5508A-6508A-7508A-8508A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed MFP E87640</h3>
@@ -55,7 +55,7 @@
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
         </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 
 </div>
@@ -69,7 +69,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/5508A-6508A-7508A-8508A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed MFP E87650</h3>
@@ -99,7 +99,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/5508A-6508A-7508A-8508A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed MFP E87660</h3>
@@ -136,7 +136,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/5516AC-7516AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed MFP E77822</h3>
@@ -165,7 +165,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/5516AC-7516AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed MFP E77825</h3>
@@ -196,7 +196,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/5516AC-7516AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed MFP E77830</h3>
@@ -230,7 +230,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/5518A-6518A-7518A-8518A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed MFP</h3>
@@ -253,7 +253,7 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/b_w_models/toshiba_mfp.jpg" alt="products" class="img-responsive">
+<img src="img/5518A-6518A-7518A-8518A.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
 <h3>Toshiba Color LaserJet Managed Flow MFP</h3>

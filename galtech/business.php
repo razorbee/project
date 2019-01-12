@@ -59,7 +59,7 @@ if(!isset($ownership) || empty($ownership)){
        $error[]="ownership is required";
 }
 if(!isset($error) || empty($error)){ 
-       $to ="priyaece38@gmail.com";
+       $to ="priya@razorbee.com";
     $headers="From :"  .$email;
     if(mail($to,$fnm,$lnm,$cnm,$caddress,$state1,$city1,$zcode1,$mob,$email,$nat,$nat,$products)){
        $ins ="insert into dealership values('','".$title."','".$fnm."','".$lnm."','".$cnm."','".$caddress."','".$state1."','".$city1."','".$zcode1."','".$mob."','".$phone1."','".$email."','".$nat."','".$products."','".$ownership."','".$other."','".$message."')";
@@ -85,6 +85,16 @@ if(!isset($error) || empty($error)){
   </div>
 
     </div>
+  <div class="container">
+    <div class="row">
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+         <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>Business</b></div>
+        </div>
+	</div>
+</div>
 <div class="container">
     <div class="row">
 		<h3 style="text-align:center;margin-top:20px;">Dealership Form</h3>

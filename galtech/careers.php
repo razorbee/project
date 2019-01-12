@@ -6,7 +6,7 @@
 	<div class="bg"><img src="img/careers1.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
-    <h1 style="color:#ffffff">Careers</h1>
+    <h1 style="color:#ffffff;">Careers</h1>
     
   </div>
 

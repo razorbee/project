@@ -72,7 +72,7 @@ v
   
         <a href="#"><img src="img/2303-2309-2809 with RADF.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor"></a>
  
-        <a href="#"> <img src="img/2508A-3008A-3508A-4508A-5008A.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor"></a>
+        <a href="#"> <img src="img/5518A-6518A-7518A-8518A.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor"></a>
   
         <a href="#"><img src="img/2518A-3018A-3518A-4518A-5018A.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor"></a>
  
@@ -101,7 +101,7 @@ v
     
     <div class="mySlides">
       <div class="numbertext">4 / 6</div>
-      <img src="img/2508A-3008A-3508A-4508A-5008A.jpg" style="width:100%; height:50%;">
+      <img src="img/5518A-6518A-7518A-8518A.jpg" style="width:100%; height:50%;">
     </div>
       
       <div class="mySlides">
@@ -123,22 +123,22 @@ v
 
 
     <div class="column">
-      <img class="demo cursor" src="img/2010AC-2510AC.jpg" style="width:100%; height:50%;" onclick="currentSlide(1)" alt="Projector1">
+      <img class="demo cursor" src="img/2010AC-2510AC.jpg" onclick="currentSlide(1)" alt="Projector1">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/2303-2309-2809 with Platen.jpg" style="width:100%; height:50%;" onclick="currentSlide(2)" alt="Projector2">
+      <img class="demo cursor" src="img/2303-2309-2809 with Platen.jpg" onclick="currentSlide(2)" alt="Projector2">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/2303-2309-2809 with RADF.jpg" style="width:100%; height:50%;" onclick="currentSlide(3)" alt="Projector3">
+      <img class="demo cursor" src="img/2303-2309-2809 with RADF.jpg"  onclick="currentSlide(3)" alt="Projector3">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/2508A-3008A-3508A-4508A-5008A.jpg" style="width:80%; height:220px;" onclick="currentSlide(4)" alt="Projector4">
+      <img class="demo cursor" src="img/5518A-6518A-7518A-8518A.jpg" onclick="currentSlide(4)" alt="Projector4">
     </div>
       <div class="column">
-      <img class="demo cursor" src="img/2518A-3018A-3518A-4518A-5018A.jpg" style="width:100%; height:50%;" onclick="currentSlide(4)" alt="Projector4">
+      <img class="demo cursor" src="img/2518A-3018A-3518A-4518A-5018A.jpg" onclick="currentSlide(5)" alt="Projector5">
     </div>
       <div class="column">
-      <img class="demo cursor" src="img/3015AC-3515AC-5015AC.jpg" style="width:100%; height:50%;" onclick="currentSlide(4)" alt="Projector4">
+      <img class="demo cursor" src="img/3015AC-3515AC-5015AC.jpg"  onclick="currentSlide(6)" alt="Projector6">
     </div>
   </div>
 </div>
