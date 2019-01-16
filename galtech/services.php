@@ -53,7 +53,7 @@
             
             <div class="col-md-5 col-sm-12 col-xs-12">
                 <figure class="img-box" style="margin-top:30px;">
-                    <img src="img/services.jpg" alt="" class="img-responsive">
+                    <img src="img/services.jpg" alt="" class="img-responsive" style="border-radius:20px;">
                 </figure>
             </div>
         </div>

@@ -37,7 +37,7 @@
 
                     </div>
                    
-                   <h4>Mail your resume to : response@galtechinfo.com</h4>                   
+                   <h4>Mail your resume to : response&#64;galtechinfo.com</h4>                   
                     
                 </div>
             </div>

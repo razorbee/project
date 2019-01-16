@@ -247,10 +247,10 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-                      <img src="img/display.jpg">
+                      <img src="img/ifd.png">
 											
 										</a>
-               <h4><a href="interactive_display.php">Large Format Displays</a></h4>
+               <h4><a href="interactive_display.php">Interactive Flat  Panel Display</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -315,36 +315,40 @@
   <!-- End Wellcome Area -->
 
   <!-- Faq area start -->
-  <div class="faq-area area-padding"  style="margin-bottom: -20px;">
+  <div class="faq-area area-padding"  style="margin-bottom: 50px;">
     <div class="container">
       <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
+     
           <div class="section-headline text-center">
             <h2>Services &amp; Solutions</h2>
+                 <div class="col-lg-12">
+                <div class="col-md-4 col-lg-8 col-sm-2">
               <p>Technology is the core to our business & with a strong team of Pre-sales & Services we are pleased to offer a wide range of Solutions & Services as listed below,</p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        
-        <div class="col-md-4 col-lg-4 col-sm-2"><h3 class="services-menu">Solutions</h3>
+         
+      
+
+      
+        <div class="col-md-4 col-lg-6 col-sm-2"><h3 class="services-menu">Solutions</h3>
                     <ul class="list">
                         <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Breakfix Services <br>
 - A3 Multifunction Devices & Multimedia Projectors</li>
                         <li><i class="fa fa-check-circle-o"></i> Managed Print Services</li>
                     </ul></div>
-          <div class="col-md-4 col-lg-4 col-sm-2"><h3 class="services-menu">Services</h3>
+          <div class="col-md-4 col-lg-6 col-sm-2"><h3 class="services-menu">Services</h3>
                     <ul class="list">
                         <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Audio Video System Ingegration</li>
                         <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Secured Printing Solutions</li>
                     </ul></div>
+         </div>
            <div class="col-md-4 col-lg-4 col-sm-2">
                <img class="aboutimg" src="img/multifunctiondevice.png" alt="" style="height:280px;width:550px;margin-top:-10px;">
-                   
+                     </div>             
       </div>
+          </div>
       <!-- end Row -->
     </div>
   </div>
+ </div>
   <!-- End Faq Area -->
 
  
@@ -484,7 +488,7 @@
     </div>
   </div>
   <!-- End Contact Area -->
- </div>
+
   <!-- Start Footer bottom Area -->
 <!--    https://tawk.to/chat/5c20df4f7a79fc1bddf21be6/default-->
     

@@ -1,9 +1,9 @@
 <?php include('head.php');?>
 <?php include('header.php');?>	
-<div class="bg"><img src="img/aboutus.jpg" class="img-fluid" style="filter: blur(1px);
+<div class="bg"><img src="img/images.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);height:300px;">
        <div class="hero-text">
-    <h1 style="color:#000000; margin-left:700px;">About Us</h1>
+    <h1 style="color:#000000; margin-left:-40px;">About Us</h1>
     
   </div>
 
@@ -38,18 +38,18 @@
                 </div> 
             <div class="col-md-5 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="img/aboutgaltech.png" alt="" class="img-responsive" style="height:450px; border-radius:20px;width:500px;">
+                    <img src="img/aboutgaltech.png" alt="" class="img-responsive" style="height:400px; border-radius:20px;width:900;">
                 </figure>
             </div>
  
  </div> 
     </div>
     </section>
-    <section class="default-section" style="margin-left:35px; margin-bottom: 15px;">
+    <section class="default-section" style="height:350px;margin-bottom: 15px;background-color:#f9f9f9;">
      <div class="container">
         <div class="row">
             
-                   <h3  style="color: #2261a6; text-align: center;"> Our OEM Partners</h3>
+                   <h3  style="color: #2261a6; text-align: center;margin-top:30px;"> Our OEM Partners</h3>
             <div class="col-md-4 col-sm-12 col-xs-12">
                 <div class="row-img"> 
   <div class="column-img">
@@ -72,11 +72,11 @@
      <div class="container">
         <div class="row">
             
-                   <h5> <b>Mr.Kishore Krishnan, Managing Director – Galtech Infosolutions</b></h5>
+                   <h5 style="margin-top: 50px;"> <b>Mr.Kishore Krishnan, Managing Director – Galtech Infosolutions</b></h5>
            
             <div class="col-md-9 col-sm-12 col-xs-12"><p>Mr.Kishore has more than 2 decades of Business & Product management experience in office automation Industry and has deep Product & Solution knowledge about Multifunction Printers, Projectors and other office automation solutions. He has worked with diverse customer base and understands the customer’s need and requirement.</p>
             <p>Connect with him through Linkedin – <a href=" https://www.linkedin.com/in/kishore-krishnan/">www.linkedin.com/in/kishore-krishnan</a></p></div>
-             <div class="col-md-3 col-sm-12 col-xs-12"><img src="img/Kishore-Krishnan.jpg" alt="" class="img-responsive" style="height:100%; border-radius:20px;margin-top:-50px;"></div>
+             <div class="col-md-3 col-sm-12 col-xs-12"><img src="img/Kishore-Krishnan.jpg" alt="" class="img-responsive" style="height:100%; border-radius:20px;margin-top:-100px;"></div>
             </div>
     </div>
 </section>

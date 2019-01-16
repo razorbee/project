@@ -80,38 +80,38 @@ v
   </div>
 
 <div id="myModal" class="modal" style="z-index:10;">
-  <span class="close cursor" onclick="closeModal()" style="margin-top:100px; color:white;">&times; </span>
-    <h1 style="color:#ffffff;text-align:center;">Gallery</h1>
+  <span class="close cursor" onclick="closeModal()" style="margin-top:100px; color:white;height:500px;">&times; </span>
+    <h1 style="color:#ffffff;text-align:center;"></h1>
   <div class="modal-content">
 
     <div class="mySlides">
       <div class="numbertext">1 / 6</div>
-      <img src="img/2010AC-2510AC.jpg" style="width:100%; height:50%;">
+      <img src="img/2010AC-2510AC.jpg" style="width:100%; height:10%;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">2 / 6</div>
-      <img src="img/2303-2309-2809 with Platen.jpg" style="width:100%; height:50%;">
+      <img src="img/2303-2309-2809 with Platen.jpg" style="width:100%; height:10%;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">3 / 6</div>
-      <img src="img/2303-2309-2809 with RADF.jpg" style="width:100%; height:50%">
+      <img src="img/2303-2309-2809 with RADF.jpg" style="width:100%; height:10%;">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">4 / 6</div>
-      <img src="img/5518A-6518A-7518A-8518A.jpg" style="width:100%; height:50%;">
+      <img src="img/5518A-6518A-7518A-8518A.jpg" style="width:100%;height:10%;">
     </div>
       
       <div class="mySlides">
       <div class="numbertext">5 / 6</div>
-      <img src="img/2518A-3018A-3518A-4518A-5018A.jpg" style="width:100%; height:50%;">
+      <img src="img/2518A-3018A-3518A-4518A-5018A.jpg" style="width:100%;height:10%;">
     </div>
       
       <div class="mySlides">
       <div class="numbertext">6 / 6</div>
-      <img src="img/3015AC-3515AC-5015AC.jpg" style="width:100%; height:50%;">
+      <img src="img/3015AC-3515AC-5015AC.jpg" style="width:100%; height:10%;">
     </div>
     
     <a class="prev" onclick="plusSlides(-1)" style="background-color:#000000;">&#10094;</a>
@@ -123,22 +123,22 @@ v
 
 
     <div class="column">
-      <img class="demo cursor" src="img/2010AC-2510AC.jpg" onclick="currentSlide(1)" alt="Projector1">
+      <img class="demo cursor" src="img/2010AC-2510AC.jpg" onclick="currentSlide(1)" alt="">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/2303-2309-2809 with Platen.jpg" onclick="currentSlide(2)" alt="Projector2">
+      <img class="demo cursor" src="img/2303-2309-2809 with Platen.jpg" onclick="currentSlide(2)" alt="">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/2303-2309-2809 with RADF.jpg"  onclick="currentSlide(3)" alt="Projector3">
+      <img class="demo cursor" src="img/2303-2309-2809 with RADF.jpg"  onclick="currentSlide(3)" alt="">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/5518A-6518A-7518A-8518A.jpg" onclick="currentSlide(4)" alt="Projector4">
+      <img class="demo cursor" src="img/5518A-6518A-7518A-8518A.jpg" onclick="currentSlide(4)" alt="">
     </div>
       <div class="column">
-      <img class="demo cursor" src="img/2518A-3018A-3518A-4518A-5018A.jpg" onclick="currentSlide(5)" alt="Projector5">
+      <img class="demo cursor" src="img/2518A-3018A-3518A-4518A-5018A.jpg" onclick="currentSlide(5)" alt="">
     </div>
       <div class="column">
-      <img class="demo cursor" src="img/3015AC-3515AC-5015AC.jpg"  onclick="currentSlide(6)" alt="Projector6">
+      <img class="demo cursor" src="img/3015AC-3515AC-5015AC.jpg"  onclick="currentSlide(6)" alt="">
     </div>
   </div>
 </div>

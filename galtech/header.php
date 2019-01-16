@@ -175,7 +175,7 @@
                           </ul>
                         </li>
                       <li><a href=#>Multimedia Projectors <span class="fa fa-caret-right"></span></a>
-                        <ul class="dropdown-menu-bar" role="menu">
+                        <ul class="dropdown-menu-bar" role="menu" style="margin-top:30px;">
                               <li><a href="super_short_throw.php">Super Short Throw</a></li>
                             <li><a href="ultra_interactive_short_throw.php">Ultra Interactive Short Throw</a></li>
                             <li><a href="ultra_short_throw.php">Ultra Short Throw</a></li>
