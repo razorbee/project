@@ -80,7 +80,7 @@ v
   </div>
 
 <div id="myModal" class="modal" style="z-index:10;">
-  <span class="close cursor" onclick="closeModal()" style="margin-top:100px; color:white;height:500px;">&times; </span>
+  <span class="close cursor" onclick="closeModal()" style="margin-top:100px;">&times; </span>
     <h1 style="color:#ffffff;text-align:center;"></h1>
   <div class="modal-content">
 

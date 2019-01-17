@@ -6,23 +6,18 @@
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:black">Portable &amp; Installation</h1>
-    
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-190px;">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Multimedia Projector</b></a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info1"><b>Portable &amp; Installation</b></div>
+        </div>
   </div>
 
     </div>
-    
-   <div class="container">
-    <div class="row">
-		
-        <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
-            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Multimedia Projector</a>
-           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
-            <div class="btn btn-info"><b>Portable &amp; Installation</b></div>
-        </div>
-	</div>
-</div>
+
+   
 <section class="blog-section">
 <div class="container">
 
@@ -114,10 +109,10 @@
 <div class="text">
 <p>3,200 ANSI Lumens, XGA</p>
 <p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Full Connectivity<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Quick Start & Instant Off<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Auto Vertical Keystone<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Input Spurce Naming<br>
+<i style="color:#68a4e2;margin-top: 2px!important;" class="fa fa-caret-right"></i> Full Connectivity<br>
+<i style="color:#68a4e2; margin-top: 2px!important;" class="fa fa-caret-right"></i> Quick Start & Instant Off<br>
+<i style="color:#68a4e2; margin-top: 2px!important;" class="fa fa-caret-right"></i> Auto Vertical Keystone<br>
+<i style="color:#68a4e2; margin-top: 2px!important;" class="fa fa-caret-right"></i> Input Spurce Naming<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> My Button<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Low Level Noise - 29dB<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 7W Audio Output<br>

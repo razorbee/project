@@ -6,22 +6,17 @@
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:black">B/W Models</h1>
-    
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-275px;">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Digital Copiers/Multifunction Devices</b></a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info1"><b>B/W Models</b></div>
+        </div>
   </div>
 
     </div>
-<div class="container">
-    <div class="row">
-		
-        <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
-            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Digital Copiers/Multifunction Devices</a>
-           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
-            <div class="btn btn-info"><b>B/W Models</b></div>
-        </div>
-	</div>
-</div>
+
 <section class="blog-section">
 <div class="container">
 
@@ -75,12 +70,12 @@
 <p>Optimise your printing environment</p>
 <div class="text-box">
 <p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 4-line LCD, 10-key pad, 4-button quick set<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex: up to 23 ppm<br>
-<i style="color:#68a4e2; visibility:hidden;" class="fa fa-caret-right"></i> Duplex: up to 12 images per minute (ipm)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 600 x 600 dpi<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 23 copies per minute (cpm)<br>
+<i style="color:#68a4e2; margin-top:7px!important;" class="fa fa-caret-right"></i> Print, copy, and scan<br>
+<i style="color:#68a4e2; margin-top:7px!important;" class="fa fa-caret-right"></i> 4-line LCD, 10-key pad, 4-button quick set<br>
+<i style="color:#68a4e2; margin-top:7px!important;" class="fa fa-caret-right"></i> Simplex: up to 23 ppm<br>
+<i style="color:#68a4e2; visibility:hidden; margin-top:7px!important;" class="fa fa-caret-right"></i> Duplex: up to 12 images per minute (ipm)<br>
+<i style="color:#68a4e2; margin-top:7px!important;" class="fa fa-caret-right"></i> 600 x 600 dpi<br>
+<i style="color:#68a4e2; margin-top:7px!important;" class="fa fa-caret-right"></i> Up to 23 copies per minute (cpm)<br>
 </p>
   </div> 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
@@ -151,9 +146,10 @@ inches (A3)<br>
 auto-tone, auto orientation, auto-page-crop, embedded OCR <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> 250 sheets, supports media up to 11 x 17inches (A3)<br>
 </p>
+    <p clas="space"></p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know" style="margin-top:15px!important;">Know More</a>
+<a href="contact.php" class="btn btn-info" style="margin-top:15px!important;">Buy Now</a>
 </div>
 </div>
 </div>
@@ -181,8 +177,8 @@ auto-tone, auto orientation, auto-page-crop, embedded OCR <br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®)<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know" style="margin-top:15px!important;">Know More</a>
+<a href="contact.php" class="btn btn-info" style="margin-top:15px!important;">Buy Now</a>
 </div>
 </div>
 </div>
@@ -212,8 +208,8 @@ inches (A3)<br>
 <i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
 </p>
     </div>
-<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know" style="margin-top:12px!important;">Know More</a>
+<a href="contact.php" class="btn btn-info" style="margin-top:15px!important;">Buy Now</a>
 </div>
 </div>
 </div>

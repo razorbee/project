@@ -4,21 +4,15 @@
   -webkit-filter: blur(1px);height:300px;">
        <div class="hero-text">
     <h1 style="color:#000000; margin-left:-40px;">About Us</h1>
-    
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-320px;">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block">...</div>
+            <div class="btn btn-info1"><b>About Us</b></div>
+        </div>
   </div>
 
     </div>
- <div class="container">
-    <div class="row">
-		
-        <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
-            <div class="btn btn-info"><b>About Us</b></div>
-        </div>
-	</div>
-</div>
-
+ 
 <section class="default-section">
     <div class="container">
         <div class="row">

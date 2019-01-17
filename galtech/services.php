@@ -5,23 +5,18 @@
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:#ffffff;margin-left:-40px;">Services &amp; Solutions</h1>
-    
-  </div>
-
-    </div>
-<div class="container">
-    <div class="row">
-		
-        <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-220px;">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"  style="color:white;"></i></a>
 <!--
         
            <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
 -->
-            <div class="btn btn-info"><b>Services &amp; Solutions</b></div>
+            <div class="btn btn-info1"  style="color:white;"><b>Services &amp; Solutions</b></div>
         </div>
-	</div>
-</div>
+  </div>
+
+    </div>
+
 <section class="default-section">
     <div class="container">
         <div class="row">

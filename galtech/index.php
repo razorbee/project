@@ -381,8 +381,9 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
           <div class="suscribe-text text-center">
-            <h3>Welcome to our Galtech</h3>
-            <a class="sus-btn" href="about.php">Explore us</a>
+            <h3>	&ldquo;wishing you a happy and peaceful new year	&rdquo;</h3>
+              <h5 class="subscribe">--<i>CEO  Galtech</i></h5>
+<!--            <a class="sus-btn" href="about.php">Explore us</a>-->
           </div>
         </div>
       </div>

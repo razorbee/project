@@ -6,22 +6,16 @@
     <div class="bg"><img src="img/image%20(2).png" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);height:350px;width:100%">
        <div class="hero-text">
-    <h1 style="color:white;display:inline-block;margin-top:-1000px; ">Contact Us</h1>
-    
+    <h1 style="color:white;display:inline-block;">Contact Us</h1>
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-bottom:-165px;margin-left:-500px;">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home" style="color:white;"></i></a>
+     
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info1"  style="color:white;"><b>Contact Us</b></div>
+        </div>
   </div>
 
     </div>
-</div>
-<div class="container">
-    <div class="row">
-		
-        <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-     
-           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
-            <div class="btn btn-info"><b>Contact Us</b></div>
-        </div>
-	</div>
 </div>
 
 <section class="contact_details sec-padd2">

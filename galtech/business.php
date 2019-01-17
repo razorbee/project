@@ -81,20 +81,15 @@ if(!isset($error) || empty($error)){
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:#ffffff">Business</h1>
-    
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-320px;">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"  style="color:white;"></i></a>
+         <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info1" style="color:white;"><b>Business</b></div>
+        </div>
   </div>
 
     </div>
-  <div class="container">
-    <div class="row">
-		
-        <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-         <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
-            <div class="btn btn-info"><b>Business</b></div>
-        </div>
-	</div>
-</div>
+  
 <div class="container">
     <div class="row">
 		<h3 style="text-align:center;margin-top:20px;">Dealership Form</h3>

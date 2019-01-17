@@ -5,20 +5,20 @@
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:black">Ultra High Resolution</h1>
-    
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-190px;">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
+            <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Multimedia Projector</b></a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info1"><b>Ultra High Resolution</b></div>
+        </div>
   </div>
 
     </div>
 <div class="container">
     <div class="row">
 		
-        <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Products</a>
-            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Multimedia Projector</a>
-           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
-            <div class="btn btn-info"><b>Ultra High Resolution</b></div>
-        </div>
+        
 	</div>
 </div>
 <section class="blog-section">

@@ -7,20 +7,15 @@
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:#ffffff;">Careers</h1>
-    
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-320px;">
+            <a href="index.php" class="btn btn-default" style="color:white;"><i class="glyphicon glyphicon-home"></i></a>
+         <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info1" style="color:white;"><b>Careers</b></div>
+        </div>
   </div>
 
     </div>
-  <div class="container">
-    <div class="row">
-		
-        <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-         <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
-            <div class="btn btn-info"><b>Careers</b></div>
-        </div>
-	</div>
-</div>
+  
 <section class="default-section">
     <div class="container">
         <div class="row">

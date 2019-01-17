@@ -3048,7 +3048,7 @@ li{
 
 .bgimg{
   position: relative;
-  font-family: Arial;
+ 
 }
 
 .text-block {
@@ -3062,13 +3062,13 @@ li{
 }
 
 .text-box{
-    height:280px!important;
+    height:300px!important;
 }
 .text-boxbar{
-   height:390px!important;  
+   height:480px!important;  
 }
 .text-boxbase{
-   height:320px!important;  
+   height:360px!important;  
 }
 
 * {
@@ -3103,7 +3103,7 @@ li{
   width: 100%;
   height: 100%;
 /*  overflow: auto;*/
-  background-color: darkgrey;
+background-color: #fbfbfb;
 }
 
 /* Modal Content */
@@ -3119,17 +3119,18 @@ li{
 
 /* The Close Button */
 .close {
-  color: #fff!important;
+  color: #000!important;
   position: relative;
   top: -100px;
   right: 150px;
   font-size: 35px;
   font-weight: bold;
+    background-color: #fff!important;
 }
 
 .close:hover,
 .close:focus {
-  color: #999;
+  color: #000;
   text-decoration: none;
   cursor: pointer;
 }
@@ -3242,19 +3243,29 @@ padding:-15px;
 @media (max-width: 767px) {
 	.btn-breadcrumb { margin-left: 10px; margin-right: 10px; width: calc(100% - 20px) !important; }
 }
+.btn-default{
+    background: rgba(255, 255, 255, 0.1)!important;
+   
+}
 
 .btn-breadcrumb{
-	    width: auto;
-	background-color: #fff;
+	
+background: rgba(255, 255, 255, 0.1);
 	border-radius: 4px;
 	border: solid 1px #ccc;
+width:auto; 
+}
+
+.btn-default::after{
+    background: rgba(255, 255, 255, 0.1);
 }
 .btn-breadcrumb .btn{
-	border-color: transparent; border: 0px solid transparent;
+	border-color: transparent; 
+    border: 0px solid transparent;
 	border-right: 1px solid transparent !important; 
 	font-size: 11px;
 }
-.breadcrumb-default{ background-color: #fff;  margin-left:-205px;}
+.breadcrumb-default{ background-color:  rgba(255, 255, 255, 0.1); margin-top: 30px;}
 .btn-primary,.breadcrumb-primary{ background-color: #337ab7; }
 .btn-primary:hover{background-color: #286090;}
 
@@ -3283,6 +3294,8 @@ padding:-15px;
 .btn-breadcrumb .btn-derecha:after, .btn-breadcrumb .btn-derecha:before{
 	content: none !important;
 }
+
+
 
 .btn-breadcrumb .btn:after {
   content: " ";
@@ -3351,9 +3364,9 @@ padding:-15px;
 .breadcrumb-warning{ border: solid 1px #d58512; }
 
 /** Info button **/
-.btn-breadcrumb .btn.btn-info:after {border-left: 10px solid #5bc0de;}
-.btn-breadcrumb .btn.btn-info:hover:after {border-left: 10px solid #31b0d5;}
-.btn-breadcrumb .btn.btn-info:hover:before, .btn-breadcrumb .btn.btn-info:before {border-left: 10px solid #269abc;}
+.btn-breadcrumb .btn.btn-info1:after {border-left:  10px solid #fff;}
+.btn-breadcrumb .btn.btn-info1:hover:after {border-left:  10px solid #ec971f;}
+.btn-breadcrumb .btn.btn-info1:hover:before, .btn-breadcrumb .btn.btn-info1:before {border-left:  10px solid #d58512;}
 .breadcrumb-info{ border: solid 1px #269abc; }
 @media screen and (min-width: 360px) and (max-width: 1000px){
     
@@ -3500,6 +3513,16 @@ margin-bottom: 30px;margin-top: 30px;}
     max-width: 100%;
   }
 }
-/*----------------------------------------
+.subscribe{
+    color:white;
+    margin-left: 350px;
+}
+.lower-content p > i{
+    margin-top:7px!important;
+}
+.space{
+   margin-bottom:10px!important;
+}
+----------------------------------------
  .End CSS
 ----------------------------------------*/
