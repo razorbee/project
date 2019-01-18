@@ -40,7 +40,7 @@
                     </div>
                     <h4>Send Mail</h4>
                     <div class="text">
-                        <p>response@galtechinfo.com<br></p>
+                        <p class="center_text">response@galtechinfo.com<br></p>
                         <br>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="form-group">
                                     <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="" >
-                                    <button class="thm-btn2" type="submit" data-loading-text="Please wait..." style="margin-left: 45%;"><i class=" fa fa-paper-plane"></i> Send</button>
+                                    <button class="thm-btn2" type="submit" data-loading-text="Please wait..." ><i class=" fa fa-paper-plane"></i> Send</button>
                                 </div>
                             </div>   
 

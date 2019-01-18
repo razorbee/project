@@ -1,10 +1,10 @@
 <?php include('head.php');?>
 <?php include('header.php');?>	
 <div class="bg"><img src="img/images.jpg" class="img-fluid" style="filter: blur(1px);
-  -webkit-filter: blur(1px);height:300px;">
+  -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:#000000; margin-left:-40px;">About Us</h1>
-    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-320px;">
+    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-320px;margin-top:20px;">
             <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
            <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block">...</div>
             <div class="btn btn-info1"><b>About Us</b></div>
@@ -66,7 +66,7 @@
      <div class="container">
         <div class="row">
             
-                   <h5 style="margin-top: 50px;"> <b>Mr.Kishore Krishnan, Managing Director – Galtech Infosolutions</b></h5>
+                   <h5 class="client" style="margin-top: 50px;"> <b>Mr.Kishore Krishnan, Managing Director – Galtech Infosolutions</b></h5>
            
             <div class="col-md-9 col-sm-12 col-xs-12"><p>Mr.Kishore has more than 2 decades of Business & Product management experience in office automation Industry and has deep Product & Solution knowledge about Multifunction Printers, Projectors and other office automation solutions. He has worked with diverse customer base and understands the customer’s need and requirement.</p>
             <p>Connect with him through Linkedin – <a href=" https://www.linkedin.com/in/kishore-krishnan/">www.linkedin.com/in/kishore-krishnan</a></p></div>
