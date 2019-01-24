@@ -9,7 +9,7 @@
         <img class="bannerimage" src="img/banner5.jpg" alt="" title="#slider-direction-1" />
         <img class="bannerimage" src="img/banner2.jpg" alt="" title="#slider-direction-2" />
         <img class="bannerimage" src="img/banner3.png" alt="" title="#slider-direction-3" />
-          
+         <img class="bannerimage" src="img/banner10.jpg" alt="" title="#slider-direction-4" /> 
       </div>
 
       <!-- direction 1 -->
@@ -25,7 +25,7 @@
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h2 class="title2"  style="margin-left:-550px;">Its modern design is pleasing to the eyes and<br>coded with site performance in mind</h2>
+                  <h2 class="title2"  style="margin-left:-600px;">Your ultimate destination for Office<br>Automation Products and Solutions.</h2>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -75,11 +75,36 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h1 class="title1">Toshiba Leading Innovation</h1>
+                  <h1 class="title1">Secured Printing Solutions</h1>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h2 class="title2">Provide users optimal viewing experience, easy to read and navigate in all size devices</h2>
+                  <h2 class="title2">Protect confidential & Critical document printing</h2>
+                </div>
+                <!-- layer 3 -->
+                <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+<!--
+                  <a class="ready-btn right-btn page-scroll" href="#services">See Services</a>
+                  <a class="ready-btn page-scroll" href="#about">Learn More</a>
+-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+        <div id="slider-direction-4" class="slider-direction slider-two">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="slider-content">
+                <!-- layer 1 -->
+                <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                  <h1 class="title1">Cloudwalker’s Interactive Flat Panel Display</h1>
+                </div>
+                <!-- layer 2 -->
+                <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
+                  <h2 class="title2">Interact, collaborate and present more efficiently.</h2>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -128,7 +153,7 @@
               <p>
                 Galtech Info solutions Pvt Ltd. is a one stop solution provider for all your Office Automation requirements. The core objective of the company is to deliver Value to all our stakeholders at every stage of our partnership.
               </p>
-                <a class="ready-btn right-btn page-scroll" href="about.php" style="width:250px;margin-left:120px;">Who we are?</a>
+                <a class="ready-btn right-btn page-scroll ready_class" href="about.php" style="width:250px;margin-left:120px;">Who we are?</a>
 <!--
               <ul>
                 <li>
@@ -178,7 +203,7 @@
                   <a class="services-icon">
 											<img src="img/toshiba_product1.jpg">
 										</a>
-                    <h4><a href="b_w_models.php">A3 Multifunction Devices</a></h4>
+                    <h4><a href="color_models.php">Toshiba Digital Copiers</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -196,7 +221,7 @@
                       
 											
 										</a>
-                    <h4><a href="color_models.php">A4 Laser Printers/MFDs</a></h4>
+                    <h4><a href="laser.php">Laser</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -213,7 +238,7 @@
                   <a class="services-icon" href="#">
 											<img src="img/product3.jpg">
 										</a>
-                    <h4><a href="b_w_models.php">Digital Duplicators</a></h4>
+                    <h4><a href="b_w_models.php">Multifunction Devices</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -231,7 +256,7 @@
 											
                       <img src="img/products/ed_x32.jpg">
 										</a>
-                    <h4><a href="portable_installation.php">Multimedia Projectors &amp; Accessories</a></h4>
+                    <h4><a href="portables.php">Hitachi Multimedia Projectors</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -266,9 +291,8 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<img src="img/product7.jpg">
-										</a>
-                    <h4><a href="wireless.php">Wi-Fi Devices for Wireless display</a></h4>
+                      <img src="img/AirStreamUno.jpg"></a>
+                    <h4><a href="wireless.php">Wireless Presentation Devices</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -292,10 +316,10 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="wellcome-text">
               <div class="well-text text-center">
-                <h1>Our Goal</h1>
-                <h4>
+                <h2 class="goal_title">Our Goal</h2>
+                <h5>
                   Our goal is to be the first choice of our Customers & Partners in our areas of operation & be the No.1 Partner for our OEMs.
-                </h4>
+                </h5>
 <!--
                 <div class="subs-feilds">
                   <div class="suscribe-input">
@@ -328,20 +352,19 @@
       
 
       
-        <div class="col-md-4 col-lg-6 col-sm-2"><h3 class="services-menu">Solutions</h3>
+        <div class="col-md-4 col-lg-6 col-sm-2"><h3 class="services-menu">Services</h3>
                     <ul class="list">
-                        <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Breakfix Services <br>
-- A3 Multifunction Devices & Multimedia Projectors</li>
-                        <li><i class="fa fa-check-circle-o"></i> Managed Print Services</li>
+                        <li><img src="img/customer-support.png" style="height:30px;width:30px;">&nbsp;&nbsp;Breakfix Services </li>
+                        <li><img src="img/settings.png" style="height:30px;width:30px;">&nbsp;&nbsp;Managed Print Services</li>
                     </ul></div>
-          <div class="col-md-4 col-lg-6 col-sm-2"><h3 class="services-menu">Services</h3>
+          <div class="col-md-4 col-lg-6 col-sm-2"><h3 class="services-menu">Solutions</h3>
                     <ul class="list">
-                        <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Audio Video System Ingegration</li>
-                        <li><i class="fa fa-check-circle-o"></i>&nbsp;&nbsp;&nbsp;Secured Printing Solutions</li>
+                        <li><img src="img/camera.png" style="height:30px;width:30px;">&nbsp;&nbsp;Audio Video System Ingegration</li>
+                        <li><img src="img/printer%20(2).png" style="height:30px;width:30px;">&nbsp;&nbsp;Secured Printing Solutions</li>
                     </ul></div>
          </div>
            <div class="col-md-4 col-lg-4 col-sm-2">
-               <img class="aboutimg" src="img/multifunctiondevice.png" alt="" style="height:280px;width:550px;margin-top:-10px;">
+               <img class="aboutimg" src="img/multifunctiondevice.png" alt="" style="height:300px;width:550px;margin-top:0px;">
                      </div>             
       </div>
           </div>
@@ -381,8 +404,8 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
           <div class="suscribe-text text-center">
-            <h3>	&ldquo;wishing you a happy and peaceful new year	&rdquo;</h3>
-              <h5 class="subscribe">--<i>CEO  Galtech</i></h5>
+            <h4 style="color:#fff;">&ldquo;Print is the sharpest and the strongest weapon of our party	&rdquo;</h4>
+              <h5 class="subscribe">--<i>Joseph Stalin</i></h5>
 <!--            <a class="sus-btn" href="about.php">Explore us</a>-->
           </div>
         </div>
@@ -445,7 +468,7 @@
           <!-- Start Google Map -->
           <div class="col-md-6 col-sm-6 col-xs-12">
             <!-- Start Map -->
-            <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=galtech%20infosolutions%20pvt%20ltd&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de/webdesign/">webdesign pureblack gmbh</a></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:500px;}
+            <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500"  id="gmap_canvas" src="https://maps.google.com/maps?q=galtech&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de/internetagentur/"></a></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:500px;}
                 @media all and (max-width: 700px) and (min-width: 300px) {
  
                     .gmap_canvas {

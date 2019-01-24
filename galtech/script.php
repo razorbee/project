@@ -14,7 +14,7 @@
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
   <script src="contactform/contactform.js"></script>
 <script src="js/main.js"></script>
-  
+
 <script>
 function openModal() {
   document.getElementById('myModal').style.display = "block";

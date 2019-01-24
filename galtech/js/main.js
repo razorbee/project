@@ -211,5 +211,12 @@
       });
     });
   }
+   $("#modeltab").click(function(){
+    $(".dropdown-menu-bar1").toggle();
+  });
+   $("#projectortab").click(function(){
+    $(".dropdown-menu-bar2").toggle();
+  });
+
 
 })(jQuery);

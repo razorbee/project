@@ -14,10 +14,10 @@
                 <div class="footer-icons">
                   <ul>
                     <li>
-                      <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                      <a href="https://www.facebook.com/galtechinfo/"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li>
-                      <a href="https://twitter.com/login?lang=en"><i class="fa fa-twitter"></i></a>
+                      <a href="https://twitter.com/search?q=galtech%20infosolutions&src=typd"><i class="fa fa-twitter"></i></a>
                     </li>
                     <li>
                       <a href="https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin"><i class="fa fa-google"></i></a>

@@ -4,57 +4,98 @@
 	<div class="bg"><img src="img/services1.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
-    <h1 style="color:#ffffff;margin-left:-40px;">Services &amp; Solutions</h1>
-    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-220px;">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"  style="color:white;"></i></a>
-<!--
-        
-           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
--->
-            <div class="btn btn-info1"  style="color:white;"><b>Services &amp; Solutions</b></div>
-        </div>
+    <h1 style="color:#ffffff;margin-left:-40px;">Services</h1>
+    
   </div>
 
     </div>
-
+<div class="container">
+    <div class="row">
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+<a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Services & solutions</b></a>
+            <div class="btn btn-info"><b>Services</b></div>
+        </div>
+    </div>
+</div>
 <section class="default-section">
     <div class="container">
         <div class="row">
         
         
-            <div class="col-md-7 col-sm-12 col-xs-12">
+            <div class="col-md-8 col-lg-8 col-xs-12">
             
             
-                <h4>Technology is the core to our business & with a strong team of Pre-sales & Services we are pleased to offer a wide range of Solutions & Services as listed below,</h4>
+                <p>Technology is the core to our business & with a strong team of Pre-sales & Services we are pleased to offer a wide range of Solutions & Services as listed below,</p>
+                <p>Galtech provide various services for the customers as their requirement.</p>
             
-                <div class="text-content">
-                    <h3>Solutions</h3>
-                    <ul class="default-list">
-                        <li><i class="fa fa-caret-right"></i> Audio Video System Ingegration</li>
-                        <li><i class="fa fa-caret-right"></i> Secured Printing Solutions</li>
-                    </ul>
-                </div>
-                
-                 <div class="text-content">
-                    <h3>Services</h3>
-                    <ul class="default-list">
-                        <li><i class="fa fa-caret-right"></i> Breakfix Services - A3 Multifunction Devices & Multimedia Projectors</li>
-                        <li><i class="fa fa-caret-right"></i> Managed Print Services</li>
-                    </ul>
-                </div>
-                
             </div>
-            
-            
-            <div class="col-md-5 col-sm-12 col-xs-12">
-                <figure class="img-box" style="margin-top:30px;">
-                    <img src="img/services.jpg" alt="" class="img-responsive" style="border-radius:20px;">
-                </figure>
-            </div>
+               <div class="col-md-4 col-lg-4 col-xs-12">
+                <figure class="img_service">
+                    <img src="img/services.jpg" alt="" class="img-responsive" style="border-radius:20px;width:500px;
+    height:200px;">
+               </figure> 
+            </div>  
         </div>
     </div>
+    <div class="container">
+                 <div class="text-content">
+               
+            
+                     <h4> Breakfix Services - A3 Multifunction Devices & Multimedia Projectors</h4>
+                       <div class="col-md-4 col-lg-4 col-xs-12">     
+                     <img src="img/breakfix.jpg" alt="" class="img-responsive" style="border-radius:20px;width:500px;
+    height:200px;">
+                     </div>
+                      <div class="col-md-4 col-lg-8 col-xs-12">
+                            <p>Have a hassle-free servicing done for your Copiers and Printers with the help of our Service Contracts.
+                           Galtech Info Solutions provide AMC – Annual Maintenance Contracts and CSMC – Comprehensive Service Maintenance Contracts. Our Sales and Service team ensures that your downtime in minimal and your productivity isn’t affected at all times. Our skilled technicians have handled large number of devices/customer and have always been a support for our customers. We ensure your machines never run out of consumables and repairs are taken care as per the contract. Our CSMC provides an edge to customers who opt for per page cost that covers the overall servicing of the machine and as well the consumables.
+                                Write to us to know more – <a href="mailto:response@galtechinfo.com">response@galtechinfo.com</a></p>
+                     </div>
+              
+        </div>
+    </div>
+     <div class="container">
+                 <div class="text-content">
+    <h4> Managed Print Services</h4>
+                         
+                      <div class="col-md-4 col-lg-8 col-xs-12">
+                        <p style="margin-left:-10px;">What is Managed Print Services and Why organisations – small or big need to manage their prints.
+Well, the answer may be very obvious. Thanks to those who created the much-needed attention over environmental sustainability and cost saving. In the digital world, the need for documents and prints has not fallen as we still have to do the hard copy documentation both internal and external.
+Managed Print Services, is not a new concept but there have been lot of addition to the functionality to make it more adaptable and user friendly for the organisations to opt for it. When we seek control and visibility of the prints at the office and that’s when Managed Print Services comes handy. A one stop solution to effectively manage the print with more ease and at reduced over all cost.
+                            Reduce the cost of printing by 30 – 40%</p>
+                     </div>
+                       <div class="col-md-4 col-lg-4 col-xs-12">     
+                     <img src="img/managedprint.png" alt="" class="img-responsive" style="border-radius:20px;width:500px;
+    height:200px;">
+                     </div> 
+                         
+                </div>
+                
+            </div>
+    <div class="container">
+<h5>Features</h5>
+
+                     <ul class="text-list">
+                         <li style="font-size:16px;"><i class="fa fa-caret-right"></i> <b>Pull Print feature</b> - Print from any device in the organisation.</li>
+                         <li style="font-size:16px;"><i class="fa fa-caret-right"></i> <b>Set Quotas</b> - Manage usage across departments by setting quotas & budgets</li>
+                         <li style="font-size:16px;"><i class="fa fa-caret-right"></i> <b>User Management</b> - Track & Manage User wise Usage to optimise usage.</li>
+                         <li style="font-size:16px;"><i class="fa fa-caret-right"></i> <b>Remote Maintenance</b> – Firmware Updates & Trouble shooting can be done remotely.</li>
+    </ul>
+<h5 style=margin-top:15px;"">Benefits of Managed Print Services</h5>
+<ul class="text-list">
+    <li style="font-size:16px;"><i class="fa fa-caret-right"></i> Control and monitor all the Printers, Copiers and Multifunction Printers under one platform in the premises.</li>
+    <li style="font-size:16px;"><i class="fa fa-caret-right"></i> Track the usage of cartridges and plan stocking accordingly. Less downtime – Never have to stop printing.</li>
+    <li style="font-size:16px;"><i class="fa fa-caret-right"></i> Repairing and ordering for spare parts made simpler and trackable with Managed Print Services</li>
+    <li style="font-size:16px;"><i class="fa fa-caret-right"></i> Cut costs on Printing, Consumables and Service</li>
+    <li style="font-size:16px;"><i class="fa fa-caret-right"></i> Save energy by monitoring the usage</li>
+        </ul>         
+    </div>   
+            
+          
     
-    
+
 </section>
 
 

@@ -1,3 +1,4 @@
+
 <?php include('head.php');?>
 <?php include('header.php');?>
 
@@ -6,16 +7,22 @@
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:black">Ultra Short Throw</h1>
-    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-220px;">
+    
+  </div>
+
+    </div>
+
+<div class="container">
+    <div class="row">
+		
+        div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-220px;">
             <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Multimedia Projector</b></a>
            <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
             <div class="btn btn-info1"><b>Ultra Short Throw</b></div>
         </div>
-  </div>
-
-    </div>
+	</div>
 
 <section class="blog-section">
 <div class="container">

@@ -3,15 +3,21 @@
 <div class="bg"><img src="img/images.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
-    <h1 style="color:#000000; margin-left:-40px;">About Us</h1>
-    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-320px;margin-top:20px;">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block">...</div>
-            <div class="btn btn-info1"><b>About Us</b></div>
-        </div>
+    <h1 style="color:#000000;">About Us</h1>
+    
   </div>
 
     </div>
+ <div class="container">
+    <div class="row">
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
+            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+           <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
+            <div class="btn btn-info"><b>About Us</b></div>
+        </div>
+	</div>
+</div>
  
 <section class="default-section">
     <div class="container">
@@ -39,11 +45,12 @@
  </div> 
     </div>
     </section>
-    <section class="default-section" style="height:350px;margin-bottom: 15px;background-color:#f9f9f9;">
+    <section class="default-section" style="background-color:#f9f9f9;height:45%;">
+        <div class="partner_section">
      <div class="container">
         <div class="row">
             
-                   <h3  style="color: #2261a6; text-align: center;margin-top:30px;"> Our OEM Partners</h3>
+                   <h3 class="partners" style="color: #2261a6; text-align: center;margin-top:30px;">Our OEM Partners</h3>
             <div class="col-md-4 col-sm-12 col-xs-12">
                 <div class="row-img"> 
   <div class="column-img">
@@ -61,22 +68,23 @@
     </p></div>
             </div>
     </div>
+            </div>
 </section>
-<section class="default-section" style="margin-left:35px; margin-bottom: 15px;">
+<section class="default-section" >
      <div class="container">
         <div class="row">
-            
-                   <h5 class="client" style="margin-top: 50px;"> <b>Mr.Kishore Krishnan, Managing Director – Galtech Infosolutions</b></h5>
-           
+            <div class="col-md-12 col-sm-12 col-xs-12" >
+                   <h5  style="margin-top:40px;"> <b>Mr.Kishore Krishnan, Managing Director – Galtech Infosolutions</b></h5>
+    </div>
             <div class="col-md-9 col-sm-12 col-xs-12"><p>Mr.Kishore has more than 2 decades of Business & Product management experience in office automation Industry and has deep Product & Solution knowledge about Multifunction Printers, Projectors and other office automation solutions. He has worked with diverse customer base and understands the customer’s need and requirement.</p>
             <p>Connect with him through Linkedin – <a href=" https://www.linkedin.com/in/kishore-krishnan/">www.linkedin.com/in/kishore-krishnan</a></p></div>
-             <div class="col-md-3 col-sm-12 col-xs-12"><img src="img/Kishore-Krishnan.jpg" alt="" class="img-responsive" style="height:100%; border-radius:20px;margin-top:-100px;"></div>
+             <div class="col-md-3 col-sm-12 col-xs-12"><img src="img/Kishore-Krishnan.jpg" alt="" class="img-responsive_client" style=" border-radius:20px;"></div>
             </div>
     </div>
 </section>
 
 
-<section class="parallax center" style="background-image: url(img/background/1.jpg);">
+<section class="parallax center" style="background-image: url(img/background/1.jpg);margin-top:50px;">
   <div class="container">
         <h1>Endless possibilities & opportunities.</h1>
         <div class="text">

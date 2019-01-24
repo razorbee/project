@@ -3,109 +3,7 @@
     
     <style>
     
-/*--------------------------------------------------------------
-## Top header Style
---------------------------------------------------------------*/
 
-.top-header {
-    float: left;
-    width: 100%;
-}
-
-.top-header {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background: #1e5490;
-}
-
-.top-left {
-    float: left;
-}
-
-.top-right {
-    float: right;
-}
-
-.top-left span {
-    color: #fff;
-    margin-right: 15px;
-    line-height: 1;
-    font-size: 14px;
-}
-
-.top-left span i {
-    color: #fff;
-    margin-right: 10px;
-}
-
-.top-menu-content .menu {
-    float: left;
-    list-style: none;
-    margin:0;
-}
-
-.top-menu-content .menu li {
-    display: inline-block;
-    line-height: 1;
-}
-
-.top-menu-content .menu li a{
-    color: #fff;
-    display: block;
-    font-size: 14px;
-    font-weight: normal;
-    position: relative;
-    z-index: 99;
-    text-transform: capitalize;
-    padding: 0px 15px;
-    line-height: 1;
-    position: relative;
-}
-
-.top-header .business_point_widget_social li {
-    margin:0;
-}
-
-.top-header .business_point_widget_social li a {
-    height: auto;
-    width: auto;
-    border:0;
-    line-height: 1;
-    padding: 0px 15px;
-    position: relative;
-    transform: none !important;
-}
-
-.top-header .business_point_widget_social ul li a::before {
-    color: #fff;
-    font-size: 14px;
-    line-height: 1;
-    transform: none !important;
-}
-
-.top-header .business_point_widget_social li a:hover {
-    background: transparent !important;
-    border:0px;
-}
-    .top-menu-content .menu li a:after,
-.top-header .business_point_widget_social li a:after {
-    content:"";
-    position: absolute;
-    top: 0;
-    right: 0;
-    height: 100%;
-    width: 1px;
-    background: #fff;
-
-    -webkit-transform: rotate(35deg); /* Ch <36, Saf 5.1+, iOS < 9.2, An =<4.4.4 */
-      -ms-transform: rotate(35deg); /* IE 9 */
-          transform: rotate(35deg); /* IE 10, Fx 16+, Op 12.1+ */
-}
-
-.top-menu-content .menu li:last-child a:after ,
-.top-header .business_point_widget_social li:last-child a:after{
-    display: none;
-}
     </style>
   
     
@@ -142,6 +40,7 @@
             <!-- Navigation -->
             <nav class="navbar navbar-default">
               <!-- Brand and toggle get grouped for better mobile display -->
+                <a href="#" id="menu-icon"></a>
               <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".bs-example-navbar-collapse-1" aria-expanded="false">
 										<span class="sr-only">Toggle navigation</span>
@@ -168,13 +67,16 @@
                   
                       <li id="producttab" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
-                      <li><a href=#>Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
-                          <ul class="dropdown-menu-bar" role="menu">
+                      <li><a href="dropdown-menu-bar" class="dropdown-toggle" data-toggle="dropdown">Toshiba Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
+                          <ul
+                              class="dropdown-menu-bar" role="menu">
                               <li id="b/wmodeltab"><a href="b_w_models.php">B/w Models </a></li>
                             <li id="colormodeltab"><a href="color_models.php">Color Models</a></li>
                           </ul>
                         </li>
-                      <li><a href=#>Multimedia Projectors <span class="fa fa-caret-right"></span></a>
+                      
+<!--
+                        <li><a href=#>Multimedia Projectors <span class="fa fa-caret-right"></span></a>
                         <ul class="dropdown-menu-bar" role="menu" style="margin-top:30px;">
                               <li><a href="super_short_throw.php">Super Short Throw</a></li>
                             <li><a href="ultra_interactive_short_throw.php">Ultra Interactive Short Throw</a></li>
@@ -185,15 +87,30 @@
                             <li><a href="dlp.php">DLP</a></li>
                             <li><a href="led.php">LED</a></li>
                           </ul></li>
+-->
+                        <li><a href="#">Hitachi Multimedia Projectors <span class="fa fa-caret-right"></span></a>
+                        <ul class="dropdown-menu-bar" role="menu" style="margin-top:30px;">
+                             <li><a href="portables.php">Portable Models</a></li>
+                              <li><a href="multipurpose.php">Multipurpose</a></li>
+                            <li><a href="f1series.php">F1 Series</a></li>
+                            <li><a href="short_throw.php">Short Throw</a></li>
+                            <li><a href="laser.php">Laser</a></li>
+                            <li><a href="installation_professional.php"> Installation / Professional Series</a></li>
+                            </ul></li>
                         <li><a href="interactive_display.php">Interactive flat panel display</a></li>
                         <li><a href="wireless.php">Wireless Presentation devices</a></li>
+<!--                        <li><a href="hitachi_multimedia.php">Hitachi Multimedia Projectors</a></li>-->
                     </ul> 
                   </li>
-                  <li id="servicetab">
-                    <a class="page-scroll" href="services.php">Services &amp; Solutions</a>
+                  
+                                          <li id="servicetab" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Services &amp; Solutions<span class="caret"></span></a>
+                      <ul class="dropdown-menu" role="menu">
+                          <li><a href="services.php">Services</a></li>
+                          <li><a href="solutions.php">Solutions</a></li>
+                      </ul>
                   </li>
                   <li id="newstab">
-                    <a class="page-scroll" href="news.php">News</a>
+                    <a class="page-scroll" href="news1.php">News</a>
                   </li>
 
                   <li id="careertab" class="dropdown"><a class="page-scroll" href="careers.php">Careers</a>

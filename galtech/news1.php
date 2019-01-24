@@ -84,7 +84,7 @@
             </div>
             <div class="col-md-5 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="img/galtech-info-solutions.jpg" alt="" class="img-responsive">
+                    <img src="img/news.jpg" alt="" class="img-responsive" style="height:500px;">
                 </figure>
             </div>
         </div>
@@ -103,10 +103,11 @@
 
 <div class="carousel-wrap">
   <div class="owl-carousel">
-  
-      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release1.pdf" target="_blank">3 DECEMBER Toshiba Launches Brand-Building Global Advertising Campaign</a></p></div>
-      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release2.pdf" target="_blank">26 SEPTEMBER Toshiba Announces New Global Brand Identity, The "Essence of Toshiba"</a></p></div>
-      <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release3.pdf" target="_blank">23 AUGUST Toshiba Carrier Establishes New Joint Venture in India</a></p></div>
+        <div class="item"><img src="img/news.jpg"><p> Toshiba TEC Singapore inks partnership with Galtech Infosolutions for MFP</p></div>
+      <div class="item"><img src="img/news1.png"><p> Toshiba and galtech partners meet invitation</p></div>
+      <div class="item"><img src="img/news2.jpg"><p>Channel meet at Chennai </p></div>
+      <div class="item"><img src="img/news3.jpg"><p>Kishore krishnan speech</p></div>
+<!--
       <div class="item"><img src="img/color_models/toshiba_assembly.jpg"><p><a href="img/color_models/toshiba_press_release5.pdf" target="_blank">1 MAY TPSC Expands Water Turbines Assembly line in India</a></p></div>
       <div class="item"><img src="img/color_models/toshiba_takashi.jpg"><p><a href="img/color_models/toshiba_press_release6.pdf" target="_blank">
 17 APRIL TOSHIBA Software India appoints Mr Takashi Ishikawa as new MD </a></p></div>
@@ -119,6 +120,7 @@
       <div class="item"><img src="img/color_models/toshiba_junichi.jpg"><p><a href="img/color_models/toshiba_press_release10.pdf" target="_blank">
 6 JULY Mr. Junichi Kyushima Appointed as Managing Director, Toshiba Johnson Elevators (India) Pvt. Ltd.</a></p></div>
       <div class="item"><img src="img/color_models/toshiba_logo.jpg"><p><a href="img/color_models/toshiba_press_release11.pdf" target="_blank">14 APRIL Suzuki, Toshiba and Denso reached basic agreement to establish joint venture company for production of automotive lithium-ion battery packs in India</a></p></div>
+-->
   </div>
 </div>
 <hr style="height:2em;">

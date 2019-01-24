@@ -1,20 +1,26 @@
 <?php include('head.php');?>
 <?php include('header.php');?>
 
-	<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
+<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
   -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:black">Color Models</h1>
-    <div class="btn-group btn-breadcrumb breadcrumb-default" style="margin-left:-265px;">
+    
+  </div>
+
+    </div>
+<div class="container">
+    <div class="row">
+		
+        <div class="btn-group btn-breadcrumb breadcrumb-default">
             <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Digital Copiers/Multifunction Devices</b></a>
            <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
-            <div class="btn btn-info1"><b>Color Models</b></div>
+            <div class="btn btn-info"><b>Color Models</b></div>
         </div>
-  </div>
-
-    </div>
+	</div>
+</div>
 
 
 <section class="blog-section">
@@ -32,23 +38,27 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/5508A-6508A-7508A-8508A.jpg" alt="products" class="img-responsive">
+<img src="img/2010AC-2510AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
-<h3>Toshiba Color LaserJet Managed MFP E87640</h3>
-<h4>Product number : Z8Z12A</h4>
+<h3>e2010AC</h3>
+
     
 <div class="text">
   
-<p>Optimise your printing environment</p>
-  <div class="text-box">
-<p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 40 pages per minute (ppm), letter and A4<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 250 sheets, supports media up to 11 x 17inches (A3)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 90 ipm/180 ipm (letter and A4)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
-</p>
+
+  <div class="text-boxcase">
+<ul class="product_list">
+<li> 20 Pages Per Minute,</li>
+<li> Colour, B/W</li>
+<li> 2GB RAM, 320 GB HDD</li>
+<li> Duplex, 2400X600 Print Resolution</li>
+<li> 100 Sheet Reversible ADF, 1X250+1×550 Sheets Input tray, 100 Sheets by pass tray</li>
+<li> Ethernet, Touch Screen</li>
+<li> Scan to E-mail, Save-to-Network Folder, Save-to-USB drive, Print from USB Drive</li>
+<li> Upto 73 Pages/min Scan Speed</li>
+<li> full capacity CMYK toners</li>
+</ul>
         </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
@@ -64,21 +74,25 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/5508A-6508A-7508A-8508A.jpg" alt="products" class="img-responsive">
+<img src="img/2010AC-2510AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
-<h3>Toshiba Color LaserJet Managed MFP E87650</h3>
-<h4>Product number : Z8Z14A</h4>
+<h3>e2510AC</h3>
+
 <div class="text">
-<p>Optimise your printing environment</p>
-<div class="text-box">
-<p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 50 pages per minute (ppm), letter and A4<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 250 sheets, supports media up to 11 x 17 inches (A3)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 90 ipm/180 ipm (letter and A4)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®)<br>
-</p>
+
+<div class="text-boxcase">
+<ul class="product_list">
+<li> 25 Pages Per Minute,</li>
+<li> Colour, B/W</li>
+<li> 2GB RAM, 320 GB HDD
+<li> Duplex, 2400X600 Print Resolution
+<li> 100 Sheet Reversible ADF, 1X250+1×550 Sheets Input tray, 100 Sheets by pass tray</li>
+<li> Ethernet, Touch Screen</li>
+<li> Scan to E-mail, Save-to-Network Folder, Save-to-USB drive, Print from USB Drive</li>
+<li> Upto 73 Pages/min Scan Speed</li>
+<li> full capacity CMYK toners</li>
+</ul>
     </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
@@ -94,21 +108,26 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/5508A-6508A-7508A-8508A.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
-<h3>Toshiba Color LaserJet Managed MFP E87660</h3>
-<h4>Product number : Z8Z16A</h4>
+<h3>e3015AC</h3>
+
 <div class="text">
-<p>Optimise your printing environment</p>
-<div class="text-box">
-<p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 60 pages per minute (ppm), letter and A4<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 250 sheets, supports media up to 11 x 17inches (A3)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 90 ipm/180 ipm (letter and A4)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
-</p>
+
+<div class="text-boxcase">
+<ul class="product_list">
+<li> 30 Pages Per Minute</li>
+<li> Colour, B/W</li>
+<li> 4GB RAM, 320 GB HDD</li>
+<li> Duplex, 1200×1200 Print Resolution</li>
+<li> 100 Sheet Reversible ADF, 2×550 Sheets Input tray, 100 Sheets by pass tray,</li>
+<li> Ethernet, Touch Screen</li>
+<li> Scan to E-mail, Save-to-Network Folder, Save-to-USB drive, Print from USB Drive</li>
+<li> Upto 73 Pages/min Scan Speed</li>
+<li> Upto 280 gsm thick paper through Bypass, Banner Printing-12″x47″ feature</li>
+<li> full capacity CMYK toners</li>
+</ul>
     </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
@@ -131,21 +150,26 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/5516AC-7516AC.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
-<h3>Toshiba Color LaserJet Managed MFP E77822</h3>
-<h4>Product number : Z8Z00A</h4>
+<h3>e3515AC</h3>
+
 <div class="text">
-<p>Optimise your printing environment</p>
-<div class="text-box">
-<p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 22 pages per minute (ppm), letter and A4<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 100 sheets, supports media up to 11 x 17 inches (A3)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 80 ipm/160 ipm (letter and A4)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
-</p>
+
+<div class="text-boxcase">
+<ul class="product_list">
+<li> 35 Pages Per Minute</li>
+<li> Colour, B/W</li>
+<li> 4GB RAM, 320 GB HDD</li>
+<li> Duplex, 1200×1200 Print Resolution</li>
+<li> 100 Sheet Reversible ADF, 2×550 Sheets Input tray, 100 Sheets by pass tray,</li>
+<li> Ethernet, Touch Screen</li>
+<li> Scan to E-mail, Save-to-Network Folder, Save-to-USB drive, Print from USB Drive</li>
+<li> Upto 73 Pages/min Scan Speed</li>
+<li> Upto 280 gsm thick paper through Bypass, Banner Printing-12″x47″ feature</li>
+<li> full capacity CMYK toners</li>
+</ul>
     </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
@@ -160,21 +184,26 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/5516AC-7516AC.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
-<h3>Toshiba Color LaserJet Managed MFP E77825</h3>
-<h4>Product number : Z8Z02A</h4>
+<h3>e5015AC</h3>
+
 <div class="text">
-<p>Optimise your printing environment</p>
-<div class="text-box">
-<p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 25 pages per minute (ppm), letter and A4<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 100 sheets, supports media up to 11 x 17inches (A3)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 80 ipm/160 ipm (letter and A4)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
-</p>
+
+<div class="text-boxcase">
+<ul class="product_list">
+<li> 50 Pages Per Minute</li>
+<li> Colour, B/W</li>
+<li> 4GB RAM, 320 GB HDD</li>
+<li> Duplex, 1200×1200 Print Resolution</li>
+<li> 100 Sheet Reversible ADF, 2×550 Sheets Input tray, 100 Sheets by pass tray,</li>
+<li> Ethernet, Touch Screen</li>
+<li> Scan to E-mail, Save-to-Network Folder, Save-to-USB drive, Print from USB Drive</li>
+<li> Upto 73 Pages/min Scan Speed</li>
+<li> Upto 280 gsm thick paper through Bypass, Banner Printing-12″x47″ feature</li>
+<li> full capacity CMYK toners</li>
+</ul>
     </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
@@ -191,21 +220,27 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/5516AC-7516AC.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
-<h3>Toshiba Color LaserJet Managed MFP E77830</h3>
-<h4>Product number : Z8Z04A</h4>
+<h3>e5516AC</h3>
+
 <div class="text">
-<p>Optimise your printing environment</p>
-<div class="text-box">
-<p>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Print, copy, and scan (fax and wireless optional)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Up to 30 pages per minute (ppm), letter and A4<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> 100 sheets, supports media up to 11 x 17inches (A3)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Simplex/duplex: 80 ipm/160 ipm (letter and A4)<br>
-<i style="color:#68a4e2;" class="fa fa-caret-right"></i> Send to Microsoft® SharePoint®<br>
-</p>
+
+<div class="text-boxcase">
+<ul class="product_list">
+<li> 55 Pages Per Minute</li>
+<li> Colour, B/W</li>
+<li> 4GB RAM, 320 GB HDD</li>
+<li> Duplex, 1200×1200 Print Resolution</li>
+<li> 300 Sheet Duplex Scan Document Feeder</li>
+<li> 2×540 Sheets Input tray, 120 Sheets by Pass tray, Large cap feeder – 2340 sheets</li>
+<li> Ethernet, Touch Screen</li>
+<li> Scan to E-mail, Save-to-Network Folder, Save-to-USB drive, Print from USB Drive</li>
+<li> Upto 240 Pages/min Scan Speed</li>
+<li> Paper size upto 13×19, Banner Printing (12.34″x47.2″)</li>
+<li> one set of full capacity CMYK toners</li>
+</ul>
     </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
@@ -225,12 +260,25 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="default-blog-news">
 <figure class="img-holder">
-<img src="img/5518A-6518A-7518A-8518A.jpg" alt="products" class="img-responsive">
+<img src="img/3015AC-3515AC-5015AC.jpg" alt="products" class="img-responsive">
 </figure>
 <div class="lower-content">
-<h3>Toshiba Color LaserJet Managed MFP</h3>
-<h4>Product number : E77830dn</h4>
+<h3>e7516AC</h3>
+
 <div class="text">
+    <ul class="product_list">
+<li> 75 Pages Per Minute</li>
+<li> Colour, B/W</li>
+<li> 4GB RAM, 320 GB HDD</li>
+<li> Duplex, 1200×1200 Print Resolution</li>
+<li> 300 Sheet Duplex Scan Document Feeder</li>
+<li> 2×540 Sheets Input tray, 120 Sheets by Pass tray, Large cap feeder – 2340 sheets</li>
+<li> Ethernet, Touch Screen</li>
+<li> Scan to E-mail, Save-to-Network Folder, Save-to-USB drive, Print from USB Drive</li>
+<li> Upto 240 Pages/min Scan Speed</li>
+<li> Paper size upto 13×19, Banner Printing (12.34″x47.2″)</li>
+<li> one set of full capacity CMYK toners</li>
+    </ul>
 <a href="img/products/Brochure1_toshiba.pdf"  target="_blank" class="btn btn-danger  know">Know More</a>
 <a href="contact.php" class="btn btn-info">Buy Now</a>
 </div>
@@ -239,28 +287,6 @@
 </div>
 <!--3 ENDS-->
 
-
-
-
-
-
-<!--4 BEGINS-->           
-<div class="col-md-4 col-sm-6 col-xs-12">
-<div class="default-blog-news">
-<figure class="img-holder">
-<img src="img/5518A-6518A-7518A-8518A.jpg" alt="products" class="img-responsive">
-</figure>
-<div class="lower-content">
-<h3>Toshiba Color LaserJet Managed Flow MFP</h3>
-<h4>Product number : E77830z</h4>
-<div class="text">
-<a href="img/products/Brochure1_toshiba.pdf"  target="_blank" class="btn btn-danger  know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
-</div>
-</div>
-</div>
-</div>
-<!--4 ENDS-->
 
 
 
