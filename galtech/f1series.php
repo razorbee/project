@@ -1,7 +1,7 @@
 <?php include('head.php');?>
 <?php include('header.php');?>	
-<div class="bg"><img src="img/aboutus.jpg" class="img-fluid" style="filter: blur(1px);
-  -webkit-filter: blur(1px);height:300px;">
+<div class="bg"><img src="img/4.jpg" class="img-fluid" style="filter: blur(1px);
+  -webkit-filter: blur(1px);">
        <div class="hero-text">
     <h1 style="color:#000000; margin-left:700px;">F1 Series</h1>
     
@@ -12,7 +12,7 @@
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
             
     <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Hitachi Multimedia Projectors</b></a>
@@ -54,7 +54,7 @@ Model – CP-X5550</h3>
     </ul>
    
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
      </div>
 </div>
 </div>
@@ -84,7 +84,7 @@ Model – CP-WX5500</h3>
     </ul>
     
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
     </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ Model – CP-WU5500</h3>
 </ul>
      
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
    </div>
 </div>
 </div>

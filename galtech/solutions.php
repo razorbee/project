@@ -13,7 +13,7 @@
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
 <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Services & solutions</b></a>
             <div class="btn btn-info"><b>Solutions</b></div>
         </div>
@@ -43,10 +43,10 @@
                  <div class="text-content">
                     <h3>Solutions</h3>
             
-                     <h4>Audio Video System Integration</h4>
+                     <h4><span class="fa fa-caret-right"></span> Audio Video System Integration</h4>
                       
                             
-    <h4> Secured Printing Solutions</h4>
+    <h4><span class="fa fa-caret-right"></span> Secured Printing Solutions</h4>
                      <div class="container">
                   <div class="col-md-4 col-lg-4 col-xs-12">
                 <figure class="img_service">

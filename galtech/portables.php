@@ -16,7 +16,7 @@
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Hitachi Multimedia Projectors</b></a>
            <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
@@ -54,7 +54,7 @@
 </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
 
 </div>
 </div>
@@ -82,7 +82,7 @@
 </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>
@@ -113,7 +113,7 @@
 </ul>
    
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>

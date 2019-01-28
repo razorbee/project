@@ -19,7 +19,7 @@
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Hitachi Multimedia Projectors</b></a>
            <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
@@ -63,7 +63,7 @@ Model – CP-LPWU6500  </h3>
 </ul>
     </div>      
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
  </div>
 </div>
 </div>
@@ -95,7 +95,7 @@ Model – CP-LPWU6600</h3>
        </ul>
    </div>   
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
   </div>
 </div>
 </div>
@@ -125,7 +125,7 @@ Model – CP-LPWU9750</h3>
     </ul>
     </div>
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
    </div>
 </div>
 </div>
@@ -161,7 +161,7 @@ Model –  CP-LPWU9100B</h3>
     </ul>
     </div>     
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
  </div>
 </div>
 </div>

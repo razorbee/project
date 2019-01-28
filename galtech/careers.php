@@ -13,7 +13,7 @@
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
          <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
             <div class="btn btn-info"><b>Careers</b></div>
         </div>
@@ -35,7 +35,7 @@
 
                     </div>
                    
-                   <h4>Mail your resume to : response&#64;galtechinfo.com</h4>                   
+                   <h4>Mail your resume to :<a style="color:black;" href="https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin">response@galtechinfo.com</a></h4>                   
                     
                 </div>
             </div>

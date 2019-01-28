@@ -1,5 +1,12 @@
 <?php include('head.php');?>
   <?php include('header.php');?>
+<style>
+    body,html{
+        width:100%!important;
+        height:auto;
+        overflow-x:hidden;
+    }
+</style>
   <!-- header end -->
 
   <!-- Start Slider Area -->
@@ -25,7 +32,7 @@
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h2 class="title2"  style="margin-left:-600px;">Your ultimate destination for Office<br>Automation Products and Solutions.</h2>
+                  <h2 class="title2 banner_img" style="margin-left:-600px;">Your ultimate destination for Office<br>Automation Products and Solutions.</h2>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -153,7 +160,8 @@
               <p>
                 Galtech Info solutions Pvt Ltd. is a one stop solution provider for all your Office Automation requirements. The core objective of the company is to deliver Value to all our stakeholders at every stage of our partnership.
               </p>
-                <a class="ready-btn right-btn page-scroll ready_class" href="about.php" style="width:250px;margin-left:120px;">Who we are?</a>
+                <div class="row"><a class="ready-btn right-btn page-scroll ready_class" href="about" style="width:250px;margin-left:120px;">Who we are?</a>
+                    </div>
 <!--
               <ul>
                 <li>
@@ -203,7 +211,7 @@
                   <a class="services-icon">
 											<img src="img/toshiba_product1.jpg">
 										</a>
-                    <h4><a href="color_models.php">Toshiba Digital Copiers</a></h4>
+                    <h4><a href="color_models">Toshiba Digital Copiers</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -221,7 +229,7 @@
                       
 											
 										</a>
-                    <h4><a href="laser.php">Laser</a></h4>
+                    <h4><a href="laser">Laser</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -238,7 +246,7 @@
                   <a class="services-icon" href="#">
 											<img src="img/product3.jpg">
 										</a>
-                    <h4><a href="b_w_models.php">Multifunction Devices</a></h4>
+                    <h4><a href="b_w_models">Multifunction Devices</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -256,7 +264,7 @@
 											
                       <img src="img/products/ed_x32.jpg">
 										</a>
-                    <h4><a href="portables.php">Hitachi Multimedia Projectors</a></h4>
+                    <h4><a href="portables">Hitachi Multimedia Projectors</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -275,7 +283,7 @@
                       <img src="img/ifd.png">
 											
 										</a>
-               <h4><a href="interactive_display.php">Interactive Flat  Panel Display</a></h4>
+               <h4><a href="interactive_display">Interactive Flat  Panel Display</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -292,7 +300,7 @@
                 <div class="single-services">
                   <a class="services-icon" href="#">
                       <img src="img/AirStreamUno.jpg"></a>
-                    <h4><a href="wireless.php">Wireless Presentation Devices</a></h4>
+                    <h4><a href="wireless">Wireless Presentation Devices</a></h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p>
@@ -406,7 +414,7 @@
           <div class="suscribe-text text-center">
             <h4 style="color:#fff;">&ldquo;Print is the sharpest and the strongest weapon of our party	&rdquo;</h4>
               <h5 class="subscribe">--<i>Joseph Stalin</i></h5>
-<!--            <a class="sus-btn" href="about.php">Explore us</a>-->
+<!--            <a class="sus-btn" href="about">Explore us</a>-->
           </div>
         </div>
       </div>

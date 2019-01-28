@@ -15,7 +15,7 @@
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
             
     <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Portable Models</b></a>
@@ -56,7 +56,7 @@ Model – CPX8160 with Std Lens</h3>
 </ul>
     
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
     </div>
 </div>
 </div>
@@ -84,7 +84,7 @@ Model – CPX8170 with Std Lens</h3>
 
        
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
  </div>
 </div>
 </div>
@@ -110,7 +110,7 @@ Model – CPX8800 without Lens</h3>
      </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
 
         </div>
 </div>
@@ -145,7 +145,7 @@ Model –  CPX9110</h3>
     </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
         </div>
 </div>
 </div>
@@ -171,7 +171,7 @@ Model –  CPWX8650</h3>
     </ul>
   
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
       </div>
 </div>
 </div>
@@ -199,7 +199,7 @@ Model – CPWX8750</h3>
     </ul>
       
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
   </div>
 </div>
 </div>
@@ -232,7 +232,7 @@ Model –  CPWX9210</h3>
     </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
         </div>
 </div>
 </div>
@@ -261,7 +261,7 @@ Model –  CPWU8700</h3>
 
      
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
    </div>
 </div>
 </div>
@@ -288,7 +288,7 @@ Model –  CPWU9410</h3>
 
     
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
     </div>
 </div>
 </div>
@@ -313,7 +313,7 @@ Model –  CPWU9210</h3>
        </ul>
    
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
     </div>
 </div>
 </div>

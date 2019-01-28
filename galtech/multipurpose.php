@@ -16,7 +16,7 @@
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Products</b></a>
             <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Hitachi Multimedia Projectors</b></a>
            <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
@@ -57,7 +57,7 @@ Model – CP-EX3051WN</h3>
     </ul>
        
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
  </div>
 </div>
 </div>
@@ -86,7 +86,7 @@ Model – CP-EW3051WN</h3>
     </ul>
    
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
      </div>
 </div>
 </div>
@@ -115,7 +115,7 @@ Model – CP-X3542WN</h3>
     </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
         </div>
 </div>
 </div>
@@ -151,7 +151,7 @@ Model –  CP-X4042WN</h3>
     </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
         </div>
 </div>
 </div>
@@ -179,7 +179,7 @@ Model –  CP-EU4051WN</h3>
     </ul>
      
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
    </div>
 </div>
 </div>
@@ -209,7 +209,7 @@ Model –  CP-EU4501WN</h3>
     </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
         </div>
 </div>
 </div>
@@ -243,7 +243,7 @@ Model –  CP-EX5001</h3>
     </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
         </div>
 </div>
 </div>
@@ -275,7 +275,7 @@ Model –  CP-EW5001</h3>
     </ul>
 
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
         </div>
 </div>
 </div>
@@ -301,7 +301,7 @@ Model –  CP-EU5001</h3>
     </ul>
         
 <a href="img/products/Brochure1_toshiba.pdf" target="_blank" class="btn btn-danger know">Know More</a>
-<a href="contact.php" class="btn btn-info">Buy Now</a>
+<a href="contact" class="btn btn-info">Buy Now</a>
 </div>
 </div>
 </div>

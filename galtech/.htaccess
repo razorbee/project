@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^(index|about|b_w_models|color_models|portables|multipurpose|f1series|short_throw|laser|installation_professional|interactive_display|wireless|services|solutions|news1|careers|contact|business)$ $1.php [NC,L]

@@ -3,7 +3,7 @@
     
     <style>
     
-
+overflow-x:hidden;
     </style>
   
     
@@ -49,7 +49,7 @@
 										<span class="icon-bar"></span>
 									</button>
                 <!-- Brand -->
-                <a class="navbar-brand page-scroll sticky-logo" href="index.php">
+                <a class="navbar-brand page-scroll sticky-logo" href="index">
                   
                 
                   <img class="logoimg" src="img/galtech_logo.png" alt="galtechlogo" title="galtechlogo">
@@ -59,19 +59,18 @@
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
                 <ul class="nav navbar-nav navbar-right">
                   <li id="hometab">
-                    <a class="page-scroll" href="index.php">Home</a>
+                    <a class="page-scroll" href="index">Home</a>
                   </li>
                   <li id="aboutustab">
-                    <a  class="page-scroll" href="about.php">About Us</a>
+                    <a  class="page-scroll" href="about">About Us</a>
                   </li>
                   
                       <li id="producttab" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-                      <li><a href="dropdown-menu-bar" class="dropdown-toggle" data-toggle="dropdown">Toshiba Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
-                          <ul
-                              class="dropdown-menu-bar" role="menu">
-                              <li id="b/wmodeltab"><a href="b_w_models.php">B/w Models </a></li>
-                            <li id="colormodeltab"><a href="color_models.php">Color Models</a></li>
+                    <ul class="dropdown-menu" role="menu" class="product_class">
+                      <li><a href="#" class="dropdown-toggle main-menuclass" data-toggle="dropdown" white-space: normal;>Toshiba Digital Copiers/Multifunction Devices <span class="fa fa-caret-right"></span></a>
+                          <ul class="dropdown-menu-bar" role="menu" style=" margin-left: 395px;">
+                              <li id="b/wmodeltab"><a href="b_w_models">B/w Models </a></li>
+                            <li id="colormodeltab"><a href="color_models">Color Models</a></li>
                           </ul>
                         </li>
                       
@@ -88,38 +87,38 @@
                             <li><a href="led.php">LED</a></li>
                           </ul></li>
 -->
-                        <li><a href="#">Hitachi Multimedia Projectors <span class="fa fa-caret-right"></span></a>
-                        <ul class="dropdown-menu-bar" role="menu" style="margin-top:30px;">
-                             <li><a href="portables.php">Portable Models</a></li>
-                              <li><a href="multipurpose.php">Multipurpose</a></li>
-                            <li><a href="f1series.php">F1 Series</a></li>
-                            <li><a href="short_throw.php">Short Throw</a></li>
-                            <li><a href="laser.php">Laser</a></li>
-                            <li><a href="installation_professional.php"> Installation / Professional Series</a></li>
+                        <li><a href="#" class="project">Hitachi Multimedia Projectors <span class="fa fa-caret-right"></span></a>
+                        <ul class="dropdown-menu-bar" role="menu" style=" margin-left: 395px;">
+                             <li><a href="portables">Portable Models</a></li>
+                              <li><a href="multipurpose">Multipurpose</a></li>
+                            <li><a href="f1series">F1 Series</a></li>
+                            <li><a href="short_throw">Short Throw</a></li>
+                            <li><a href="laser">Laser</a></li>
+                            <li><a href="installation_professional"> Installation / Professional Series</a></li>
                             </ul></li>
-                        <li><a href="interactive_display.php">Interactive flat panel display</a></li>
-                        <li><a href="wireless.php">Wireless Presentation devices</a></li>
+                        <li><a href="interactive_display">Interactive flat panel display</a></li>
+                        <li><a href="wireless">Wireless Presentation devices</a></li>
 <!--                        <li><a href="hitachi_multimedia.php">Hitachi Multimedia Projectors</a></li>-->
                     </ul> 
                   </li>
                   
                                           <li id="servicetab" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Services &amp; Solutions<span class="caret"></span></a>
                       <ul class="dropdown-menu" role="menu">
-                          <li><a href="services.php">Services</a></li>
-                          <li><a href="solutions.php">Solutions</a></li>
+                          <li><a href="services">Services</a></li>
+                          <li><a href="solutions">Solutions</a></li>
                       </ul>
                   </li>
                   <li id="newstab">
-                    <a class="page-scroll" href="news1.php">News</a>
+                    <a class="page-scroll" href="news1">News</a>
                   </li>
 
-                  <li id="careertab" class="dropdown"><a class="page-scroll" href="careers.php">Careers</a>
+                  <li id="careertab" class="dropdown"><a class="page-scroll" href="careers">Careers</a>
                   </li>
                   <li id="contacttab">
-                    <a class="page-scroll" href="contact.php">Contact</a>
+                    <a class="page-scroll" href="contact">Contact</a>
                   </li>
                     <li id="businesstab">
-                    <a class="page-scroll" href="business.php">Business</a>
+                    <a class="page-scroll" href="business">Business</a>
                   </li>
                 </ul>
               </div>

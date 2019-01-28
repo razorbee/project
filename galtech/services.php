@@ -13,7 +13,7 @@
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
 <a href="#" class="btn btn-default visible-lg-block visible-md-block"><b>Services & solutions</b></a>
             <div class="btn btn-info"><b>Services</b></div>
         </div>
@@ -43,7 +43,7 @@
                  <div class="text-content">
                
             
-                     <h4> Breakfix Services - A3 Multifunction Devices & Multimedia Projectors</h4>
+                     <h4 style="margin-top:20px;"> Breakfix Services - A3 Multifunction Devices & Multimedia Projectors</h4>
                        <div class="col-md-4 col-lg-4 col-xs-12">     
                      <img src="img/breakfix.jpg" alt="" class="img-responsive" style="border-radius:20px;width:500px;
     height:200px;">
@@ -51,14 +51,15 @@
                       <div class="col-md-4 col-lg-8 col-xs-12">
                             <p>Have a hassle-free servicing done for your Copiers and Printers with the help of our Service Contracts.
                            Galtech Info Solutions provide AMC – Annual Maintenance Contracts and CSMC – Comprehensive Service Maintenance Contracts. Our Sales and Service team ensures that your downtime in minimal and your productivity isn’t affected at all times. Our skilled technicians have handled large number of devices/customer and have always been a support for our customers. We ensure your machines never run out of consumables and repairs are taken care as per the contract. Our CSMC provides an edge to customers who opt for per page cost that covers the overall servicing of the machine and as well the consumables.
-                                Write to us to know more – <a href="mailto:response@galtechinfo.com">response@galtechinfo.com</a></p>
+                                Write to us to know more – <a href="https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin">response@galtechinfo.com</a>
+</p>
                      </div>
               
         </div>
     </div>
      <div class="container">
                  <div class="text-content">
-    <h4> Managed Print Services</h4>
+    <h4 style="margin-top:20px;"> Managed Print Services</h4>
                          
                       <div class="col-md-4 col-lg-8 col-xs-12">
                         <p style="margin-left:-10px;">What is Managed Print Services and Why organisations – small or big need to manage their prints.

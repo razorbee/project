@@ -89,7 +89,7 @@ if(!isset($error) || empty($error)){
     <div class="row">
 		
         <div class="btn-group btn-breadcrumb breadcrumb-default">
-            <a href="index.php" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+            <a href="index" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
          <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div>
             <div class="btn btn-info"><b>Business</b></div>
         </div>
@@ -253,11 +253,26 @@ if(!isset($error) || empty($error)){
 </div>
 <div class="row">
 <div class="col-lg-12">
-<div class="form-group"><label for="text">Please mention the brand/products for which you are dealers/distributors (if any):<span style="color:red;">*</span></label>
-<input id="brands" class="form-control" name="products" type="text" pattern="^[a-zA-Z0-9][\,]|[\&amp;]|[\w]|[\s]|[\-][a-zA-Z0-9] |[a-zA-Z0-9] *$" placeholder="Brands/Products" required="">
+<div class="form-group">
+    <label for="text">Please mention the brand/products for which you are dealers/distributors (if any):<span style="color:red;">*</span></label>
+
+    
+    <select id="brands" class="form-control" name="brands" required="">
+<option selected="selected" value="Select Brands" disabled="disabled">Select Product</option>
+<option value="B/W Models">B/W Models</option>
+<option value="Color Models">Color Models</option>
+<option value="Hitachi Multipurpose projector">Hitachi Multipurpose projector</option>
+<option value="Portable projector">Portable projector</option>
+<option value="Laser">Laser </option>
+<option value="Short throw">Short throw</option>
+<option value="F1 series">F1 series </option>
+<option value="Installation/Professional series">Installation/Professional series</option>
+<option value="Interactive Flat Panel display">Interactive Flat Panel display</option>
+<option value="Wireless Presentation Devices">Wireless Presentation Devices</option>
+    </select>
+    </div>
 </div>
-</div>
-</div>
+    </div>
 <div class="row">
 <div class="col-lg-12">
 <div class="form-group">
