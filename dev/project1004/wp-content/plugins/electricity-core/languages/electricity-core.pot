@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Electricity Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-23 10:29+0600\n"
+"PO-Revision-Date: 2018-01-23 10:29+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SmartDataSoft <support@smartdatasoft.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: D:\\MAMP\\htdocs\\wp-themes\\electrician\\wp-content"
+"\\plugins\\electricity-core\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/config.meta.box.php:28
+msgid "Our Coupons Meta Fields"
+msgstr ""
+
+#: lib/config.meta.box.php:37 lib/config.meta.box.php:38
+msgid "Coupon Top Left"
+msgstr ""
+
+#: lib/config.meta.box.php:43 lib/config.meta.box.php:44
+msgid "Coupon Top Right Title"
+msgstr ""
+
+#: lib/config.meta.box.php:49 lib/config.meta.box.php:50
+msgid "Coupon Top Right Percentance"
+msgstr ""
+
+#: lib/config.meta.box.php:55 lib/config.meta.box.php:56
+msgid "Coupon Top Right Content"
+msgstr ""
+
+#: lib/config.meta.box.php:61 lib/config.meta.box.php:62
+msgid "Coupon Bottom Right"
+msgstr ""
+
+#: lib/config.meta.box.php:67 lib/config.meta.box.php:68
+msgid "Coupon Bottom Right Image"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:10 lib/sds_cpt_gallery.php:11
+msgid "Gallery"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:12
+msgid "Add New"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:13
+msgid "Add New Gallery"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:14
+msgid "Edit Gallery"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:15
+msgid "New Gallery"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:16
+msgid "View Gallery"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:17
+msgid "Search Gallery"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:18
+msgid "No Gallery found"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:19
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:34
+msgid "gallery"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:38
+msgctxt "portfolio categories"
+msgid "Gallery Categories"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:39
+msgctxt "portfolio category"
+msgid "Gallery Category"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:40
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:41
+msgid "All Gallery Categories"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:42
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:43
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:44
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:45
+msgid "Update Gallery Category"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:46
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:47
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: lib/sds_cpt_gallery.php:48
+msgid "Gallery Category"
+msgstr ""
+
+#: lib/sidebar_generator.php:184
+msgid "Sidebar Generator"
+msgstr ""
+
+#: lib/sidebar_generator.php:185
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors. A CSS class is assigned to each of your sidebar, use this styling "
+"to customize the sidebars."
+msgstr ""
+
+#: lib/sidebar_generator.php:188
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: lib/sidebar_generator.php:193
+msgid "Name"
+msgstr ""
+
+#: lib/sidebar_generator.php:194
+msgid "CSS class"
+msgstr ""
+
+#: lib/sidebar_generator.php:195
+msgid "Remove"
+msgstr ""
+
+#: lib/sidebar_generator.php:208
+msgid "Remove this sidebar"
+msgstr ""
+
+#: lib/sidebar_generator.php:208
+msgid "remove"
+msgstr ""
+
+#: lib/sidebar_generator.php:216
+msgid "No Sidebars defined"
+msgstr ""
+
+#: lib/vc_shortcodes.php:86
+msgid "Mask Image"
+msgstr ""
+
+#: lib/vc_shortcodes.php:334
+msgid "All"
+msgstr ""
+
+#: lib/vc_shortcodes.php:384
+msgid "View"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:7
+msgctxt "Post Type General Name"
+msgid "Coupons"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:8
+msgctxt "Post Type Singular Name"
+msgid "Coupon"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:9
+msgid "Coupons"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:10
+msgid "Coupon"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:11 post_type/custom_post_services.php:10
+msgid "Item Archives"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:12 post_type/custom_post_services.php:11
+msgid "Parent Item:"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:13
+msgid "All Coupons"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:14 post_type/custom-post-coupon.php:15
+msgid "Add New Coupon"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:16 post_type/custom_post_services.php:15
+msgid "New Service Item"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:17
+msgid "Edit Coupon Item"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:18
+msgid "Update Coupon Item"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:19
+msgid "View Coupon Item"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:20 post_type/custom_post_services.php:19
+msgid "Search Item"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:21 post_type/custom_post_services.php:20
+msgid "Not found"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:22 post_type/custom_post_services.php:21
+msgid "Not found in Trash"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:23 post_type/custom_post_services.php:22
+msgid "Featured Image"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:24 post_type/custom_post_services.php:23
+msgid "Set featured image"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:25 post_type/custom_post_services.php:24
+msgid "Remove featured image"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:26 post_type/custom_post_services.php:25
+msgid "Use as featured image"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:27 post_type/custom_post_services.php:26
+msgid "Insert into item"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:28 post_type/custom_post_services.php:27
+msgid "Uploaded to this item"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:29 post_type/custom_post_services.php:28
+msgid "Items list"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:30 post_type/custom_post_services.php:29
+msgid "Items list navigation"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:31 post_type/custom_post_services.php:30
+msgid "Filter items list"
+msgstr ""
+
+#: post_type/custom-post-coupon.php:36 post_type/custom_post_services.php:44
+msgid "Description."
+msgstr ""
+
+#: post_type/custom_post_services.php:6
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr ""
+
+#: post_type/custom_post_services.php:7
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: post_type/custom_post_services.php:8
+msgid "Services"
+msgstr ""
+
+#: post_type/custom_post_services.php:9
+msgid "Service"
+msgstr ""
+
+#: post_type/custom_post_services.php:12
+msgid "All Services"
+msgstr ""
+
+#: post_type/custom_post_services.php:13 post_type/custom_post_services.php:14
+msgid "Add New Service"
+msgstr ""
+
+#: post_type/custom_post_services.php:16
+msgid "Edit Service Item"
+msgstr ""
+
+#: post_type/custom_post_services.php:17
+msgid "Update Service Item"
+msgstr ""
+
+#: post_type/custom_post_services.php:18
+msgid "View Service Item"
+msgstr ""
+
+#: shortcode/shortcode_coupon.php:66
+msgid "Print Now!"
+msgstr ""
+
+#: shortcode/shortcode_latest_news.php:35
+msgid "Read more"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:12
+msgid "No contact forms found"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:31
+msgid "Button Action"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:41
+msgid "Select contact form for Pop Up Id"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:45
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:55
+msgid "Pop Up Location To Open"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:71
+msgid "Icon library"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:73 vc_element/vc_map_testimonials.php:7
+#: vc_element/vc_map_testimonials.php:117
+msgid "Electrician"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:74
+msgid "Font Awesome"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:75
+msgid "Open Iconic"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:76
+msgid "Typicons"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:77
+msgid "Entypo"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:78
+msgid "Linecons"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:79
+msgid "Mono Social"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:82
+msgid "Select icon library."
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:86
+#: vc_element/vc_map_action_button.php:103
+#: vc_element/vc_map_action_button.php:120
+#: vc_element/vc_map_action_button.php:137
+#: vc_element/vc_map_action_button.php:153
+#: vc_element/vc_map_action_button.php:170
+#: vc_element/vc_map_action_button.php:189
+msgid "Icon"
+msgstr ""
+
+#: vc_element/vc_map_action_button.php:99
+#: vc_element/vc_map_action_button.php:116
+#: vc_element/vc_map_action_button.php:133
+#: vc_element/vc_map_action_button.php:166
+#: vc_element/vc_map_action_button.php:185
+#: vc_element/vc_map_action_button.php:204
+msgid "Select icon from library."
+msgstr ""
+
+#: vc_element/vc_map_coupns.php:11
+msgid "Posts Per Page"
+msgstr ""
+
+#: vc_element/vc_map_coupns.php:18
+msgid "Column No"
+msgstr ""
+
+#: vc_element/vc_map_coupns.php:24 vc_element/vc_map_latest_news.php:45
+#: vc_element/vc_map_service_item.php:15 vc_element/vc_map_service_item.php:66
+msgid "Extra Class"
+msgstr ""
+
+#: vc_element/vc_map_latest_news.php:12 vc_element/vc_map_service_item.php:47
+#: vc_element/vc_map_testimonials.php:125 widget/sevice_contact_address.php:33
+msgid "Title"
+msgstr ""
+
+#: vc_element/vc_map_latest_news.php:20
+msgid "Date"
+msgstr ""
+
+#: vc_element/vc_map_latest_news.php:28 vc_element/vc_map_service_item.php:41
+msgid "Description text"
+msgstr ""
+
+#: vc_element/vc_map_latest_news.php:34 vc_element/vc_map_service_item.php:55
+msgid "Thumbnail Image"
+msgstr ""
+
+#: vc_element/vc_map_service_item.php:20
+msgid "No Of Column"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:4
+msgid "Electrician Testimonials"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:15
+msgid "Style"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:26
+msgid "Heading"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:37
+msgid "Heading color"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:47
+msgid "How many slides to show"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:49 vc_element/vc_map_testimonials.php:56
+#: vc_element/vc_map_testimonials.php:67 vc_element/vc_map_testimonials.php:78
+#: vc_element/vc_map_testimonials.php:85 vc_element/vc_map_testimonials.php:96
+#: vc_element/vc_map_testimonials.php:107
+msgid "Slider Settings"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:54
+msgid "How many slides to scroll"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:61
+msgid "Enable Infinite Scroll"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:72
+msgid "Enable Autoplay"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:83
+msgid "Autoplay Speed"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:90
+msgid "Enable Arrows"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:101
+msgid "Enable Dots"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:114
+msgid "Electrician Testimonials Item"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:132
+msgid "Review Text"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:139
+msgid "Reviewer Name"
+msgstr ""
+
+#: vc_element/vc_map_testimonials.php:145
+msgid "Company"
+msgstr ""
+
+#: widget/sevice_contact_address.php:9
+msgid "Contacts"
+msgstr ""
+
+#: widget/sevice_contact_address.php:21
+msgid "Service Contact Box"
+msgstr ""
+
+#: widget/sevice_contact_address.php:23
+msgid "Side Bar Contact Box."
+msgstr ""
+
+#: widget/sevice_contact_address.php:41
+msgid "Address Title"
+msgstr ""
+
+#: widget/sevice_contact_address.php:46
+msgid "Address"
+msgstr ""
+
+#: widget/sevice_contact_address.php:51
+msgid "Phone Title"
+msgstr ""
+
+#: widget/sevice_contact_address.php:57
+msgid "Phone"
+msgstr ""
+
+#: widget/sevice_contact_address.php:62
+msgid "Work Time Title"
+msgstr ""
+
+#: widget/sevice_contact_address.php:67
+msgid "Work Time"
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:27
+msgid "Add a service custom menu to your sidebar."
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:30
+msgid "Service Custom Menu"
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:116
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:124
+msgid "Title:"
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:128 widget/update_wp_custom_menu.php:154
+msgid "Menu Link:"
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:132
+msgid "Select Menu:"
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:134
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:149
+msgid "Menu Title:"
+msgstr ""
+
+#: widget/update_wp_custom_menu.php:164
+msgid "Edit Menu"
+msgstr ""

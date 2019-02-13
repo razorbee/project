@@ -1,0 +1,75 @@
+
+---Downloaded files---
+The import files for: Electrician were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.project.razorbee.com/project1004
+Data file = /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electrician-demo-installer/demo-data/demo1/contents.xml
+Widget file = /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electrician-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electrician-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+electrician_option -> /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electrician-demo-installer/demo-data/demo1/settings.json 
+
+
+---Importing widgets---
+Services Sidebar : 
+
+Service Custom Menu - Commercial - Widget already exists
+Service Custom Menu - Industrial - Widget already exists
+Service Custom Menu - Residential - Widget already exists
+Service Contact Box - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Blog Sidebar : 
+
+Search - Search Here - Widget already exists
+Recent Posts - No Title - Widget already exists
+Tag Cloud - Popular tags - Widget already exists
+Electrician Posts Grid - Popular Posts - Widget already exists
+
+Contact Sidebar : 
+
+Text - No Title - Widget already exists
+Electrician Social Media Widget - No Title - Widget already exists
+
+Footer Column 1 : 
+
+Text - No Title - Widget already exists
+Electrician Social Media Widget - No Title - Widget already exists
+
+Footer Column 2 : 
+
+Electrician Contact List - No Title - Widget already exists
+
+Footer Column 3 : 
+
+Electrician Footer Map - No Title - Widget already exists
+
+Secondary Footer Column 1 : 
+
+Text - No Title - Widget already exists
+
+Secondary Footer Column 2 : 
+
+Text - No Title - Widget already exists
+
+Secondary Footer Column 3 : 
+
+Text - No Title - Widget already exists
+
+Woo Shop Sidebar : 
+
+Filter Products by Price - Price - Widget already exists
+Product Categories - Categories - Widget already exists
+Products - Products - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: electrician_option finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,93 @@
+
+---Downloaded files---
+The import files for: Electrician were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.project.razorbee.com/project1004
+Data file = /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electrician-demo-installer/demo-data/demo1/contents.xml
+Widget file = /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electrician-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electrician-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+electrician_option -> /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electrician-demo-installer/demo-data/demo1/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Services Sidebar : 
+
+Service Custom Menu - Commercial - Imported
+Service Custom Menu - Industrial - Imported
+Service Custom Menu - Residential - Imported
+Service Contact Box - No Title - Imported
+Text - No Title - Imported
+
+Blog Sidebar : 
+
+Search - Search Here - Imported
+Recent Posts - No Title - Imported
+Tag Cloud - Popular tags - Imported
+Electrician Posts Grid - Popular Posts - Imported
+
+Contact Sidebar : 
+
+Text - No Title - Imported
+Electrician Social Media Widget - No Title - Imported
+
+Footer Column 1 : 
+
+Text - No Title - Imported
+Electrician Social Media Widget - No Title - Imported
+
+Footer Column 2 : 
+
+Electrician Contact List - No Title - Imported
+
+Footer Column 3 : 
+
+Electrician Footer Map - No Title - Imported
+
+Secondary Footer Column 1 : 
+
+Text - No Title - Imported
+
+Secondary Footer Column 2 : 
+
+Text - No Title - Imported
+
+Secondary Footer Column 3 : 
+
+Text - No Title - Imported
+
+Woo Shop Sidebar : 
+
+Filter Products by Price - Price - Imported
+Product Categories - Categories - Imported
+Products - Products - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electrician_option finished successfully!

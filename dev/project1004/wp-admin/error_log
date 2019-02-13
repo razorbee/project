@@ -1,0 +1,9 @@
+[31-Jan-2019 06:36:56 UTC] PHP Warning:  fopen(/home/o6fz03c94a0p/public_html/project1004/wp-content/uploads/redux/test-log.log): failed to open stream: No such file or directory in /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/redux-framework/ReduxCore/inc/class.redux_helpers.php on line 395
+[31-Jan-2019 06:37:15 UTC] PHP Warning:  fopen(/home/o6fz03c94a0p/public_html/project1004/wp-content/uploads/redux/test-log.log): failed to open stream: No such file or directory in /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/redux-framework/ReduxCore/inc/class.redux_helpers.php on line 395
+[31-Jan-2019 06:40:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home/o6fz03c94a0p/public_html/project1004/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[31-Jan-2019 06:40:25 UTC] PHP Warning:  sprintf(): Too few arguments in /home/o6fz03c94a0p/public_html/project1004/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[31-Jan-2019 06:40:26 UTC] PHP Warning:  sprintf(): Too few arguments in /home/o6fz03c94a0p/public_html/project1004/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[31-Jan-2019 06:40:29 UTC] PHP Warning:  sprintf(): Too few arguments in /home/o6fz03c94a0p/public_html/project1004/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[31-Jan-2019 06:40:31 UTC] PHP Warning:  sprintf(): Too few arguments in /home/o6fz03c94a0p/public_html/project1004/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[31-Jan-2019 06:40:32 UTC] PHP Warning:  sprintf(): Too few arguments in /home/o6fz03c94a0p/public_html/project1004/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[31-Jan-2019 06:40:34 UTC] PHP Warning:  sprintf(): Too few arguments in /home/o6fz03c94a0p/public_html/project1004/wp-admin/includes/class-bulk-upgrader-skin.php on line 150

@@ -1,0 +1,1 @@
+<img src="<?php echo e(url($image != null ? $image : url('/dashboard/images/image_placeholder.jpg'))); ?>" width="120px" alt="">

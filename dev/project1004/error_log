@@ -1,0 +1,2 @@
+[31-Jan-2019 07:42:31 UTC] PHP Warning:  Use of undefined constant ELECTRICITY_IMG_URL - assumed 'ELECTRICITY_IMG_URL' (this will throw an Error in a future version of PHP) in /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electricity-core/lib/vc_shortcodes.php on line 13
+[31-Jan-2019 07:42:44 UTC] PHP Warning:  Use of undefined constant ELECTRICITY_IMG_URL - assumed 'ELECTRICITY_IMG_URL' (this will throw an Error in a future version of PHP) in /home/o6fz03c94a0p/public_html/project1004/wp-content/plugins/electricity-core/lib/vc_shortcodes.php on line 13
