@@ -20,8 +20,11 @@
     var windowpos = $(window).scrollTop() > 300;
     if (windowpos > pos.top) {
       s.addClass("stick");
+        $("#top-bar").hide();
+        
     } else {
       s.removeClass("stick");
+         $("#top-bar").show();
     }
   });
 
@@ -208,5 +211,12 @@
       });
     });
   }
+   $("#modeltab").click(function(){
+    $(".dropdown-menu-bar1").toggle();
+  });
+   $("#projectortab").click(function(){
+    $(".dropdown-menu-bar2").toggle();
+  });
+
 
 })(jQuery);
